@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Race Pace - Career App for AMS2</title>
+        <link rel="icon" type="image/png" href="icon.png" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap"
+            rel="stylesheet"
+        />
+        <link
+            rel="stylesheet"
+            href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"
+        />
+        <style>
+            :root {
+                --bg-dark: rgb(33, 33, 33);
+                --bg-card: rgb(45, 45, 45);
+                --text-primary: rgb(232, 233, 235);
+                --text-secondary: rgb(160, 164, 168);
+                --accent: rgb(76, 196, 118);
+                --accent-dark: rgb(56, 176, 98);
+            }
+
+            body {
+                background-color: var(--bg-dark);
+                color: var(--text-primary);
+            }
+
+            .bg-dark {
+                background-color: var(--bg-dark);
+            }
+            .bg-card {
+                background-color: var(--bg-card);
+            }
+            .text-primary {
+                color: var(--text-primary);
+            }
+            .text-secondary {
+                color: var(--text-secondary);
+            }
+            .accent {
+                color: var(--accent);
+            }
+            .bg-accent {
+                background-color: var(--accent);
+            }
+            .b--accent {
+                border-color: var(--accent);
+            }
+
+            .hero-gradient {
+                background: linear-gradient(
+                    135deg,
+                    var(--bg-dark) 0%,
+                    var(--bg-card) 100%
+                );
+            }
+
+            .download-btn {
+                transition: all 0.2s;
+            }
+
+            .download-btn:hover {
+                background-color: var(--accent-dark);
+                transform: translateY(-2px);
+                box-shadow: 0 8px 16px rgba(76, 196, 118, 0.3);
+            }
+
+            .feature-card {
+                transition: box-shadow 0.3s;
+            }
+
+            .feature-card:hover {
+                box-shadow: 0 4px 12px rgba(76, 196, 118, 0.2);
+            }
+
+            .section-divider {
+                height: 2px;
+                background: linear-gradient(
+                    to right,
+                    transparent,
+                    var(--accent),
+                    transparent
+                );
+            }
+
+            .feature-content {
+                display: flex;
+                gap: 2rem;
+                align-items: center;
+            }
+
+            .feature-text {
+                flex: 1;
+            }
+
+            .feature-image {
+                flex: 1;
+            }
+
+            @media (max-width: 60em) {
+                .feature-content {
+                    flex-direction: column;
+                }
+            }
+
+            h1,
+            h2 {
+                font-family: "Orbitron", sans-serif;
+            }
+        </style>
+    </head>
+    <body class="sans-serif">
+        <section class="hero-gradient pv5 ph3 bb bw2 b--accent">
+            <div class="mw8 center tc">
+                <img
+                    src="logo.png"
+                    alt="Race Pace Logo"
+                    class="w4 h4 ma-auto mb4 br3"
+                />
+                <h1 class="f1 fw4 mb3 mt0 text-primary uc">Race Pace</h1>
+                <p class="f3 fw4 text-secondary mb4">
+                    Career App for Automobilista 2
+                </p>
+                <a
+                    href="Race-Pace---Career-App-Setup.exe"
+                    class="download-btn bg-accent black fw7 ttu tracked dib ph4 pv3 br2 f4 no-underline"
+                    >Download Now</a
+                >
+            </div>
+        </section>
+
+        <main class="mw8 center ph3 pv5">
+            <section class="mb5 pb5">
+                <div class="feature-card bg-card pa4 br2 bl bw2 b--accent">
+                    <h2 class="mt0 accent f3 fw4 mb3">
+                        A Seat That Matters: The Team System
+                    </h2>
+                    <div class="feature-content">
+                        <div class="feature-text">
+                            <p class="f5 lh-copy text-secondary ma0">
+                                Race Pace introduces a dedicated team system,
+                                moving away from the standard sim experience
+                                where car choice is often just cosmetic. Here,
+                                joining a team is a consequential decision.
+                                These organizations often operate across
+                                multiple racing disciplines, and on-track
+                                performance determines a driver's trajectory
+                                within the hierarchy. Prove your worth in a
+                                junior seat to be fast-tracked into a team's
+                                premier programs. But remember: loyalty is a
+                                two-way street. Fail to meet the team's targets,
+                                and a contract offer for the next season is far
+                                from guaranteed.
+                            </p>
+                        </div>
+                        <div class="feature-image">
+                            <img
+                                src="https://placehold.co/800x500/212121/4cc476?text=Team+System"
+                                alt="Team System Screenshot"
+                                class="w-100 br2"
+                            />
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="section-divider mv5"></div>
+
+            <section class="mb5 pb5">
+                <div class="feature-card bg-card pa4 br2 bl bw2 b--accent">
+                    <h2 class="mt0 accent f3 fw4 mb3">
+                        A Living, Breathing Paddock
+                    </h2>
+                    <div class="feature-content">
+                        <div class="feature-text">
+                            <p class="f5 lh-copy text-secondary ma0">
+                                The AI aren't just names on a leaderboard; they
+                                are a fully simulated field of drivers competing
+                                for the same seats you are. They move between
+                                teams, climb the ladder, and build their own
+                                legacies. You are one driver among many in a
+                                persistent world. The app identifies rivals
+                                based on on-track behavior—if you are constantly
+                                trading paint with a specific driver, the app
+                                recognizes the rivalry. You can see a rival's
+                                background to know if you're fighting a hungry
+                                rookie or a seasoned veteran. Because these
+                                drivers follow their own career paths, a rival
+                                from a feeder series is likely to reappear on
+                                the grid seasons later, making every encounter
+                                feel personal.
+                            </p>
+                        </div>
+                        <div class="feature-image">
+                            <img
+                                src="https://placehold.co/800x500/212121/4cc476?text=AI+Drivers"
+                                alt="AI Drivers & Rivalries Screenshot"
+                                class="w-100 br2"
+                            />
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="section-divider mv5"></div>
+
+            <section class="mb5 pb5">
+                <div class="feature-card bg-card pa4 br2 bl bw2 b--accent">
+                    <h2 class="mt0 accent f3 fw4 mb3">
+                        The Full Professional Ladder
+                    </h2>
+                    <div class="feature-content">
+                        <div class="feature-text">
+                            <p class="f5 lh-copy text-secondary ma0">
+                                Experience the depth of global motorsport with
+                                over 20 series inspired by real-world racing.
+                                From the prestige of IMSA and WEC to their
+                                essential feeder series and various Carrera
+                                Cups, the structure is built for authenticity.
+                                Every calendar, track list, and race format is
+                                designed to mirror its real-life counterpart as
+                                closely as possible.
+                            </p>
+                        </div>
+                        <div class="feature-image">
+                            <img
+                                src="https://placehold.co/800x500/212121/4cc476?text=Racing+Series"
+                                alt="Racing Series Screenshot"
+                                class="w-100 br2"
+                            />
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="section-divider mv5"></div>
+
+            <section class="mb5 pb5">
+                <div class="feature-card bg-card pa4 br2 bl bw2 b--accent">
+                    <h2 class="mt0 accent f3 fw4 mb3">
+                        Spend More Time on Track, Less in Menus
+                    </h2>
+                    <div class="feature-content">
+                        <div class="feature-text">
+                            <p class="f5 lh-copy text-secondary ma0">
+                                Built to be seamless, Race Pace eliminates the
+                                need for alt-tabbing to manual entry
+                                spreadsheets. The app automatically detects
+                                final standings via telemetry and keeps AI
+                                opponents' stats updated in the background. For
+                                those wanting to run a "24 Hours of Le Mans" in
+                                a two-hour window, Smart Scaling calculates the
+                                exact time multipliers and starting times to
+                                ensure a realistic transition from dusk to dawn,
+                                perfectly synced to the preferred race length.
+                            </p>
+                        </div>
+                        <div class="feature-image">
+                            <img
+                                src="https://placehold.co/800x500/212121/4cc476?text=Smart+Scaling"
+                                alt="Smart Scaling Screenshot"
+                                class="w-100 br2"
+                            />
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="section-divider mv5"></div>
+
+            <section id="download" class="tc pv5">
+                <h2 class="f2 accent fw4 mb3">Ready to Start Your Career?</h2>
+                <p class="f4 text-secondary mb4">
+                    Download Race Pace and transform your AMS2 experience
+                </p>
+                <a
+                    href="Race-Pace---Career-App-Setup.exe"
+                    class="download-btn bg-accent black fw7 ttu tracked dib ph5 pv3 br2 f3 no-underline"
+                    >Download Now</a
+                >
+            </section>
+        </main>
+    </body>
+</html>
