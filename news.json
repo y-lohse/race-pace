@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-03-19",
+    "title": "New update: larger grids, DLC support, and a few more things.",
+    "content": "First of all, a bug in the AI difficulty ratings has been fixed. Expect new drivers to be stronger than previously exising ones. Second, head over to the settings after an update and configure which DLCs you own or not to get suggestions for alternative tracks. Aside from this the new version no longer requires the UDP Frequence setting to be set (but it doesn't hurt if you leave it on).",
+    "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-148142",
+    "linkText": "Find out more in the full changelog"
+  },
+  {
     "date": "2026-03-06",
     "title": "Custom championships, GT World Challenge and more",
     "content": "The latest version of the app brings the ability to fully customize the championships available in your new careers. You can also find out more about this in the settings of existing careers. This new version also adds the Intercontinental GT Challenge and 4 more GT World CHallenge series, and several imporvements in the UI.",
