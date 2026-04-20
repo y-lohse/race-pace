@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-04-20",
+    "title": "v16: Headlines from the media and improved rivalries",
+    "content": "In the new version, you'll start to see a news feed on the home page that will keep you up to date with the most recent developments in the racing world. Spot your next team... or you next rival. Speaking or rivals, their detection has been hugely improved. People you never actually race side by side with will now be ignored, while regular battles are more likely to lead to a long term rivalry.",
+    "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-149431",
+    "linkText": "Find out more in the full changelog"
+  },
+  {
     "date": "2026-03-19",
     "title": "New update: larger grids, DLC support, and a few more things.",
     "content": "First of all, a bug in the AI difficulty ratings has been fixed. Expect new drivers to be stronger than previously exising ones. Second, head over to the settings after an update and configure which DLCs you own or not to get suggestions for alternative tracks. Aside from this the new version no longer requires the UDP Frequence setting to be set (but it doesn't hurt if you leave it on).",
