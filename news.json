@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-05-22",
+    "title": "New driver and team profile pages, post raceanalysis...",
+    "content": "The last couple of versions brought new driver and team pages, now much more explorable! You'll also notice a more detailed post-race report.",
+    "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-150753",
+    "linkText": "Find out more in the full changelog"
+  },
+  {
     "date": "2026-04-20",
     "title": "v16: Headlines from the media and improved rivalries",
     "content": "In the new version, you'll start to see a news feed on the home page that will keep you up to date with the most recent developments in the racing world. Spot your next team... or you next rival. Speaking or rivals, their detection has been hugely improved. People you never actually race side by side with will now be ignored, while regular battles are more likely to lead to a long term rivalry.",
@@ -19,19 +26,5 @@
     "content": "The latest version of the app brings the ability to fully customize the championships available in your new careers. You can also find out more about this in the settings of existing careers. This new version also adds the Intercontinental GT Challenge and 4 more GT World CHallenge series, and several imporvements in the UI.",
     "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-147687",
     "linkText": "Check out the full changelog"
-  },
-  {
-    "date": "2026-02-20",
-    "title": "The last update you'll ever need",
-    "content": "...because the new version of the app comes with an auto-updater. You'll be able to download and install new versions straight from the app. Aside from this, version 13 adds support for custom liveries, multiple save slots, and features a much improved navigation. Your existing save slot will be automatically migrated to the new version, so you can just install it and keep on playing.",
-    "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-147175",
-    "linkText": "Get it here"
-  },
-  {
-    "date": "2026-02-11",
-    "title": "Open Wheel content",
-    "content": "v12 of the app is now available for download and brings a full open wheel career ladder. Compatible with ongoing careers, as always!",
-    "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-146800",
-    "linkText": "Full changelog and download link"
   }
 ]
