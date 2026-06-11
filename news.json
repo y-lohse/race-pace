@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-06-11",
+    "title": "New race objectives system",
+    "content": "v21 is out, and now you will start to receive objectices for select races during the season. Achieve them to improve your relationship with the team, ignore them at the risk of being out of contract for the next year...",
+    "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-151588",
+    "linkText": "Find out more in the full changelog"
+  },
+  {
     "date": "2026-05-22",
     "title": "New driver and team profile pages, post raceanalysis...",
     "content": "The last couple of versions brought new driver and team pages, now much more explorable! You'll also notice a more detailed post-race report.",
@@ -12,19 +19,5 @@
     "content": "In the new version, you'll start to see a news feed on the home page that will keep you up to date with the most recent developments in the racing world. Spot your next team... or you next rival. Speaking or rivals, their detection has been hugely improved. People you never actually race side by side with will now be ignored, while regular battles are more likely to lead to a long term rivalry.",
     "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-149431",
     "linkText": "Find out more in the full changelog"
-  },
-  {
-    "date": "2026-03-19",
-    "title": "New update: larger grids, DLC support, and a few more things.",
-    "content": "First of all, a bug in the AI difficulty ratings has been fixed. Expect new drivers to be stronger than previously exising ones. Second, head over to the settings after an update and configure which DLCs you own or not to get suggestions for alternative tracks. Aside from this the new version no longer requires the UDP Frequence setting to be set (but it doesn't hurt if you leave it on).",
-    "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-148142",
-    "linkText": "Find out more in the full changelog"
-  },
-  {
-    "date": "2026-03-06",
-    "title": "Custom championships, GT World Challenge and more",
-    "content": "The latest version of the app brings the ability to fully customize the championships available in your new careers. You can also find out more about this in the settings of existing careers. This new version also adds the Intercontinental GT Challenge and 4 more GT World CHallenge series, and several imporvements in the UI.",
-    "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-147687",
-    "linkText": "Check out the full changelog"
   }
 ]
