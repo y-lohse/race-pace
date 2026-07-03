@@ -1,0 +1,201 @@
+championship_name,track_id,name,month,week_end,mandatory,type,duration,start_time
+British GT Championship,Silverstone_GP,Silverstone 500,4,4,TRUE,time,180,12:00
+British GT Championship,OultonPark_International,Oulton Park Race 1,5,4,TRUE,time,60,
+British GT Championship,OultonPark_International,Oulton Park Race 2,5,4,TRUE,time,60,
+British GT Championship,Spa_Francorchamps_2022,Spa-Francorchamps,6,3,TRUE,time,120,
+British GT Championship,Donington_Nat,Donington Park Sprint,8,3,TRUE,time,60,
+British GT Championship,Silverstone_2001_International,Silverstone Sprint,8,4,TRUE,time,60,
+British GT Championship,Donington_GP,Donington Park,9,1,TRUE,time,120,
+British GT Championship,BrandsHatch_GP,Brands Hatch,9,4,TRUE,time,120,
+European Le Mans Series,Circuit_de_Catalunya_GP,4 Hours of Barcelona,4,2,TRUE,time,240,
+European Le Mans Series,Le_Mans_24h,4 Hours of Le Mans,5,1,TRUE,time,240,
+European Le Mans Series,Imola_GP_2018,4 Hours of Imola,7,1,TRUE,time,240,
+European Le Mans Series,Spa_Francorchamps_2022,4 Hours of Spa,8,4,TRUE,time,240,
+European Le Mans Series,Silverstone_GP,4 Hours of Silverstone,9,2,TRUE,time,240,
+European Le Mans Series,Nurb_GP_2020,4 Hours of Nürburgring,10,2,TRUE,time,240,
+Ferrari Challenge Europe,Nurb_GP_2020,Nürburgring,4,2,TRUE,time,30,
+Ferrari Challenge Europe,Azure_Circuit_2021,Monaco,5,2,FALSE,time,30,
+Ferrari Challenge Europe,Circuit_de_Catalunya_GP,Barcelona,6,1,TRUE,time,30,
+Ferrari Challenge Europe,Spielberg_Modern,Spielberg,6,3,FALSE,time,30,
+Ferrari Challenge Europe,Spa_Francorchamps_2022,Spa-Francorchamps,7,2,TRUE,time,30,
+Ferrari Challenge Europe,Hungaroring_GP_2025,Mogyoród,7,2,FALSE,time,30,
+Ferrari Challenge Europe,Monza_2020,Monza,8,1,TRUE,time,30,
+Ferrari Challenge Europe,Silverstone_GP,Silverstone,9,1,TRUE,time,30,
+Ferrari Challenge Europe,Bathurst_2020,Bathurst Special,9,2,FALSE,time,30,
+Ferrari Challenge Europe,Imola_GP_2018,Finale at Imola,10,1,TRUE,time,30,
+Ferrari Challenge North America,Sebring,Sebring,3,1,TRUE,time,30,
+Ferrari Challenge North America,Daytona_Road_Course,Daytona,4,1,TRUE,time,30,
+Ferrari Challenge North America,Indianapolis_2022_RC,Indianapolis,5,1,TRUE,time,30,
+Ferrari Challenge North America,Watkins_Glen_GP,The Glen,6,1,TRUE,time,30,
+Ferrari Challenge North America,Road_America_RC,Road America,7,3,FALSE,time,30,
+Ferrari Challenge North America,Laguna_Seca_2020,Laguna Seca,8,2,TRUE,time,30,
+Ferrari Challenge North America,Mosport,Motorsport Park,9,1,FALSE,time,30,
+Ferrari Challenge North America,Bathurst_2020,Bathurst Special,9,2,FALSE,time,30,
+Ferrari Challenge North America,Imola_GP_2018,Finale at Imola,10,3,TRUE,time,30,
+Ginetta Junior Championship Europe,Monza_2020_Junior,Italian Junior-GT Classic,4,3,FALSE,time,20,
+Ginetta Junior Championship Europe,Spielberg_Short,Alpine Ginetta Games,5,2,FALSE,time,20,
+Ginetta Junior Championship Europe,Circuit_de_Catalunya_NATL_NC,Montmeló Sprint-Fest,6,2,FALSE,time,20,
+Ginetta Junior Championship Europe,Hockenheim_National,Baden-Württemberg Trophy,7,2,FALSE,time,20,
+Ginetta Junior Championship Europe,Cascais,Atlantic Breeze Invitational,8,2,FALSE,time,20,
+Ginetta Junior Championship Europe,Spa_Francorchamps_2022,Finals at Spa,9,3,FALSE,time,20,
+Ginetta Junior Championship North America,Watkins_Glen_S,Watkins Glen Spring Sprint,4,3,FALSE,time,20,
+Ginetta Junior Championship North America,Road_Atlanta_2005_short,Peach State Challenge,5,2,FALSE,time,20,
+Ginetta Junior Championship North America,Virginia_North,VIR Summer Showdown,6,2,FALSE,time,20,
+Ginetta Junior Championship North America,Sebring_Club,Sebring Summer Heat,7,2,FALSE,time,20,
+Ginetta Junior Championship North America,Daytona_Road_Course,Daytona Beach Classic,8,2,FALSE,time,20,
+Ginetta Junior Championship North America,Laguna_Seca_2020,West Coast Finale,9,3,FALSE,time,20,
+Ginetta Junior Championship UK,Silverstone_2001_National,Silverstone Heritage Plate,4,3,FALSE,time,20,
+Ginetta Junior Championship UK,Snetterton_200,The East Anglian Pursuit,5,2,FALSE,time,20,
+Ginetta Junior Championship UK,BrandsHatch_Indy,Paddock Hill Invitational,6,2,FALSE,time,20,
+Ginetta Junior Championship UK,CadwellPark,Hall Bends Classic,7,2,FALSE,time,20,
+Ginetta Junior Championship UK,OultonPark_Fosters,Knickerbrook Cup,8,2,FALSE,time,20,
+Ginetta Junior Championship UK,Donington_Nat,Craner Curve Finale,9,3,FALSE,time,20,
+GT Revival Series,Hockenheim_GP,Hockenheim,4,2,FALSE,time,50,
+GT Revival Series,Spa_Francorchamps_2022,SPA Classic,5,4,FALSE,time,50,
+GT Revival Series,Jerez_GP2019,Jerez,6,2,FALSE,time,50,
+GT Revival Series,Le_Mans_24h,3h of Le Mans Classic Legend,7,1,TRUE,time,180,16:00
+GT Revival Series,Nurb_GP_2020,Nürburgring,8,4,FALSE,time,50,
+GT Revival Series,Circuit_de_Catalunya_GP,Barcelona,10,1,FALSE,time,50,
+GT World Challenge America,Laguna_Seca_2020,3h of Laguna Seca,3,4,TRUE,time,180,13:30
+GT World Challenge America,Watkins_Glen_GPIL,Watkins Glen,4,4,TRUE,time,90,13:00
+GT World Challenge America,Sebring,Sebring International Raceway,5,2,TRUE,time,90,15:00
+GT World Challenge America,Road_Atlanta,Michelin Raceway Road Atlanta,6,2,TRUE,time,90,13:15
+GT World Challenge America,Road_America_RC,Road America,8,4,TRUE,time,90,14:00
+GT World Challenge America,Virginia_Full,Virginia International Raceway,9,4,TRUE,time,90,15:00
+GT World Challenge America,Indianapolis_2022_RC,Indianapolis 8 Hour,10,2,TRUE,time,480,12:20
+GT World Challenge Europe,Le_Mans_Circuit_Bugatti,6h of Le Mans Bugatti,4,2,TRUE,time,360,18:00
+GT World Challenge Europe,BrandsHatch_GP,Brands Hatch Sprint,5,1,FALSE,time,60,09:00
+GT World Challenge Europe,Monza_2020,3h of Monza,5,4,TRUE,time,180,15:30
+GT World Challenge Europe,Spa_Francorchamps_2022,CrowdStrike 24 Hours of Spa,6,4,TRUE,time,1440,16:30
+GT World Challenge Europe,Imola_GP_2018,Imola Sprint,7,3,FALSE,time,60,20:25
+GT World Challenge Europe,Hockenheim_GP,Hockenheim Sprint,8,1,FALSE,time,60,21:15
+GT World Challenge Europe,Nurb_GP_2020,3h of Nürburgring,8,4,TRUE,time,180,15:00
+GT World Challenge Europe,Donington_GP,Donington Sprint,9,3,FALSE,time,60,14:45
+GT World Challenge Europe,Circuit_de_Catalunya_GP,Barcelona Sprint,10,1,FALSE,time,60,14:00
+GT World Challenge Europe,Cascais,3h of Estoril,10,3,TRUE,time,180,15:15
+GT World Challenge Sprint,Adelaide_Modern,Adelaide Sprint,4,1,FALSE,time,60,21:00
+GT World Challenge Sprint,Kyalami_2019,Kyalami Sprint,5,3,FALSE,time,60,17:00
+GT World Challenge Sprint,Buenos_Aires_Circuito_6,Buenos Aires N°6 S Sprint,6,2,FALSE,time,60,15:00
+GT World Challenge Sprint,Hungaroring_GP_2025,Hungaroring Sprint,6,3,FALSE,time,60,15:00
+GT World Challenge Sprint,Interlagos_GP,Interlagos Sprint,7,1,FALSE,time,60,15:00
+GT World Challenge Sprint,VeloCitta1,Velo Città Sprint,7,3,FALSE,time,60,15:00
+GT World Challenge Sprint,Ibarra2,Ibarra Sprint,8,2,FALSE,time,60,17:30
+IMSA Michelin Pilot Challenge,Daytona_Road_Course,Four Hours of Daytona,2,1,TRUE,time,240,
+IMSA Michelin Pilot Challenge,Sebring,Two Hours of Sebring,3,2,TRUE,time,120,
+IMSA Michelin Pilot Challenge,Long_Beach,Long Beach Two Hours,4,2,TRUE,time,120,
+IMSA Michelin Pilot Challenge,Laguna_Seca_2020,Fours Hours of Monterey,5,2,TRUE,time,240,
+IMSA Michelin Pilot Challenge,Adelaide_Modern,Two Hours of Detroit,5,4,TRUE,time,120,
+IMSA Michelin Pilot Challenge,Watkins_Glen_GP,Two Hours at The Glen,6,3,TRUE,time,120,
+IMSA Michelin Pilot Challenge,Mosport,Two Hours at Mosport,7,2,TRUE,time,120,
+IMSA Michelin Pilot Challenge,Road_America_RC,Road America 2 Hours,8,1,TRUE,time,120,
+IMSA Michelin Pilot Challenge,Virginia_Full,VIRginia Sprint,8,3,TRUE,time,45,
+IMSA Michelin Pilot Challenge,Indianapolis_2022_RC,Indianapolis Sprint,9,3,TRUE,time,45,
+IMSA Michelin Pilot Challenge,Road_Atlanta,Road Atlanta 2 Hours,10,2,TRUE,time,120,
+IMSA VP Racing SportsCar Challenge,Daytona_Road_Course,24 Hours of Daytona Opening,2,1,TRUE,time,45,
+IMSA VP Racing SportsCar Challenge,Sebring,12 Hours of Sebring Opening,3,2,TRUE,time,45,
+IMSA VP Racing SportsCar Challenge,Long_Beach,Long Beach Grand Prix Opening,4,2,TRUE,time,45,
+IMSA VP Racing SportsCar Challenge,Laguna_Seca_2020,Monterey Grand Prix Opening,5,2,TRUE,time,45,
+IMSA VP Racing SportsCar Challenge,Adelaide_Modern,Detroit Grand Prix Opening,5,4,TRUE,time,45,
+IMSA VP Racing SportsCar Challenge,Watkins_Glen_GP,Six Hours of The Glen Opening,6,3,TRUE,time,45,
+IMSA VP Racing SportsCar Challenge,Mosport,Grand Prix of Mosport Opening,7,2,TRUE,time,45,
+IMSA VP Racing SportsCar Challenge,Road_America_RC,Road America 500 Opening,8,1,TRUE,time,45,
+IMSA VP Racing SportsCar Challenge,Virginia_Full,GT Challenge at Virginia Opening,8,3,TRUE,time,45,
+IMSA VP Racing SportsCar Challenge,Indianapolis_2022_RC,Indianapolis Battle on the Bricks Opening,9,3,TRUE,time,45,
+IMSA VP Racing SportsCar Challenge,Road_Atlanta,Petit Le Mans Opening,10,2,TRUE,time,45,
+IMSA WeatherTech SportsCar Championship,Daytona_Road_Course,24 Hours of Daytona,2,1,TRUE,time,1440,
+IMSA WeatherTech SportsCar Championship,Sebring,12 Hours of Sebring,3,2,TRUE,time,720,10:00
+IMSA WeatherTech SportsCar Championship,Long_Beach,Long Beach Grand Prix,4,2,TRUE,time,100,
+IMSA WeatherTech SportsCar Championship,Laguna_Seca_2020,Monterey Grand Prix,5,2,TRUE,time,160,
+IMSA WeatherTech SportsCar Championship,Adelaide_Modern,Detroit Grand Prix,5,4,TRUE,time,100,
+IMSA WeatherTech SportsCar Championship,Watkins_Glen_GP,Six Hours of The Glen,6,3,TRUE,time,360,
+IMSA WeatherTech SportsCar Championship,Mosport,Grand Prix of Mosport,7,2,TRUE,time,160,
+IMSA WeatherTech SportsCar Championship,Road_America_RC,Road America 500,8,1,TRUE,time,160,
+IMSA WeatherTech SportsCar Championship,Virginia_Full,GT Challenge at Virginia,8,3,TRUE,time,45,
+IMSA WeatherTech SportsCar Championship,Indianapolis_2022_RC,Indianapolis Battle on the Bricks,9,3,TRUE,time,45,
+IMSA WeatherTech SportsCar Championship,Road_Atlanta,Petit Le Mans,10,2,TRUE,time,600,12:00
+Intercontinental GT Challenge,Bathurst_2020,Bathurst 12 Hour,2,2,TRUE,time,720,05:45
+Intercontinental GT Challenge,Nordschleife_2025_24hr,24h Nürburgring,5,3,TRUE,time,1440,15:00
+Intercontinental GT Challenge,Spa_Francorchamps_2022,24 Hours of Spa,6,4,TRUE,time,1440,16:30
+Intercontinental GT Challenge,Kansai_GP,Suzuka 1000km,9,2,TRUE,laps,172,12:50
+Intercontinental GT Challenge,Indianapolis_2022_RC,Indianapolis 8 Hour,10,2,TRUE,time,480,12:20
+Lamborghini Super Trofeo Europe,Imola_GP_2018,Santerno Super-Sprints,4,3,TRUE,time,50,
+Lamborghini Super Trofeo Europe,Circuit_de_Catalunya_GP,Mediterranean Trophy,5,3,TRUE,time,50,
+Lamborghini Super Trofeo Europe,Nurb_GP_2020,Green Hell Bull-Run,6,2,FALSE,time,50,
+Lamborghini Super Trofeo Europe,Spa_Francorchamps_2022,Raidillon Rumble,7,3,TRUE,time,50,
+Lamborghini Super Trofeo Europe,Hungaroring_GP_2025,Hungarian Showdown,7,4,FALSE,time,50,
+Lamborghini Super Trofeo Europe,Silverstone_GP,Northamptonshire Cup,8,4,TRUE,time,50,
+Lamborghini Super Trofeo Europe,Bathurst_2020,Bathurst Special,9,1,FALSE,time,50,
+Lamborghini Super Trofeo Europe,Monza_2020,Monza World Finals,10,2,TRUE,time,50,
+Lamborghini Super Trofeo North America,Sebring,Sebring International Raceway,3,2,TRUE,time,50,
+Lamborghini Super Trofeo North America,Laguna_Seca_2020,WeatherTech Raceway Laguna Seca,5,2,TRUE,time,50,
+Lamborghini Super Trofeo North America,Watkins_Glen_GP,Watkins Glen International,6,3,TRUE,time,50,
+Lamborghini Super Trofeo North America,Road_America_RC,Road America,8,1,FALSE,time,50,
+Lamborghini Super Trofeo North America,Bathurst_2020,Bathurst Special,9,1,FALSE,time,50,
+Lamborghini Super Trofeo North America,Indianapolis_2022_RC,Indianapolis Motor Speedway,9,3,TRUE,time,50,
+Lamborghini Super Trofeo North America,Monza_2020,Monza World Finals,10,2,TRUE,time,50,
+Michelin Le Mans Cup,Circuit_de_Catalunya_GP,Catalan Cup,4,2,TRUE,time,110,
+Michelin Le Mans Cup,Monza_2020,Temple of Speed Challenge,5,1,TRUE,time,110,
+Michelin Le Mans Cup,Le_Mans_24h,Road to Le Mans,6,2,TRUE,time,180,18:00
+Michelin Le Mans Cup,Spa_Francorchamps_2022,Ardennes Endurance Trophy,8,4,TRUE,time,110,
+Michelin Le Mans Cup,Silverstone_GP,British Endurance Masters,9,2,TRUE,time,110,
+Michelin Le Mans Cup,Nurb_GP_2020,Eifel Championship Finale,10,2,TRUE,time,110,
+Mini Challenge,BrandsHatch_Indy,Brands Hatch Indy Dash,4,2,FALSE,time,20,
+Mini Challenge,Donington_Nat,Redgate Rumble,5,3,FALSE,time,20,
+Mini Challenge,OultonPark_Fosters,The Island Bend Duel,6,4,FALSE,time,20,
+Mini Challenge,Snetterton_300,The Norfolk Flat-Out,7,3,FALSE,time,20,
+Mini Challenge,CadwellPark,The Mountain Scramble,8,3,FALSE,time,20,
+Mini Challenge,Silverstone_2001_National,Stowe Circuit Shootout,9,4,FALSE,time,20,
+Nürburgring Langstrecken-Serie,Nordschleife_2025_24hr,NLS1 Westfalenfahrt,3,2,TRUE,time,240,12:00
+Nürburgring Langstrecken-Serie,Nordschleife_2025_24hr,NLS2 Barbarossapreis,4,1,TRUE,time,240,12:00
+Nürburgring Langstrecken-Serie,Nordschleife_2025_24hr,NLS3 24h Qualifiers,4,3,TRUE,time,240,12:00
+Nürburgring Langstrecken-Serie,Nordschleife_2025_24hr,NLS4 Adenauer Trophy,5,1,TRUE,time,240,12:00
+Nürburgring Langstrecken-Serie,Nordschleife_2025_24hr,NLS5 Eifel Trophy,6,2,TRUE,time,240,12:00
+Nürburgring Langstrecken-Serie,Nordschleife_2025_24hr,NLS6,7,3,TRUE,time,240,12:00
+Nürburgring Langstrecken-Serie,Nordschleife_2025_24hr,NLS7 6h Ruhr-Pokal-Rennen,8,1,TRUE,time,360,12:00
+Nürburgring Langstrecken-Serie,Nordschleife_2025_24hr,NLS8 Sportwarte-Trophy,9,2,TRUE,time,240,12:00
+Porsche Carrera Cup North America,Daytona_Road_Course,Daytona International Speedway,3,2,FALSE,time,30,
+Porsche Carrera Cup North America,Sebring,Sebring International Raceway,4,3,FALSE,time,30,
+Porsche Carrera Cup North America,Laguna_Seca_2020,WeatherTech Raceway Laguna Seca,5,2,FALSE,time,30,
+Porsche Carrera Cup North America,Watkins_Glen_GP,Watkins Glen International,6,3,FALSE,time,30,
+Porsche Carrera Cup North America,Montreal_Modern,Circuit Gilles Villeneuve,7,2,FALSE,time,30,
+Porsche Carrera Cup North America,Road_America_RC,Road America,8,1,FALSE,time,30,
+Porsche Carrera Cup North America,Virginia_Full,VIRginia International Raceway,8,4,FALSE,time,30,
+Porsche Carrera Cup North America,Indianapolis_2022_RC,Indianapolis Motor Speedway,9,3,FALSE,time,30,
+Porsche Carrera Cup UK,Donington_Nat,Donington Park Grand Prix Circuit,4,1,FALSE,time,30,
+Porsche Carrera Cup UK,BrandsHatch_GP,Brands Hatch GP Classic,5,1,FALSE,time,30,
+Porsche Carrera Cup UK,Silverstone_2001_National,Silverstone National Sprint,5,4,FALSE,time,30,
+Porsche Carrera Cup UK,OultonPark_International,Oulton Park International,6,3,FALSE,time,30,
+Porsche Carrera Cup UK,Snetterton_300,Snetterton 300 Trophy,7,1,FALSE,time,30,
+Porsche Carrera Cup UK,CadwellPark,Lincolnshire Wolds Classic,7,4,FALSE,time,30,
+Porsche Carrera Cup UK,Silverstone_2001_International,Silverstone: The Home of British Racing,8,4,FALSE,time,30,
+Porsche Carrera Cup UK,Donington_GP,Leicestershire Season Finale,9,2,FALSE,time,30,
+Porsche Carrera Supercup,Imola_GP_2018,Grand Prix dell'Emilia-Romagna,5,2,FALSE,time,30,
+Porsche Carrera Supercup,Azure_Circuit_2021,Grand Prix de Monaco,5,4,FALSE,time,30,
+Porsche Carrera Supercup,Circuit_de_Catalunya_GP,Spanish Grand Prix,6,2,FALSE,time,30,
+Porsche Carrera Supercup,Spielberg_Modern,Austrian Grand Prix,6,4,FALSE,time,30,
+Porsche Carrera Supercup,Spa_Francorchamps_2022,Belgian Grand Prix,7,2,FALSE,time,30,
+Porsche Carrera Supercup,Hungaroring_GP_2025,Hungarian Grand Prix,7,3,FALSE,time,30,
+Porsche Carrera Supercup,Hockenheim_GP,German Grand Prix,8,2,FALSE,time,30,
+Porsche Carrera Supercup,Silverstone_GP,British Grand Prix,8,4,FALSE,time,30,
+Porsche Carrera Supercup,Monza_2020,Italian Grand Prix,9,2,FALSE,time,30,
+Radical Cup Europe,Donington_GP,Donington Continental Trophy,3,1,FALSE,time,40,
+Radical Cup Europe,Monza_2020,Monza Speed-Ring Masters,4,3,FALSE,time,40,
+Radical Cup Europe,Hungaroring_GP_2025,Hungaroring Showdown,4,4,FALSE,time,40,
+Radical Cup Europe,Spa_Francorchamps_2022,Spa-Francorchamps Ardennes Challenge,5,2,FALSE,time,40,
+Radical Cup Europe,Le_Mans_Circuit_Bugatti,Bugatti Circuit Endurance Sprint,6,3,FALSE,time,40,
+Radical Cup Europe,Nurb_GP_2020,Eifel Grand Prix Showcase,7,2,FALSE,time,40,
+Radical Cup Europe,Circuit_de_Catalunya_GP,Barcelona European Season Finale,9,1,FALSE,time,40,
+Radical Cup North America,Sebring,Florida Aero-Slam,3,1,TRUE,time,40,
+Radical Cup North America,Laguna_Seca_2020,Pacific Apex Trophy,4,3,TRUE,time,40,
+Radical Cup North America,Watkins_Glen_GP,Empire State Prototype Shootout,5,2,TRUE,time,40,
+Radical Cup North America,Road_America_RC,Elkhart Lake National Sprint,6,3,TRUE,time,40,
+Radical Cup North America,Road_Atlanta,Red Clay Continental,7,2,TRUE,time,40,
+Radical Cup North America,Virginia_Full,Old Dominion Finals,9,1,TRUE,time,40,
+World Endurance Championship,Sebring,Sebring 1812km,3,4,TRUE,time,600,11:00
+World Endurance Championship,Imola_GP_2018,6 Hours of Imola,4,3,TRUE,time,360,
+World Endurance Championship,Spa_Francorchamps_2022,6 Hours of Spa,5,2,TRUE,time,360,
+World Endurance Championship,Le_Mans_24h,24 Hours of Le Mans,6,2,TRUE,time,1440,16:00
+World Endurance Championship,Interlagos_GP,6 Hours of São Paulo,7,2,TRUE,time,360,
+World Endurance Championship,Watkins_Glen_GP,Lone Star Le Mans,9,1,TRUE,time,360,
+World Endurance Championship,Kansai_GP,6 Hours of Suzuka,9,4,TRUE,time,360,
+World Endurance Championship,Monza_2020,8 Hours of Monza,11,1,TRUE,time,480,16:00
