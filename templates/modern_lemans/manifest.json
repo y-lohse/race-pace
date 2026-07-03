@@ -1,0 +1,19 @@
+{
+  "name": "Road to Le Mans",
+  "description": "Race in GT and Prototype cars accross Europe and the US. Features a selection of current sprint and endurance series.",
+  "authors": ["whyl_"],
+  "hero": "hero.jpg",
+  "championships": "championships.csv",
+  "events": "events.csv",
+  "tracks": "tracks.csv",
+  "teams": "teams.csv",
+  "cars": "cars.csv",
+  "drivers": "drivers.csv",
+  "overrides": {
+    "real_roster": {
+      "cars": "real_cars.csv",
+      "drivers": "real_drivers.csv",
+      "teams": "real_teams.csv"
+    }
+  }
+}

@@ -1,0 +1,672 @@
+name,surname,championship_name,category,team_name,end_year,expected_standing,team_loyalty,country,dob,elo,race_skill,qualifying_skill,aggression,defending,stamina,consistency,start_reactions,wet_skill,tyre_management,fuel_management,blue_flag_conceding,weather_tyre_changes,avoidance_of_mistakes,avoidance_of_forced_mistakes,setup_downforce
+Theo,Oeverhaus,Porsche Carrera Supercup,Carrera Cup,Martinet by Almeras,2026,1,0.84,DEU,2004/12/18,1830,0.75,0.77,0.69,0.72,0.74,0.75,0.72,0.75,0.75,0.74,0.70,0.73,0.75,0.74,0.44
+Andrea,Bristot,Porsche Carrera Supercup,Carrera Cup,Dinamic Motorsport,2026,2,0.84,ITA,2002/01/01,1815,0.74,0.76,0.68,0.71,0.73,0.74,0.71,0.72,0.72,0.71,0.70,0.70,0.74,0.73,0.42
+Gustav,Burton,Porsche Carrera Supercup,Carrera Cup,Team GP Elite,2026,3,0.84,GBR,2002/01/01,1810,0.74,0.76,0.68,0.71,0.73,0.74,0.71,0.72,0.74,0.73,0.70,0.70,0.74,0.73,0.43
+Robert,de Haan,Porsche Carrera Supercup,Carrera Cup,BWT Lechner Racing,2026,4,0.84,NLD,2006/06/22,1805,0.73,0.75,0.69,0.70,0.72,0.73,0.70,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.47
+Flynt,Schuring,Porsche Carrera Supercup,Carrera Cup,Schumacher CLRT,2026,5,0.84,NLD,2006/10/7,1795,0.73,0.75,0.69,0.70,0.72,0.73,0.70,0.71,0.71,0.70,0.70,0.69,0.73,0.72,0.47
+Keagan,Masters,Porsche Carrera Supercup,Carrera Cup,Proton Competition,2026,6,0.84,ZAF,2000/03/02,1788,0.72,0.74,0.68,0.69,0.71,0.72,0.69,0.70,0.70,0.69,0.70,0.68,0.72,0.71,0.55
+Jaap,van Lagen,Porsche Carrera Supercup,Carrera Cup,Martinet by Almeras,2026,7,0.84,NLD,1976/12/22,1785,0.72,0.74,0.66,0.69,0.71,0.72,0.69,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.43
+Dirk,Schouten,Porsche Carrera Supercup,Carrera Cup,Looping by CarTech,2026,8,0.84,NLD,2001/05/20,1775,0.71,0.73,0.65,0.68,0.70,0.71,0.68,0.71,0.69,0.68,0.70,0.69,0.71,0.70,0.50
+Matheus,Ferreira,Porsche Carrera Supercup,Carrera Cup,Team GP Elite,2026,9,0.78,BRA,2006/01/01,1770,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.52
+Chester,Kieffer,Porsche Carrera Supercup,Carrera Cup,Schumacher CLRT,2026,10,0.78,LUX,2007/1/1,1764,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.46
+Marcus,Amand,Porsche Carrera Supercup,Carrera Cup,BWT Lechner Racing,2026,11,0.78,FIN,2006/02/08,1758,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.49
+Jack,Young,Porsche Carrera Supercup,Carrera Cup,Target Competition,2026,12,0.78,GBR,2001/10/31,1752,0.70,0.70,0.66,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.55
+Caleb,Sumich,Porsche Carrera Supercup,Carrera Cup,BWT Lechner Racing,2026,13,0.78,AUS,2004/01/01,1748,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.51
+Liam,McNeilly,Porsche Carrera Supercup,Carrera Cup,Ombra Racing,2026,14,0.78,GBR,2006/1/1,1742,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.46
+Wouter,Boerekamps,Porsche Carrera Supercup,Carrera Cup,Team GP Elite,2026,15,0.78,NLD,1998/01/01,1736,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.44
+Paul,Cauhaupe,Porsche Carrera Supercup,Carrera Cup,Martinet by Almeras,2026,16,0.78,FRA,1999/01/01,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.47
+Jonas,Greif,Porsche Carrera Supercup,Carrera Cup,Team GP Elite,2026,17,0.72,DEU,2006/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.43
+Filip,Ugran,Porsche Carrera Supercup,Carrera Cup,Ombra Racing,2026,18,0.72,ROU,2002/09/12,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.51
+Aldo,Festante,Porsche Carrera Supercup,Carrera Cup,Target Competition,2026,19,0.72,ITA,2000/06/02,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.52
+William,Mezzetti,Porsche Carrera Supercup,Carrera Cup,Dinamic Motorsport,2026,20,0.72,ITA,2004/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.52
+Samer,Shahin,Porsche Carrera Supercup,Carrera Cup,Team GP Elite,2026,21,0.72,AUS,1972/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.44
+Kai,Pfister,Porsche Carrera Supercup,Carrera Cup,Proton Competition,2026,22,0.72,DEU,1990/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.52
+Tyler,Maxson,Porsche Carrera Cup North America,Carrera Cup,Topp Racing,2026,1,0.84,USA,2004/11/12,1815,0.74,0.76,0.70,0.71,0.73,0.74,0.71,0.72,0.74,0.73,0.70,0.70,0.74,0.73,0.55
+Aaron,Jeansonne,Porsche Carrera Cup North America,Carrera Cup,Kellymoss,2026,2,0.84,USA,1998/1/1,1800,0.73,0.75,0.67,0.70,0.72,0.73,0.70,0.71,0.73,0.72,0.70,0.69,0.73,0.72,0.57
+Callum,Hedge,Porsche Carrera Cup North America,Carrera Cup,Kellymoss,2026,3,0.84,NZL,2003/11/17,1810,0.74,0.76,0.70,0.71,0.73,0.74,0.71,0.74,0.74,0.73,0.70,0.72,0.74,0.73,0.48
+Tom,Sargent,Porsche Carrera Cup North America,Carrera Cup,GMG Racing,2026,4,0.84,AUS,2002/02/14,1795,0.73,0.75,0.69,0.70,0.72,0.73,0.70,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.41
+Cole,Kleck,Porsche Carrera Cup North America,Carrera Cup,ACI Motorsports,2026,5,0.84,USA,2003/01/01,1785,0.72,0.72,0.66,0.69,0.71,0.72,0.69,0.70,0.72,0.71,0.70,0.68,0.72,0.71,0.52
+Jared,Thomas,Porsche Carrera Cup North America,Carrera Cup,JTR Motorsports Engineering,2026,6,0.84,USA,1997/01/01,1780,0.72,0.74,0.66,0.69,0.71,0.72,0.69,0.70,0.72,0.71,0.70,0.68,0.72,0.71,0.55
+Connor,Bloum,Porsche Carrera Cup North America,Carrera Cup,ACI Motorsports,2026,7,0.84,USA,2004/01/01,1770,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.49
+Paul,Bocuse,Porsche Carrera Cup North America,Carrera Cup,MDK Motorsports,2026,8,0.84,FRA,1996/01/01,1765,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.52
+JCD,Dubets,Porsche Carrera Cup North America,Carrera Cup,ACI Motorsports,2026,9,0.78,USA,1998/1/1,1760,0.70,0.70,0.64,0.67,0.69,0.70,0.67,0.68,0.68,0.67,0.70,0.66,0.70,0.69,0.52
+Janne,Stiak,Porsche Carrera Cup North America,Carrera Cup,ACI Motorsports,2026,10,0.78,DEU,2007/01/01,1755,0.70,0.70,0.64,0.67,0.69,0.70,0.67,0.68,0.68,0.67,0.70,0.66,0.70,0.69,0.57
+Sabre,Cook,Porsche Carrera Cup North America,Carrera Cup,JDX Racing,2026,11,0.78,USA,1994/07/30,1750,0.70,0.72,0.64,0.67,0.69,0.68,0.67,0.70,0.70,0.69,0.70,0.68,0.68,0.67,0.46
+Alan,Metni,Porsche Carrera Cup North America,Carrera Cup,Kellymoss,2026,12,0.78,USA,1967/10/18,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.54
+Patrick,Mulcahy,Porsche Carrera Cup North America,Carrera Cup,Kellymoss,2026,13,0.78,USA,1992/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.53
+Nikita,Lastochkin,Porsche Carrera Cup North America,Carrera Cup,CSM,2026,14,0.78,USA,1990/05/05,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.50
+John,Jodoin,Porsche Carrera Cup North America,Carrera Cup,ACI Motorsports,2026,15,0.78,USA,1970/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.55
+Marco,Cirone,Porsche Carrera Cup North America,Carrera Cup,ACI Motorsports,2026,16,0.78,CAN,1960/01/01,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.39
+Rob,Walker,Porsche Carrera Cup North America,Carrera Cup,Topp Racing,2026,17,0.72,USA,1975/01/01,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.53
+Scott,Blind,Porsche Carrera Cup North America,Carrera Cup,Ruckus Racing,2026,18,0.72,USA,1975/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.41
+Richard,Edge,Porsche Carrera Cup North America,Carrera Cup,ACI Motorsports,2026,19,0.72,USA,1965/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.48
+Kayden,Kelly,Porsche Carrera Cup North America,Carrera Cup,ACI Motorsports,2026,20,0.72,USA,2004/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.45
+James,Sofronas,Porsche Carrera Cup North America,Carrera Cup,GMG Racing,2026,21,0.72,USA,1968/10/04,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.67,0.65,0.64,0.70,0.65,0.65,0.64,0.56
+Steve,Wetterau,Porsche Carrera Cup North America,Carrera Cup,Kellymoss,2026,22,0.72,USA,1960/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.50
+Callum,Voisin,Porsche Carrera Cup UK,Carrera Cup,Rosland Gold by Century Motorsport,2026,1,0.84,GBR,2006/03/06,1810,0.74,0.76,0.70,0.71,0.73,0.74,0.71,0.72,0.74,0.73,0.70,0.70,0.74,0.73,0.51
+Will,Jenkins,Porsche Carrera Cup UK,Carrera Cup,Team Parker Racing,2026,2,0.84,GBR,2003/01/01,1795,0.73,0.75,0.69,0.70,0.72,0.73,0.70,0.71,0.73,0.72,0.70,0.69,0.73,0.72,0.47
+Sid,Smith,Porsche Carrera Cup UK,Carrera Cup,Graves Motorsport,2026,3,0.84,GBR,2005/01/01,1785,0.72,0.74,0.66,0.69,0.71,0.72,0.69,0.70,0.72,0.71,0.70,0.68,0.72,0.71,0.53
+Max,Coates,Porsche Carrera Cup UK,Carrera Cup,Graves Motorsport,2026,4,0.84,GBR,1994/1/4,1780,0.72,0.74,0.66,0.69,0.71,0.72,0.69,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.55
+Archie,Clark,Porsche Carrera Cup UK,Carrera Cup,Team Parker Racing,2026,5,0.84,GBR,2004/01/01,1775,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.71,0.70,0.70,0.67,0.71,0.70,0.50
+Isaac,Phelps,Porsche Carrera Cup UK,Carrera Cup,Rosland Gold by Century Motorsport,2026,6,0.84,GBR,2003/01/01,1770,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.71,0.70,0.70,0.67,0.71,0.70,0.50
+Jack,Sherwood,Porsche Carrera Cup UK,Carrera Cup,Team Parker Racing,2026,7,0.84,GBR,2005/01/01,1765,0.71,0.73,0.67,0.68,0.70,0.71,0.68,0.69,0.71,0.70,0.70,0.67,0.71,0.70,0.52
+Stephen,Jelley,Porsche Carrera Cup UK,Carrera Cup,XQS Team Parker Racing,2026,8,0.84,GBR,1982/05/12,1760,0.70,0.72,0.64,0.67,0.69,0.70,0.67,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.53
+Ollie,Jackson,Porsche Carrera Cup UK,Carrera Cup,JTR,2026,9,0.78,GBR,1984/04/26,1755,0.70,0.70,0.64,0.67,0.69,0.70,0.67,0.70,0.68,0.67,0.70,0.68,0.70,0.69,0.41
+Jacob,Tofts,Porsche Carrera Cup UK,Carrera Cup,Graves Motorsport,2026,10,0.78,GBR,2002/01/01,1745,0.69,0.69,0.63,0.66,0.68,0.69,0.66,0.67,0.67,0.66,0.70,0.65,0.69,0.68,0.53
+Oliver,Meadows,Porsche Carrera Cup UK,Carrera Cup,Team Parker Racing,2026,11,0.78,GBR,1983/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.69,0.67,0.66,0.70,0.67,0.67,0.66,0.53
+Jonathan,Moore,Porsche Carrera Cup UK,Carrera Cup,JTR,2026,12,0.78,GBR,1984/01/01,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.39
+Carl,Cavers,Porsche Carrera Cup UK,Carrera Cup,Century Motorsport,2026,13,0.78,GBR,1985/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.53
+Henry,Dawes,Porsche Carrera Cup UK,Carrera Cup,Century Motorsport,2026,14,0.78,GBR,2003/01/01,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.48
+Michael,Keohane,Porsche Carrera Cup UK,Carrera Cup,Century Motorsport,2026,15,0.78,IRL,2004/01/01,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.43
+Matthew,Graham,Porsche Carrera Cup UK,Carrera Cup,Eden Motorsport,2026,16,0.78,GBR,1996/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.50
+Harry,Tincknell,World Endurance Championship,LMDh,Aston Martin THOR Team,2026,7,0.82,GBR,1991/10/29,1890,0.79,0.81,0.73,0.76,0.78,0.77,0.76,0.80,0.77,0.76,0.74,0.78,0.77,0.76,0.62
+Marco,Sorensen,World Endurance Championship,LMDh,Aston Martin THOR Team,2026,8,0.76,DNK,1990/09/06,1880,0.78,0.78,0.72,0.75,0.77,0.76,0.75,0.76,0.76,0.75,0.73,0.74,0.76,0.75,0.66
+Kamui,Kobayashi,World Endurance Championship,LMDh,Toyota Racing,2026,4,0.82,JPN,1986/9/13,1985,0.85,0.85,0.81,0.82,0.84,0.86,0.82,0.86,0.85,0.84,0.80,0.84,0.86,0.85,0.59
+Sebastien,Buemi,World Endurance Championship,LMDh,Toyota Racing,2026,3,0.82,CHE,1988/10/31,1990,0.85,0.85,0.79,0.82,0.84,0.86,0.82,0.86,0.85,0.84,0.80,0.84,0.86,0.85,0.61
+Norman,Nato,World Endurance Championship,LMDh,Cadillac Hertz Team Jota,2026,16,0.70,FRA,1992/07/08,1825,0.75,0.75,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.49
+Earl,Bamber,World Endurance Championship,LMDh,Cadillac Hertz Team Jota,2026,17,0.70,NZL,1990/7/9,1845,0.76,0.76,0.70,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.50
+Kevin,Magnussen,World Endurance Championship,LMDh,BMW M Team WRT,2026,2,0.82,DNK,1992/10/05,1960,0.83,0.83,0.79,0.80,0.82,0.81,0.80,0.81,0.81,0.80,0.78,0.79,0.81,0.80,0.54
+Robin,Frijns,World Endurance Championship,LMDh,BMW M Team WRT,2026,1,0.82,NLD,1991/08/07,1980,0.85,0.85,0.79,0.82,0.84,0.86,0.82,0.83,0.85,0.84,0.80,0.81,0.86,0.85,0.62
+Pipo,Derani,World Endurance Championship,LMDh,Genesis Magma Racing,2026,14,0.76,BRA,1993/10/12,1865,0.77,0.77,0.73,0.74,0.76,0.75,0.74,0.75,0.75,0.74,0.72,0.73,0.75,0.74,0.53
+Andre,Lotterer,World Endurance Championship,LMDh,Genesis Magma Racing,2026,15,0.70,DEU,1981/11/19,1880,0.78,0.78,0.72,0.75,0.77,0.76,0.75,0.76,0.76,0.75,0.73,0.74,0.76,0.75,0.61
+Antonio Felix,da Costa,World Endurance Championship,LMDh,Alpine Endurance Team,2026,9,0.76,PRT,1991/8/31,1910,0.80,0.80,0.74,0.77,0.79,0.78,0.77,0.78,0.78,0.77,0.75,0.76,0.78,0.77,0.55
+Jules,Gounon,World Endurance Championship,LMDh,Alpine Endurance Team,2026,10,0.76,FRA,1994/12/31,1885,0.79,0.81,0.73,0.76,0.78,0.77,0.76,0.77,0.77,0.76,0.74,0.75,0.77,0.76,0.66
+Antonio,Fuoco,World Endurance Championship,LMDh,Ferrari AF Corse,2026,5,0.82,ITA,1996/5/20,1975,0.84,0.86,0.78,0.81,0.83,0.82,0.81,0.82,0.82,0.81,0.79,0.80,0.82,0.81,0.55
+James,Calado,World Endurance Championship,LMDh,Ferrari AF Corse,2026,6,0.82,GBR,1989/06/13,1965,0.84,0.84,0.78,0.81,0.83,0.85,0.81,0.82,0.84,0.83,0.79,0.80,0.85,0.84,0.52
+Robert,Kubica,World Endurance Championship,LMDh,AF Corse,2026,11,0.76,POL,1984/12/07,1880,0.78,0.78,0.72,0.75,0.77,0.79,0.75,0.76,0.76,0.75,0.73,0.74,0.79,0.78,0.54
+Nick,Cassidy,World Endurance Championship,LMDh,Peugeot TotalEnergies,2026,12,0.76,NZL,1994/08/19,1900,0.79,0.81,0.73,0.76,0.78,0.77,0.76,0.77,0.77,0.76,0.74,0.75,0.77,0.76,0.60
+Loic,Duval,World Endurance Championship,LMDh,Peugeot TotalEnergies,2026,13,0.76,FRA,1982/06/12,1840,0.76,0.76,0.70,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.57
+Marvin,Kirchhofer,World Endurance Championship,GT3_Gen2,Garage 59,2026,2,0.82,DEU,1994/3/19,1835,0.75,0.77,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.51
+Benjamin,Goethe,World Endurance Championship,GT3_Gen2,Garage 59,2026,18,0.70,DEU,2003/11/24,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.49
+Alessio,Rovera,World Endurance Championship,GT3_Gen2,Vista AF Corse,2026,6,0.82,ITA,1995/06/22,1815,0.74,0.74,0.68,0.71,0.73,0.75,0.71,0.72,0.72,0.71,0.70,0.70,0.75,0.74,0.51
+Davide,Rigon,World Endurance Championship,GT3_Gen2,Vista AF Corse,2026,13,0.76,ITA,1986/08/26,1775,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.72,0.69,0.68,0.70,0.70,0.69,0.68,0.44
+Jonny,Adam,World Endurance Championship,GT3_Gen2,Heart of Racing Team,2026,11,0.76,GBR,1984/09/04,1785,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.44
+Mattia,Drudi,World Endurance Championship,GT3_Gen2,Heart of Racing Team,2026,12,0.76,ITA,1998/7/16,1805,0.73,0.75,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.40
+Augusto,Farfus,World Endurance Championship,GT3_Gen2,Team WRT,2026,10,0.76,BRA,1983/09/03,1795,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.40
+Dan,Harper,World Endurance Championship,GT3_Gen2,Team WRT,2026,3,0.82,GBR,2000/12/08,1830,0.75,0.77,0.71,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.46
+Nicky,Catsburg,World Endurance Championship,GT3_Gen2,TF Sport,2026,4,0.82,NLD,1988/02/15,1825,0.75,0.77,0.69,0.72,0.74,0.73,0.72,0.76,0.75,0.74,0.70,0.74,0.73,0.72,0.55
+Charlie,Eastwood,World Endurance Championship,GT3_Gen2,Racing Team Turkey by TF,2026,9,0.76,IRL,1995/08/11,1790,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.40
+Maxime,Martin,World Endurance Championship,GT3_Gen2,Iron Lynx,2026,15,0.70,BEL,1986/3/20,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.40
+Matteo,Cressoni,World Endurance Championship,GT3_Gen2,Iron Lynx,2026,16,0.70,ITA,1984/10/28,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.44
+Sebastian,Priaulx,World Endurance Championship,GT3_Gen2,Proton Competition,2026,14,0.76,GBR,2001/01/18,1770,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.55
+Logan,Sargeant,World Endurance Championship,GT3_Gen2,Proton Competition,2026,8,0.76,USA,2000/12/31,1800,0.73,0.73,0.69,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.47
+Jose Maria,Lopez,World Endurance Championship,GT3_Gen2,Akkodis ASP Team,2026,7,0.82,ARG,1983/04/26,1810,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.74,0.73,0.70,0.70,0.72,0.71,0.46
+Hadrien,David,World Endurance Championship,GT3_Gen2,Akkodis ASP Team,2026,17,0.70,FRA,2004/02/26,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.54
+Ayhancan,Guven,World Endurance Championship,GT3_Gen2,Manthey DK Engineering,2026,5,0.82,TUR,1998/01/02,1820,0.74,0.76,0.70,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.51
+Richard,Lietz,World Endurance Championship,GT3_Gen2,The Bend Manthey,2026,1,0.82,AUT,1983/12/17,1840,0.76,0.76,0.70,0.73,0.75,0.77,0.73,0.77,0.76,0.75,0.71,0.75,0.77,0.76,0.46
+Tijmen,van der Helm,IMSA WeatherTech SportsCar Championship,LMDh,JDC-Miller MotorSports,2026,11,0.76,NLD,2004/01/26,1810,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.57
+Kevin,Estre,IMSA WeatherTech SportsCar Championship,LMDh,Porsche Penske Motorsport,2026,5,0.82,FRA,1988/10/28,1975,0.84,0.86,0.78,0.81,0.83,0.85,0.81,0.85,0.84,0.83,0.79,0.83,0.85,0.84,0.57
+Felipe,Nasr,IMSA WeatherTech SportsCar Championship,LMDh,Porsche Penske Motorsport,2026,2,0.82,BRA,1992/8/21,1990,0.85,0.87,0.81,0.82,0.84,0.86,0.82,0.83,0.85,0.84,0.80,0.81,0.86,0.85,0.54
+Filipe,Albuquerque,IMSA WeatherTech SportsCar Championship,LMDh,Cadillac Wayne Taylor Racing,2026,7,0.76,PRT,1985/06/13,1900,0.79,0.79,0.73,0.76,0.78,0.77,0.76,0.77,0.77,0.76,0.74,0.75,0.77,0.76,0.50
+Louis,Deletraz,IMSA WeatherTech SportsCar Championship,LMDh,Cadillac Wayne Taylor Racing,2026,8,0.76,CHE,1997/4/22,1885,0.79,0.79,0.73,0.76,0.78,0.77,0.76,0.77,0.77,0.76,0.74,0.75,0.77,0.76,0.58
+Roman,De Angelis,IMSA WeatherTech SportsCar Championship,LMDh,Aston Martin THOR Team,2026,10,0.76,CAN,2001/02/15,1835,0.75,0.75,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.57
+Dries,Vanthoor,IMSA WeatherTech SportsCar Championship,LMDh,BMW M Team WRT,2026,4,0.82,BEL,1998/4/20,1965,0.84,0.86,0.78,0.81,0.83,0.82,0.81,0.85,0.82,0.81,0.79,0.83,0.82,0.81,0.65
+Philipp,Eng,IMSA WeatherTech SportsCar Championship,LMDh,BMW M Team WRT,2026,9,0.76,AUT,1990/02/28,1875,0.78,0.78,0.72,0.75,0.77,0.76,0.75,0.76,0.76,0.75,0.73,0.74,0.76,0.75,0.59
+Jack,Aitken,IMSA WeatherTech SportsCar Championship,LMDh,Cadillac Whelen,2026,1,0.82,GBR,1995/09/23,1980,0.85,0.87,0.81,0.82,0.84,0.86,0.82,0.83,0.83,0.82,0.80,0.81,0.86,0.85,0.56
+Tom,Blomqvist,IMSA WeatherTech SportsCar Championship,LMDh,Acura Meyer Shank Racing,2026,6,0.76,GBR,1993/11/30,1935,0.82,0.84,0.76,0.79,0.81,0.80,0.79,0.83,0.82,0.81,0.77,0.81,0.80,0.79,0.52
+Nick,Yelloly,IMSA WeatherTech SportsCar Championship,LMDh,Acura Meyer Shank Racing,2026,3,0.82,GBR,1990/12/03,1950,0.83,0.83,0.77,0.80,0.82,0.81,0.80,0.81,0.81,0.80,0.78,0.79,0.81,0.80,0.58
+Malthe,Jakobsen,IMSA WeatherTech SportsCar Championship,LMP2,CrowdStrike Racing by APR,2026,2,0.82,DNK,2003/10/29,1810,0.74,0.76,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.61
+Mikkel,Jensen,IMSA WeatherTech SportsCar Championship,LMP2,United Autosports USA,2026,1,0.82,DNK,1994/12/31,1825,0.75,0.75,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.55
+Paul,di Resta,IMSA WeatherTech SportsCar Championship,LMP2,United Autosports USA,2026,3,0.82,GBR,1986/4/16,1805,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.73,0.72,0.70,0.69,0.71,0.70,0.59
+Sebastien,Bourdais,IMSA WeatherTech SportsCar Championship,LMP2,Tower Motorsports,2026,4,0.82,FRA,1979/02/28,1800,0.73,0.73,0.69,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.55
+Charles,Milesi,IMSA WeatherTech SportsCar Championship,LMP2,TDS Racing,2026,5,0.82,FRA,2001/03/04,1785,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.50
+Ferdinand,Habsburg,IMSA WeatherTech SportsCar Championship,LMP2,Era Motorsport,2026,6,0.76,AUT,1997/06/21,1780,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.61
+Oliver,Jarvis,IMSA WeatherTech SportsCar Championship,LMP2,Intersport Racing,2026,7,0.76,GBR,1984/01/09,1775,0.71,0.71,0.65,0.68,0.70,0.72,0.68,0.69,0.69,0.68,0.70,0.67,0.72,0.71,0.66
+Tom,Dillmann,IMSA WeatherTech SportsCar Championship,LMP2,Inter Europol Competition,2026,8,0.76,FRA,1989/04/06,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.50
+Harry,Tincknell,IMSA WeatherTech SportsCar Championship,LMP2,Bryan Herta Autosport with PR1/Mathiasen,2026,9,0.76,GBR,1991/10/29,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.71,0.68,0.67,0.70,0.69,0.68,0.67,0.50
+Pietro,Fittipaldi,IMSA WeatherTech SportsCar Championship,LMP2,Pratt Miller Motorsports,2026,10,0.76,BRA,1996/06/25,1755,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.51
+Nicklas,Nielsen,IMSA WeatherTech SportsCar Championship,LMP2,AF Corse USA,2026,11,0.76,DNK,1997/02/06,1750,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.50
+Dane,Cameron,IMSA WeatherTech SportsCar Championship,LMP2,AO Racing,2026,12,0.70,USA,1988/10/18,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.66
+Connor,De Phillippi,IMSA WeatherTech SportsCar Championship,GT3_Gen2,Paul Miller Racing,2026,1,0.82,USA,1992/12/25,1840,0.76,0.76,0.70,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.43
+Antonio,Garcia,IMSA WeatherTech SportsCar Championship,GT3_Gen2,Corvette Racing by Pratt Miller Motorsports,2026,4,0.82,ESP,1980/06/05,1815,0.74,0.76,0.68,0.71,0.73,0.75,0.71,0.72,0.74,0.73,0.70,0.70,0.75,0.74,0.51
+Nicky,Catsburg,IMSA WeatherTech SportsCar Championship,GT3_Gen2,Corvette Racing by Pratt Miller Motorsports,2026,3,0.82,NLD,1988/02/15,1825,0.75,0.77,0.69,0.72,0.74,0.76,0.72,0.76,0.73,0.72,0.70,0.74,0.76,0.75,0.55
+Andrea,Caldarelli,IMSA WeatherTech SportsCar Championship,GT3_Gen2,Pfaff Motorsports,2026,9,0.76,ITA,1990/02/14,1785,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.49
+Jack,Hawksworth,IMSA WeatherTech SportsCar Championship,GT3_Gen2,Vasser Sullivan Racing,2026,8,0.76,GBR,1991/02/28,1795,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.74,0.71,0.70,0.70,0.72,0.71,0.70,0.57
+Philip,Ellis,IMSA WeatherTech SportsCar Championship,GT3_Gen2,Winward Racing,2026,2,0.82,CHE,1992/10/09,1835,0.75,0.75,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.40
+Max,Esterson,IMSA WeatherTech SportsCar Championship,GT3_Gen2,RLL Team McLaren,2026,12,0.70,USA,2002/10/09,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.46
+Alessandro,Pier Guidi,IMSA WeatherTech SportsCar Championship,GT3_Gen2,Risi Competizione,2026,7,0.76,ITA,1983/12/18,1805,0.73,0.75,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.54
+Mike,Rockenfeller,IMSA WeatherTech SportsCar Championship,GT3_Gen2,Ford Racing,2026,10,0.76,DEU,1983/10/31,1775,0.71,0.73,0.67,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.52
+Christopher,Mies,IMSA WeatherTech SportsCar Championship,GT3_Gen2,Ford Racing,2026,6,0.76,DEU,1989/05/24,1810,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.41
+Nick,Tandy,IMSA WeatherTech SportsCar Championship,GT3_Gen2,AO Racing,2026,11,0.76,GBR,1984/11/05,1780,0.72,0.74,0.68,0.69,0.71,0.70,0.69,0.73,0.72,0.71,0.70,0.71,0.70,0.69,0.57
+Klaus,Bachler,IMSA WeatherTech SportsCar Championship,GT3_Gen2,Manthey Racing,2026,5,0.82,AUT,1991/07/27,1820,0.74,0.76,0.68,0.71,0.73,0.75,0.71,0.72,0.74,0.73,0.70,0.70,0.75,0.74,0.43
+Antonio,Fuoco,IMSA WeatherTech SportsCar Championship,GT3_Gen2,AF Corse USA,2026,13,0.70,ITA,1996/05/20,1765,0.71,0.71,0.67,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.43
+Eduardo,Barrichello,IMSA WeatherTech SportsCar Championship,GT3_Gen2,Heart of Racing Team,2026,14,0.70,BRA,2001/09/23,1755,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.45
+Colin,Braun,GT World Challenge America,GT3_Gen2,Kellymoss,2026,1,0.82,USA,1988/09/22,1840,0.76,0.78,0.70,0.73,0.75,0.76,0.73,0.76,0.76,0.75,0.71,0.74,0.76,0.75,0.49
+Riley,Dickinson,GT World Challenge America,GT3_Gen2,Kellymoss,2026,2,0.82,USA,2002/01/01,1815,0.74,0.74,0.70,0.71,0.73,0.74,0.71,0.72,0.72,0.71,0.70,0.70,0.74,0.73,0.44
+Loek,Hartog,GT World Challenge America,GT3_Gen2,Kellymoss,2026,3,0.82,NLD,2002/01/01,1810,0.74,0.76,0.68,0.71,0.73,0.74,0.71,0.72,0.72,0.71,0.70,0.70,0.74,0.73,0.54
+Alex,Sedgwick,GT World Challenge America,GT3_Gen2,Dollahite Racing,2026,4,0.82,GBR,1998/01/01,1805,0.73,0.73,0.67,0.70,0.72,0.73,0.70,0.71,0.71,0.70,0.70,0.69,0.73,0.72,0.42
+Zachary,Vanier,GT World Challenge America,GT3_Gen2,McCann Racing,2026,5,0.82,CAN,2002/1/1,1800,0.73,0.73,0.67,0.70,0.72,0.73,0.70,0.71,0.71,0.70,0.70,0.69,0.73,0.72,0.54
+Daniel,Morad,GT World Challenge America,GT3_Gen2,TR3 Racing,2026,6,0.82,CAN,1990/04/24,1795,0.73,0.75,0.69,0.70,0.72,0.73,0.70,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.39
+Marc,Austin,GT World Challenge America,GT3_Gen2,MAD Joker by Lone Star Racing,2026,7,0.82,USA,1980/01/01,1785,0.72,0.72,0.66,0.69,0.71,0.72,0.69,0.70,0.70,0.69,0.70,0.68,0.72,0.71,0.56
+Frederik,Schandorff,GT World Challenge America,GT3_Gen2,AF Corse USA,2026,8,0.82,DNK,1996/08/20,1780,0.72,0.72,0.66,0.69,0.71,0.72,0.69,0.70,0.70,0.69,0.70,0.68,0.72,0.71,0.52
+Oswaldo,Negri Jr.,GT World Challenge America,GT3_Gen2,AF Corse USA,2026,9,0.82,BRA,1964/5/29,1775,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.71,0.69,0.68,0.70,0.69,0.71,0.70,0.51
+Andy,Lee,GT World Challenge America,GT3_Gen2,Riley Technologies,2026,10,0.76,USA,1979/01/01,1770,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.46
+Riccardo,Agostini,GT World Challenge America,GT3_Gen2,Triarsi Competizione,2026,11,0.76,ITA,1994/04/20,1765,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.47
+Philip,Ellis,GT World Challenge America,GT3_Gen2,JMF Motorsports,2026,12,0.76,CHE,1992/10/09,1760,0.70,0.72,0.64,0.67,0.69,0.70,0.67,0.68,0.70,0.69,0.70,0.66,0.70,0.69,0.40
+Mikael,Grenier,GT World Challenge America,GT3_Gen2,JMF Motorsports,2026,13,0.76,CAN,1992/10/17,1755,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.41
+Jan,Heylen,GT World Challenge America,GT3_Gen2,RS1,2026,14,0.76,BEL,1980/05/01,1750,0.70,0.72,0.64,0.67,0.69,0.68,0.67,0.70,0.70,0.69,0.70,0.68,0.68,0.67,0.50
+Robby,Foley,GT World Challenge America,GT3_Gen2,Turner Motorsport,2026,15,0.76,USA,1996/07/20,1745,0.69,0.71,0.65,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.56
+Ryan,Yardley,GT World Challenge America,GT3_Gen2,Wright Motorsports,2026,16,0.76,NZL,1999/01/01,1740,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.40
+Thomas,Merrill,GT World Challenge America,GT3_Gen2,Wright Motorsports,2026,17,0.76,USA,1986/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.46
+Tom,Sargent,GT World Challenge America,GT3_Gen2,GMG Racing,2026,18,0.76,AUS,2002/02/14,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.44
+Aaron,Povoledo,GT World Challenge America,GT3_Gen2,Chouest Povoledo Racing,2026,19,0.70,CAN,1976/11/10,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.51
+Mads,Siljehaug,GT World Challenge America,GT3_Gen2,Chicago Performance and Tuning,2026,20,0.70,NOR,1996/3/24,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.46
+Aaron,Telitz,GT World Challenge America,GT3_Gen2,Archangel Motorsports,2026,21,0.70,USA,1991/12/13,1715,0.67,0.69,0.63,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.52
+Robin,Liddell,GT World Challenge America,GT3_Gen2,Rebel Rock Racing,2026,22,0.70,GBR,1974/02/28,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.67,0.67,0.66,0.70,0.65,0.65,0.64,0.45
+Hampus,Ericsson,GT World Challenge America,GT3_Gen2,Random Vandals Racing,2026,23,0.70,SWE,2002/05/20,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.50
+Hampus,Ericsson,Lamborghini Super Trofeo North America,Super Trofeo,Wayne Taylor Racing,2026,1,0.82,SWE,2002/05/20,1815,0.74,0.76,0.70,0.71,0.73,0.74,0.71,0.74,0.74,0.73,0.70,0.72,0.74,0.73,0.47
+Al,Morey IV,Lamborghini Super Trofeo North America,Super Trofeo,Wayne Taylor Racing,2026,2,0.82,USA,1992/01/01,1755,0.70,0.70,0.64,0.67,0.69,0.70,0.67,0.68,0.68,0.67,0.70,0.66,0.70,0.69,0.44
+Graham,Doyle,Lamborghini Super Trofeo North America,Super Trofeo,Wayne Taylor Racing,2026,3,0.82,USA,2005/01/01,1775,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.54
+Marc,Miller,Lamborghini Super Trofeo North America,Super Trofeo,Wayne Taylor Racing,2026,4,0.82,USA,1975/8/24,1785,0.72,0.72,0.66,0.69,0.71,0.72,0.69,0.72,0.70,0.69,0.70,0.70,0.72,0.71,0.56
+Tatiana,Calderon,Lamborghini Super Trofeo North America,Super Trofeo,RAFA Racing Team,2026,5,0.82,COL,1993/03/10,1805,0.73,0.75,0.67,0.70,0.72,0.73,0.70,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.56
+Chloe,Chambers,Lamborghini Super Trofeo North America,Super Trofeo,RAFA Racing Team,2026,6,0.82,USA,2004/06/14,1770,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.51
+Jackson,Lee,Lamborghini Super Trofeo North America,Super Trofeo,Forty7 Motorsports,2026,7,0.82,USA,2002/01/01,1765,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.55
+Christopher,Koebbe,Lamborghini Super Trofeo North America,Super Trofeo,Forty7 Motorsports,2026,8,0.82,USA,1985/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.65,0.64,0.70,0.63,0.67,0.66,0.42
+Lindsay,Brewer,Lamborghini Super Trofeo North America,Super Trofeo,Forty7 Motorsports,2026,9,0.82,USA,1997/04/17,1735,0.69,0.69,0.63,0.66,0.68,0.69,0.66,0.67,0.67,0.66,0.70,0.65,0.69,0.68,0.47
+Christopher,Tasca,Lamborghini Super Trofeo North America,Super Trofeo,Forty7 Motorsports,2026,10,0.76,USA,1980/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.66,0.63,0.64,0.64,0.63,0.70,0.62,0.66,0.65,0.50
+Tommi,Gore,Lamborghini Super Trofeo North America,Super Trofeo,ANSA Motorsports,2026,11,0.76,JAM,2003/01/01,1760,0.70,0.70,0.66,0.67,0.69,0.70,0.67,0.68,0.68,0.67,0.70,0.66,0.70,0.69,0.52
+Philippe,Touchette,Lamborghini Super Trofeo North America,Super Trofeo,TB Autosports,2026,12,0.76,CAN,1985/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.65,0.64,0.70,0.63,0.67,0.66,0.48
+Kyle,Marcelli,Lamborghini Super Trofeo North America,Super Trofeo,TB Autosports,2026,13,0.76,CAN,1990/02/24,1790,0.72,0.74,0.66,0.69,0.71,0.70,0.69,0.72,0.72,0.71,0.70,0.70,0.70,0.69,0.50
+Anthony,Bullock,Lamborghini Super Trofeo North America,Super Trofeo,XONINE Racing,2026,14,0.76,USA,1994/01/01,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.48
+Will,Bamber,Lamborghini Super Trofeo North America,Super Trofeo,XONINE Racing,2026,15,0.76,NZL,1994/07/20,1810,0.74,0.76,0.70,0.71,0.73,0.72,0.71,0.74,0.74,0.73,0.70,0.72,0.72,0.71,0.45
+Nick,Groat,Lamborghini Super Trofeo North America,Super Trofeo,XONINE Racing,2026,16,0.76,USA,1985/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.45
+Troy,Petersen,Lamborghini Super Trofeo North America,Super Trofeo,XONINE Racing,2026,17,0.76,USA,1980/01/01,1690,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.53
+Rodin,Younessi,Lamborghini Super Trofeo North America,Super Trofeo,Alliance Racing,2026,18,0.76,USA,1969/01/01,1685,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.44
+Ernie,Francis Jr.,Lamborghini Super Trofeo North America,Super Trofeo,Alliance Racing,2026,19,0.70,USA,1998/01/23,1795,0.73,0.75,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.57
+Jack William,Miller,Lamborghini Super Trofeo North America,Super Trofeo,Alliance Racing,2026,20,0.70,USA,2003/01/01,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.68,0.66,0.65,0.70,0.66,0.66,0.65,0.44
+James,Lawley,Lamborghini Super Trofeo North America,Super Trofeo,Atlantic Racing Team,2026,21,0.70,CAN,2001/01/01,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.43
+Jaden,Conwright,Lamborghini Super Trofeo North America,Super Trofeo,SP Motorsports,2026,22,0.70,USA,1999/07/29,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.41
+Elias,De La Torre IV,Lamborghini Super Trofeo North America,Super Trofeo,TR3 Racing,2026,23,0.70,USA,2005/01/01,1800,0.73,0.75,0.69,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.49
+Clay,Wilson,Lamborghini Super Trofeo North America,Super Trofeo,TR3 Racing,2026,24,0.70,USA,1996/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.40
+Charles,Dawson,British GT Championship,GT3_Gen2,2 Seas Motorsport,2026,1,0.82,GBR,1993/01/01,1810,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.56
+Aaron,Walker,British GT Championship,GT3_Gen2,2 Seas Motorsport,2026,2,0.82,GBR,2000/01/01,1790,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.45
+Ben,Green,British GT Championship,GT3_Gen2,2 Seas Motorsport,2026,3,0.82,GBR,1997/02/13,1825,0.75,0.75,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.50
+Garnet,Patterson,British GT Championship,GT3_Gen2,Optimum Motorsport,2026,4,0.82,ZAF,1993/8/23,1800,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.53
+Ben,Barnicoat,British GT Championship,GT3_Gen2,Optimum Motorsport,2026,5,0.82,GBR,1996/12/20,1840,0.76,0.78,0.70,0.73,0.75,0.76,0.73,0.76,0.76,0.75,0.71,0.74,0.76,0.75,0.46
+Jack,Brown,British GT Championship,GT3_Gen2,Optimum Motorsport,2026,6,0.82,GBR,2002/01/01,1775,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.49
+Phil,Keen,British GT Championship,GT3_Gen2,Paradine Competition,2026,7,0.76,GBR,1983/10/20,1835,0.75,0.77,0.69,0.72,0.74,0.75,0.72,0.75,0.75,0.74,0.70,0.73,0.75,0.74,0.39
+Dan,Harper,British GT Championship,GT3_Gen2,Paradine Competition,2026,8,0.76,GBR,2000/12/08,1830,0.75,0.77,0.71,0.72,0.74,0.75,0.72,0.73,0.73,0.72,0.70,0.71,0.75,0.74,0.46
+Ross,Gunn,British GT Championship,GT3_Gen2,Beechdean Motorsport,2026,9,0.76,GBR,1997/03/10,1820,0.74,0.76,0.68,0.71,0.73,0.74,0.71,0.74,0.74,0.73,0.70,0.72,0.74,0.73,0.49
+Martin,Plowman,British GT Championship,GT3_Gen2,Paddock Motorsport,2026,10,0.76,GBR,1987/10/03,1790,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.51
+Josh,Buchan,British GT Championship,GT3_Gen2,Rodin Motorsport,2026,11,0.76,AUS,1995/01/01,1780,0.72,0.72,0.68,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.48
+Jonathon,Beeson,British GT Championship,GT3_Gen2,Century Motorsport,2026,12,0.76,GBR,2003/01/01,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.47
+Matt,Griffin,British GT Championship,GT3_Gen2,Barwell Motorsport,2026,13,0.70,IRL,1982/11/01,1815,0.74,0.76,0.68,0.71,0.73,0.72,0.71,0.74,0.74,0.73,0.70,0.72,0.72,0.71,0.42
+Rob,Collard,British GT Championship,GT3_Gen2,Barwell Motorsport,2026,14,0.70,GBR,1968/10/01,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.46
+Marcus,Clutton,British GT Championship,GT3_Gen2,Orange Racing by JMH,2026,15,0.70,GBR,1993/1/1,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.50
+Josh,Rowledge,British GT Championship,GT3_Gen2,Mahiki Racing,2026,16,0.70,GBR,2002/1/1,1755,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.48
+Tom,Bradshaw,British GT Championship,GT4,Toro Verde GT,2026,1,0.82,GBR,1992/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.51
+Jack,Mitchell,British GT Championship,GT4,Toro Verde GT,2026,2,0.82,GBR,1998/01/01,1745,0.69,0.69,0.65,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.46
+Jessica,Hawkins,British GT Championship,GT4,MK Racing,2026,3,0.82,GBR,1995/02/16,1720,0.68,0.68,0.64,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.43
+Jack,Collins,British GT Championship,GT4,Century Motorsport,2026,4,0.82,GBR,1994/01/01,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.46
+Darren,Turner,British GT Championship,GT4,Grange Racing by FSR,2026,5,0.82,GBR,1974/4/13,1740,0.69,0.71,0.63,0.66,0.68,0.69,0.66,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.50
+James,Townsend,British GT Championship,GT4,Townsend Racing,2026,6,0.82,GBR,1988/1/1,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.45
+Luca,Hopkinson,British GT Championship,GT4,Optimum Motorsport,2026,7,0.76,GBR,2002/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.44
+Colin,Turkington,British GT Championship,GT4,WSR Flexifly,2026,8,0.76,GBR,1982/03/21,1735,0.69,0.71,0.63,0.66,0.68,0.67,0.66,0.69,0.67,0.66,0.70,0.67,0.67,0.66,0.48
+Thomas,Holland,British GT Championship,GT4,Innovation Racing,2026,9,0.76,GBR,2000/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.53
+Blake,Angliss,British GT Championship,GT4,Mahiki Racing,2026,10,0.76,GBR,2004/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.51
+Ronan,Pearson,British GT Championship,GT4,GBR Stratton Motorsport,2026,11,0.76,GBR,2001/09/01,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.44
+Sebastian,Alvarez,European Le Mans Series,LMP2_Gen1,DKR Engineering,2026,1,0.82,MEX,2002/01/01,1810,0.74,0.74,0.68,0.71,0.73,0.74,0.71,0.72,0.72,0.71,0.70,0.70,0.74,0.73,0.61
+Cem,Bolukbasi,European Le Mans Series,LMP2_Gen1,Vector Sport,2026,2,0.82,TUR,1998/02/09,1800,0.73,0.73,0.67,0.70,0.72,0.73,0.70,0.71,0.71,0.70,0.70,0.69,0.73,0.72,0.59
+Mike,Rockenfeller,European Le Mans Series,LMP2_Gen1,Proton Competition,2026,3,0.82,DEU,1983/10/31,1840,0.76,0.78,0.72,0.73,0.75,0.76,0.73,0.76,0.76,0.75,0.71,0.74,0.76,0.75,0.63
+Sami,Meguetounif,European Le Mans Series,LMP2_Gen1,TDS Racing,2026,4,0.82,FRA,2004/05/24,1785,0.72,0.72,0.66,0.69,0.71,0.72,0.69,0.70,0.70,0.69,0.70,0.68,0.72,0.71,0.50
+Jamie,Chadwick,European Le Mans Series,LMP2_Gen1,IDEC Sport,2026,5,0.82,GBR,1998/05/20,1780,0.72,0.74,0.66,0.69,0.71,0.72,0.69,0.70,0.70,0.69,0.70,0.68,0.72,0.71,0.61
+Malthe,Jakobsen,European Le Mans Series,LMP2_Gen1,Algarve Pro Racing,2026,6,0.82,DNK,2003/10/29,1815,0.74,0.76,0.68,0.71,0.73,0.74,0.71,0.72,0.72,0.71,0.70,0.70,0.74,0.73,0.61
+Oliver,Jarvis,European Le Mans Series,LMP2_Gen1,United Autosports,2026,7,0.76,GBR,1984/01/09,1825,0.75,0.77,0.69,0.72,0.74,0.75,0.72,0.75,0.75,0.74,0.70,0.73,0.75,0.74,0.51
+Wyatt,Brichacek,European Le Mans Series,P1Gen2,DKR Engineering,2026,1,0.82,USA,2003/01/01,1745,0.69,0.69,0.63,0.66,0.68,0.69,0.66,0.67,0.67,0.66,0.70,0.65,0.69,0.68,0.51
+Mikkel,Gaarde Pedersen,European Le Mans Series,P1Gen2,Rinaldi Racing,2026,2,0.82,DNK,1996/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.69,0.66,0.67,0.67,0.66,0.70,0.65,0.69,0.68,0.59
+Daniel,Nogales,European Le Mans Series,P1Gen2,Team Virage,2026,3,0.82,ESP,2002/01/01,1728,0.68,0.68,0.62,0.65,0.67,0.68,0.65,0.66,0.66,0.65,0.70,0.64,0.68,0.67,0.62
+Matthew,Bell,European Le Mans Series,P1Gen2,EuroInternational,2026,4,0.82,GBR,1989/01/01,1720,0.68,0.68,0.62,0.65,0.67,0.68,0.65,0.66,0.66,0.65,0.70,0.64,0.68,0.67,0.58
+Alexander,Bukhantsov,European Le Mans Series,P1Gen2,Inter Europol Competition,2026,5,0.82,ARE,2004/01/01,1715,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.65,0.64,0.70,0.63,0.67,0.66,0.54
+Paul,Lanchere,European Le Mans Series,P1Gen2,CLX Motorsport,2026,6,0.82,FRA,2002/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.65,0.64,0.70,0.63,0.67,0.66,0.49
+Lenny,Ried,European Le Mans Series,P1Gen2,Racing Spirit of Leman,2026,7,0.76,DEU,2005/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.65,0.64,0.70,0.63,0.67,0.66,0.56
+Sebastian,Gravlund,European Le Mans Series,P1Gen2,Ultimate,2026,8,0.76,DNK,2002/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.67,0.64,0.65,0.65,0.64,0.70,0.62,0.67,0.66,0.62
+Nick,Adcock,European Le Mans Series,P1Gen2,M Racing,2026,9,0.76,GBR,1987/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.64
+Fabien,Michal,European Le Mans Series,P1Gen2,R-ace GP,2026,10,0.76,FRA,1989/01/01,1690,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.55
+Wayne,Boyd,European Le Mans Series,GT3,United Autosports,2026,1,0.82,GBR,1990/10/25,1775,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.46
+Charlie,Eastwood,European Le Mans Series,GT3,TF Sport,2026,2,0.82,IRL,1995/08/11,1785,0.72,0.72,0.66,0.69,0.71,0.72,0.69,0.72,0.70,0.69,0.70,0.70,0.72,0.71,0.39
+Riccardo,Agostini,European Le Mans Series,GT3,Richard Mille AF Corse,2026,3,0.82,ITA,1994/04/20,1770,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.47
+Davide,Rigon,European Le Mans Series,GT3,AF Corse,2026,4,0.82,ITA,1986/08/26,1780,0.72,0.72,0.66,0.69,0.71,0.72,0.69,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.44
+Matt,Griffin,European Le Mans Series,GT3,Spirit of Race,2026,5,0.82,IRL,1982/11/01,1765,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.47
+Laurin,Heinrich,European Le Mans Series,GT3,High Class Racing,2026,6,0.82,DEU,2001/09/26,1790,0.72,0.74,0.66,0.69,0.71,0.72,0.69,0.70,0.70,0.69,0.70,0.68,0.72,0.71,0.45
+Daniel,Serra,European Le Mans Series,GT3,Kessel Racing,2026,7,0.76,BRA,1984/02/24,1795,0.73,0.75,0.67,0.70,0.72,0.73,0.70,0.71,0.73,0.72,0.70,0.69,0.73,0.72,0.44
+Fran,Rueda,European Le Mans Series,GT3,Kessel Racing,2026,8,0.76,ESP,1996/01/01,1755,0.70,0.70,0.64,0.67,0.69,0.70,0.67,0.68,0.68,0.67,0.70,0.66,0.70,0.69,0.52
+Valentin,Hasse-Clot,European Le Mans Series,GT3,Racing Spirit of Leman,2026,9,0.76,FRA,1996/01/01,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.42
+Adam,Christodoulou,European Le Mans Series,GT3,Team Qatar by Iron Lynx,2026,10,0.76,GBR,1989/06/11,1750,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.46
+Sergio,Sette Camara,European Le Mans Series,GT3,Iron Lynx,2026,11,0.76,BRA,1998/05/23,1770,0.71,0.71,0.67,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.39
+Richard,Lietz,European Le Mans Series,GT3,Proton Competition,2026,12,0.76,AUT,1983/12/17,1788,0.72,0.74,0.66,0.69,0.71,0.70,0.69,0.72,0.72,0.71,0.70,0.70,0.70,0.69,0.42
+Harry,King,European Le Mans Series,GT3,Proton Competition,2026,13,0.70,GBR,2001/01/20,1762,0.71,0.71,0.67,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.55
+Lorcan,Hanafin,European Le Mans Series,GT3,GR Racing,2026,14,0.70,GBR,2002/01/01,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.45
+Jules,Gounon,Nürburgring Langstrecken-Serie,GT3_Gen2,Mercedes-AMG Team Getspeed,2026,1,0.82,AND,1994/12/31,1900,0.79,0.81,0.73,0.76,0.78,0.80,0.76,0.80,0.79,0.78,0.74,0.78,0.80,0.79,0.54
+Daniel,Juncadella,Nürburgring Langstrecken-Serie,GT3_Gen2,Mercedes-AMG Team Getspeed,2026,2,0.82,ESP,1991/05/07,1875,0.78,0.80,0.72,0.75,0.77,0.76,0.75,0.76,0.76,0.75,0.73,0.74,0.76,0.75,0.47
+Max,Verstappen,Nürburgring Langstrecken-Serie,GT3_Gen2,Emil Frey Racing,2026,3,0.82,NLD,1997/09/30,1950,0.83,0.85,0.79,0.80,0.82,0.81,0.80,0.81,0.81,0.80,0.78,0.79,0.81,0.80,0.56
+Fabian,Schiller,Nürburgring Langstrecken-Serie,GT3_Gen2,Haupt Racing Team,2026,4,0.82,DEU,1997/10/24,1845,0.76,0.76,0.70,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.56
+Maxime,Martin,Nürburgring Langstrecken-Serie,GT3_Gen2,ROWE Racing,2026,5,0.82,BEL,1986/03/20,1860,0.77,0.79,0.71,0.74,0.76,0.78,0.74,0.78,0.77,0.76,0.72,0.76,0.78,0.77,0.40
+Maro,Engel,Nürburgring Langstrecken-Serie,GT3_Gen2,Mercedes-AMG Team Schnitzelalm,2026,6,0.82,DEU,1985/08/27,1885,0.79,0.81,0.73,0.76,0.78,0.80,0.76,0.80,0.79,0.78,0.74,0.78,0.80,0.79,0.56
+Luca,Stolz,Nürburgring Langstrecken-Serie,GT3_Gen2,Mercedes-AMG Team Schnitzelalm,2026,7,0.82,DEU,1995/07/29,1865,0.77,0.79,0.71,0.74,0.76,0.78,0.74,0.78,0.77,0.76,0.72,0.76,0.78,0.77,0.49
+Artur,Goroyan,Nürburgring Langstrecken-Serie,GT3_Gen2,Goroyan RT by Car Collection,2026,8,0.82,ARM,1993/01/01,1805,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.56
+Alex,Fontana,Nürburgring Langstrecken-Serie,GT3_Gen2,Goroyan RT by Car Collection,2026,9,0.82,CHE,1992/08/05,1800,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.44
+Nathanael,Berthon,Nürburgring Langstrecken-Serie,GT3_Gen2,Car Collection Motorsport,2026,10,0.82,FRA,1989/07/01,1810,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.45
+Gabriele,Piana,Nürburgring Langstrecken-Serie,GT3_Gen2,Team Advan x HRT,2026,11,0.76,ITA,1986/10/03,1815,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.41
+Dylan,Pereira,Nürburgring Langstrecken-Serie,GT3_Gen2,Dinamic GT,2026,12,0.76,LUX,1997/06/10,1800,0.73,0.73,0.69,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.56
+Christian,Engelhart,Nürburgring Langstrecken-Serie,GT3_Gen2,Dinamic GT,2026,13,0.76,DEU,1986/12/13,1820,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.48
+Maximilian,Paul,Nürburgring Langstrecken-Serie,GT3_Gen2,Paul Motorsport,2026,14,0.76,DEU,2000/01/01,1785,0.72,0.72,0.68,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.57
+Pavel,Lefterov,Nürburgring Langstrecken-Serie,GT3_Gen2,Paul Motorsport,2026,15,0.76,BGR,1998/11/12,1775,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.56
+Pierre,Kaffer,Nürburgring Langstrecken-Serie,GT3_Gen2,Scherer Sport PHX,2026,16,0.76,DEU,1976/11/7,1795,0.73,0.73,0.67,0.70,0.72,0.74,0.70,0.71,0.71,0.70,0.70,0.69,0.74,0.73,0.47
+Christer,Joens,Nürburgring Langstrecken-Serie,GT3_Gen2,Scherer Sport PHX,2026,17,0.76,DEU,1987/07/23,1770,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.49
+Kenneth,Heyer,Nürburgring Langstrecken-Serie,GT3_Gen2,Juta Racing,2026,18,0.76,DEU,1979/11/22,1765,0.71,0.71,0.65,0.68,0.70,0.72,0.68,0.69,0.69,0.68,0.70,0.67,0.72,0.71,0.39
+Jannes,Fittje,Nürburgring Langstrecken-Serie,GT3_Gen2,Juta Racing,2026,19,0.76,DEU,1999/07/22,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.54
+Christopher,Haase,Nürburgring Langstrecken-Serie,GT3_Gen2,Haupt Racing Team,2026,20,0.76,DEU,1987/09/26,1805,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.74,0.73,0.72,0.70,0.72,0.71,0.70,0.50
+Alexander,Sims,Nürburgring Langstrecken-Serie,GT3_Gen2,ROWE Racing,2026,21,0.70,GBR,1988/03/15,1810,0.74,0.76,0.68,0.71,0.73,0.72,0.71,0.75,0.74,0.73,0.70,0.73,0.72,0.71,0.43
+Ben,Green,Nürburgring Langstrecken-Serie,GT3_Gen2,ROWE Racing,2026,22,0.70,GBR,1997/5/22,1770,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.50
+Nico,Menzel,Nürburgring Langstrecken-Serie,GT3_Gen2,Falken Motorsports,2026,23,0.70,DEU,1997/12/11,1785,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.40
+Julien,Andlauer,Nürburgring Langstrecken-Serie,GT3_Gen2,Falken Motorsports,2026,24,0.70,FRA,1999/07/05,1790,0.72,0.74,0.68,0.69,0.71,0.70,0.69,0.73,0.72,0.71,0.70,0.71,0.70,0.69,0.53
+Alexandru,Vasilescu,Nürburgring Langstrecken-Serie,GT4,AV Racing by Black Falcon,2026,1,0.82,ROU,1991/01/01,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.54
+Anton,Abee,Nürburgring Langstrecken-Serie,GT4,PROsport-Racing,2026,2,0.82,DEU,2004/01/01,1735,0.69,0.69,0.65,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.41
+Yannik,Himmels,Nürburgring Langstrecken-Serie,GT4,PROsport-Racing,2026,3,0.82,DEU,1998/1/1,1730,0.68,0.68,0.64,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.40
+Joerg,Viebahn,Nürburgring Langstrecken-Serie,GT4,PROsport-Racing,2026,4,0.82,DEU,1966/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.45
+Russ,Turner,Nürburgring Langstrecken-Serie,GT4,AV Racing by Black Falcon,2026,5,0.82,USA,1975/01/01,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.53
+David,Ogburn,Nürburgring Langstrecken-Serie,GT4,AV Racing by Black Falcon,2026,6,0.82,USA,1980/01/01,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.42
+Judson,Holt,Nürburgring Langstrecken-Serie,GT4,AV Racing by Black Falcon,2026,7,0.82,USA,1980/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.42
+Denny,Stripling,Nürburgring Langstrecken-Serie,GT4,AV Racing by Black Falcon,2026,8,0.82,USA,1960/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.51
+Malcolm,Harrison,Nürburgring Langstrecken-Serie,GT4,AV Racing by Black Falcon,2026,9,0.82,USA,1965/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.55
+Martin,Kroll,Nürburgring Langstrecken-Serie,GT4,Plusline Motorsport,2026,10,0.82,CHE,1985/01/01,1698,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.41
+Maik,Roennefarth,Nürburgring Langstrecken-Serie,GT4,Plusline Motorsport,2026,11,0.76,DEU,1980/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.42
+Stephan,Brodmerkel,Nürburgring Langstrecken-Serie,GT4,W&S Motorsport,2026,12,0.76,DEU,1981/01/01,1692,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.44
+Juergen,Voehringer,Nürburgring Langstrecken-Serie,GT4,W&S Motorsport,2026,13,0.76,DEU,1968/01/01,1690,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.46
+Danny,Brink,Nürburgring Langstrecken-Serie,GT4,Smyrlis Racing,2026,14,0.76,DEU,1983/1/1,1688,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.51
+Aris,Balanian,Nürburgring Langstrecken-Serie,GT4,Cerny Motorsport,2026,15,0.76,BEL,1995/01/01,1685,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.47
+Joshua,Bednarski,Nürburgring Langstrecken-Serie,GT4,Cerny Motorsport,2026,16,0.76,FRA,2000/1/1,1682,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.43
+Peter,Cate,Nürburgring Langstrecken-Serie,GT4,Cerny Motorsport,2026,17,0.76,GBR,1970/01/01,1680,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.40
+Tom,Schuetze,Nürburgring Langstrecken-Serie,GT4,Cerny Motorsport,2026,18,0.76,DEU,1990/01/01,1678,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.45
+Richard,Gresek,Nürburgring Langstrecken-Serie,GT4,Plusline Motorsport,2026,19,0.76,DEU,1985/01/01,1675,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.54
+Philipp,Gresek,Nürburgring Langstrecken-Serie,GT4,Plusline Motorsport,2026,20,0.76,DEU,1990/01/01,1672,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.40
+Hendrik,Still,Nürburgring Langstrecken-Serie,GT4,W&S Motorsport,2026,21,0.70,DEU,1987/01/01,1670,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.55
+Constantin,Schoell,Nürburgring Langstrecken-Serie,GT4,W&S Motorsport,2026,22,0.70,AUT,1998/01/01,1668,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.43
+Kazuto,Kotaka,Nürburgring Langstrecken-Serie,GT4,Toyo Tires with Ring Racing,2026,23,0.70,JPN,1999/04/17,1665,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.48
+Miki,Koyama,Nürburgring Langstrecken-Serie,GT4,Toyo Tires with Ring Racing,2026,24,0.70,JPN,1997/09/05,1662,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.44
+Augusto,Farfus,Intercontinental GT Challenge,GT3_Gen2,ROWE Racing,2026,1,0.82,BRA,1983/9/3,1885,0.79,0.81,0.73,0.76,0.78,0.80,0.76,0.80,0.79,0.78,0.74,0.78,0.80,0.79,0.40
+Dan,Harper,Intercontinental GT Challenge,GT3_Gen2,ROWE Racing,2026,2,0.82,GBR,2000/12/08,1865,0.77,0.77,0.71,0.74,0.76,0.75,0.74,0.75,0.75,0.74,0.72,0.73,0.75,0.74,0.46
+Kelvin,van der Linde,Intercontinental GT Challenge,GT3_Gen2,Team WRT,2026,3,0.82,ZAF,1996/06/20,1900,0.79,0.81,0.73,0.76,0.78,0.77,0.76,0.80,0.77,0.76,0.74,0.78,0.77,0.76,0.46
+Valentino,Rossi,Intercontinental GT Challenge,GT3_Gen2,Team WRT,2026,8,0.82,ITA,1979/02/16,1825,0.75,0.75,0.69,0.72,0.74,0.76,0.72,0.73,0.75,0.74,0.70,0.71,0.76,0.75,0.50
+Ahmad,Al Harthy,Intercontinental GT Challenge,GT3_Gen2,OQ by Oman Racing,2026,20,0.76,OMN,1981/08/31,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.47
+Calan,Williams,Intercontinental GT Challenge,GT3_Gen2,OQ by Oman Racing,2026,17,0.76,AUS,2000/06/30,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.49
+Earl,Bamber,Intercontinental GT Challenge,GT3_Gen2,Johor Motorsports Racing,2026,4,0.82,NZL,1990/07/09,1880,0.78,0.78,0.72,0.75,0.77,0.76,0.75,0.76,0.76,0.75,0.73,0.74,0.76,0.75,0.45
+Jaxon,Evans,Intercontinental GT Challenge,GT3_Gen2,Johor Motorsports Racing,2026,13,0.76,NZL,1996/09/09,1785,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.54
+Chaz,Mostert,Intercontinental GT Challenge,GT3_Gen2,Arise Racing GT,2026,5,0.82,AUS,1992/04/10,1870,0.78,0.80,0.74,0.75,0.77,0.76,0.75,0.76,0.76,0.75,0.73,0.74,0.76,0.75,0.46
+Brad,Schumacher,Intercontinental GT Challenge,GT3_Gen2,Arise Racing GT,2026,24,0.70,AUS,1997/01/01,1685,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.54
+Dennis,Marschall,Intercontinental GT Challenge,GT3_Gen2,Rinaldi Racing,2026,12,0.76,DEU,1996/08/12,1795,0.73,0.73,0.69,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.48
+David,Perel,Intercontinental GT Challenge,GT3_Gen2,Rinaldi Racing,2026,19,0.76,ZAF,1985/05/14,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.56
+Nicklas,Nielsen,Intercontinental GT Challenge,GT3_Gen2,AF Corse,2026,6,0.82,DNK,1997/02/06,1850,0.76,0.78,0.70,0.73,0.75,0.77,0.73,0.74,0.76,0.75,0.71,0.72,0.77,0.76,0.51
+Alessio,Rovera,Intercontinental GT Challenge,GT3_Gen2,AF Corse,2026,7,0.82,ITA,1995/06/22,1835,0.75,0.75,0.71,0.72,0.74,0.73,0.72,0.73,0.75,0.74,0.70,0.71,0.73,0.72,0.51
+Miguel,Molina,Intercontinental GT Challenge,GT3_Gen2,AF Corse,2026,10,0.82,ESP,1989/02/17,1810,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.53
+Lilou,Wadoux,Intercontinental GT Challenge,GT3_Gen2,AF Corse,2026,18,0.76,FRA,2001/04/10,1740,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.41
+Rolf,Ineichen,Intercontinental GT Challenge,GT3_Gen2,Kessel Racing,2026,23,0.70,CHE,1978/05/22,1690,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.51
+Daniel,Serra,Intercontinental GT Challenge,GT3_Gen2,Kessel Racing,2026,11,0.76,BRA,1984/02/24,1805,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.51
+Christopher,Mies,Intercontinental GT Challenge,GT3_Gen2,Ford Racing,2026,9,0.82,DEU,1989/05/24,1825,0.75,0.77,0.69,0.72,0.74,0.73,0.72,0.76,0.73,0.72,0.70,0.74,0.73,0.72,0.41
+Dennis,Olsen,Intercontinental GT Challenge,GT3_Gen2,Ford Racing,2026,14,0.76,NOR,1996/04/14,1780,0.72,0.72,0.68,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.40
+Frederic,Vervisch,Intercontinental GT Challenge,GT3_Gen2,Ford Racing,2026,15,0.76,BEL,1986/08/10,1775,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.53
+Thierry,Vermeulen,Intercontinental GT Challenge,GT3_Gen2,Verstappen.com Racing,2026,21,0.76,NLD,2002/07/26,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.42
+Max,Verstappen,Intercontinental GT Challenge,GT3_Gen2,Verstappen.com Racing,2026,16,0.76,NLD,1997/09/30,1860,0.77,0.77,0.73,0.74,0.76,0.75,0.74,0.75,0.75,0.74,0.72,0.73,0.75,0.74,0.56
+Lucas,Auer,Intercontinental GT Challenge,GT3_Gen2,Winward Racing,2026,22,0.76,AUT,1994/09/11,1725,0.68,0.70,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.52
+Maro,Engel,Intercontinental GT Challenge,GT3_Gen2,Winward Racing,2026,25,0.70,DEU,1985/08/27,1710,0.67,0.69,0.63,0.64,0.66,0.68,0.64,0.68,0.67,0.66,0.70,0.66,0.68,0.67,0.56
+Maxime,Martin,Intercontinental GT Challenge,GT3_Gen2,GetSpeed,2026,26,0.70,BEL,1986/03/20,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.40
+Fabian,Schiller,Intercontinental GT Challenge,GT3_Gen2,GetSpeed,2026,27,0.70,DEU,1997/10/24,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.56
+Patric,Niederhauser,Intercontinental GT Challenge,GT3_Gen2,Rutronik Racing,2026,28,0.70,CHE,1991/10/08,1695,0.66,0.66,0.60,0.63,0.65,0.67,0.63,0.67,0.66,0.65,0.70,0.65,0.67,0.66,0.51
+Julien,Andlauer,Intercontinental GT Challenge,GT3_Gen2,Rutronik Racing,2026,29,0.70,FRA,1999/7/5,1690,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.53
+Darryl,O'Young,Intercontinental GT Challenge,GT3_Gen2,Craft-Bamboo Racing,2026,30,0.70,HKG,1980/03/26,1685,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.53
+Edoardo,Mortara,Intercontinental GT Challenge,GT3_Gen2,Craft-Bamboo Racing,2026,31,0.70,CHE,1987/01/12,1680,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.46
+Luca,Stolz,Intercontinental GT Challenge,GT3_Gen2,Mercedes-AMG Team GruppeM,2026,32,0.70,DEU,1995/7/29,1675,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.49
+Charles,Weerts,GT World Challenge Europe,GT3_Gen2,Team WRT,2026,1,0.82,BEL,2001/3/1,1885,0.79,0.81,0.73,0.76,0.78,0.80,0.76,0.77,0.77,0.76,0.74,0.75,0.80,0.79,0.48
+Valentino,Rossi,GT World Challenge Europe,GT3_Gen2,Team WRT,2026,8,0.82,ITA,1979/02/16,1815,0.74,0.74,0.68,0.71,0.73,0.75,0.71,0.72,0.74,0.73,0.70,0.70,0.75,0.74,0.50
+Kelvin,van der Linde,GT World Challenge Europe,GT3_Gen2,Team WRT,2026,2,0.82,ZAF,1996/06/20,1900,0.79,0.81,0.73,0.76,0.78,0.77,0.76,0.80,0.77,0.76,0.74,0.78,0.77,0.76,0.46
+Augusto,Farfus,GT World Challenge Europe,GT3_Gen2,Team WRT,2026,10,0.82,BRA,1983/09/03,1795,0.73,0.75,0.67,0.70,0.72,0.74,0.70,0.74,0.73,0.72,0.70,0.72,0.74,0.73,0.40
+Nicki,Thiim,GT World Challenge Europe,GT3_Gen2,Comtoyou Racing,2026,5,0.82,DNK,1989/4/17,1840,0.76,0.76,0.70,0.73,0.75,0.74,0.73,0.77,0.76,0.75,0.71,0.75,0.74,0.73,0.57
+Marco,Sorensen,GT World Challenge Europe,GT3_Gen2,Comtoyou Racing,2026,9,0.82,DNK,1990/09/06,1805,0.73,0.73,0.67,0.70,0.72,0.74,0.70,0.71,0.71,0.70,0.70,0.69,0.74,0.73,0.40
+Simon,Gachet,GT World Challenge Europe,GT3_Gen2,CSA Racing,2026,16,0.76,FRA,1993/10/02,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.56
+Arthur,Rougier,GT World Challenge Europe,GT3_Gen2,CSA Racing,2026,18,0.76,FRA,2000/01/04,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.55
+Marvin,Kirchhofer,GT World Challenge Europe,GT3_Gen2,Garage 59,2026,6,0.82,DEU,1994/3/19,1825,0.75,0.77,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.51
+Louis,Prette,GT World Challenge Europe,GT3_Gen2,Garage 59,2026,23,0.70,MCO,1998/01/01,1685,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.52
+Mikey,Porter,GT World Challenge Europe,GT3_Gen2,Optimum Motorsport,2026,25,0.70,GBR,2006/1/1,1675,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.52
+Guilherme,Oliveira,GT World Challenge Europe,GT3_Gen2,Optimum Motorsport,2026,22,0.76,PRT,2004/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.43
+Dorian,Boccolacci,GT World Challenge Europe,GT3_Gen2,Boutsen VDS,2026,11,0.76,FRA,1998/09/09,1780,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.40
+Alessio,Picariello,GT World Challenge Europe,GT3_Gen2,Boutsen VDS,2026,12,0.76,BEL,1993/08/27,1775,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.56
+Patric,Niederhauser,GT World Challenge Europe,GT3_Gen2,Rutronik Racing,2026,7,0.82,CHE,1991/10/8,1810,0.74,0.74,0.68,0.71,0.73,0.75,0.71,0.75,0.74,0.73,0.70,0.73,0.75,0.74,0.51
+Luca,Engstler,GT World Challenge Europe,GT3_Gen2,Rutronik Racing,2026,15,0.76,DEU,2000/03/08,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.45
+Thierry,Vermeulen,GT World Challenge Europe,GT3_Gen2,Verstappen.com Racing,2026,17,0.76,NLD,2002/07/26,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.42
+Chris,Lulham,GT World Challenge Europe,GT3_Gen2,Verstappen.com Racing,2026,21,0.76,GBR,2003/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.40
+Thomas,Neubauer,GT World Challenge Europe,GT3_Gen2,AF Corse,2026,13,0.76,FRA,1999/07/08,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.55
+Arthur,Leclerc,GT World Challenge Europe,GT3_Gen2,AF Corse,2026,14,0.76,MCO,2000/10/14,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.55
+Lucas,Auer,GT World Challenge Europe,GT3_Gen2,Winward Racing,2026,4,0.82,AUT,1994/09/11,1845,0.76,0.78,0.70,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.52
+Maro,Engel,GT World Challenge Europe,GT3_Gen2,Winward Racing,2026,3,0.82,DEU,1985/08/27,1860,0.77,0.79,0.73,0.74,0.76,0.78,0.74,0.78,0.77,0.76,0.72,0.76,0.78,0.77,0.56
+Jules,Gounon,GT World Challenge Europe,GT3_Gen2,GetSpeed,2026,19,0.76,FRA,1994/12/31,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.69,0.66,0.65,0.70,0.67,0.66,0.65,0.54
+Fabian,Schiller,GT World Challenge Europe,GT3_Gen2,GetSpeed,2026,20,0.76,DEU,1997/10/24,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.56
+Mirko,Bortolotti,GT World Challenge Europe,GT3_Gen2,Grasser Racing Team,2026,24,0.70,ITA,1990/01/10,1690,0.66,0.68,0.62,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.54
+Luca,Stolz,GT World Challenge Europe,GT3_Gen2,Grasser Racing Team,2026,26,0.70,DEU,1995/07/29,1680,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.49
+Ezequiel,Perez Companc,GT World Challenge Europe,GT3_Gen2,Madpanda Motorsport,2026,27,0.70,ARG,1994/7/5,1670,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.47
+Patrick,Assenheimer,GT World Challenge Europe,GT3_Gen2,Madpanda Motorsport,2026,28,0.70,DEU,1992/04/10,1665,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.43
+Giacomo,Altoe,GT World Challenge Europe,GT3_Gen2,Emil Frey Racing,2026,29,0.70,ITA,2000/10/5,1660,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.41
+Albert,Costa,GT World Challenge Europe,GT3_Gen2,Emil Frey Racing,2026,30,0.70,ESP,1990/05/02,1655,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.47
+Charles,Weerts,GT World Challenge Sprint,GT3_Gen2,Team WRT,2026,1,0.82,BEL,2001/03/01,1885,0.79,0.81,0.73,0.76,0.78,0.80,0.76,0.77,0.77,0.76,0.74,0.75,0.80,0.79,0.48
+Valentino,Rossi,GT World Challenge Sprint,GT3_Gen2,Team WRT,2026,8,0.82,ITA,1979/2/16,1815,0.74,0.74,0.68,0.71,0.73,0.75,0.71,0.72,0.74,0.73,0.70,0.70,0.75,0.74,0.50
+Kelvin,van der Linde,GT World Challenge Sprint,GT3_Gen2,Team WRT,2026,2,0.82,ZAF,1996/06/20,1900,0.79,0.81,0.73,0.76,0.78,0.77,0.76,0.80,0.77,0.76,0.74,0.78,0.77,0.76,0.46
+Augusto,Farfus,GT World Challenge Sprint,GT3_Gen2,Team WRT,2026,10,0.82,BRA,1983/09/03,1795,0.73,0.75,0.67,0.70,0.72,0.74,0.70,0.74,0.73,0.72,0.70,0.72,0.74,0.73,0.40
+Nicki,Thiim,GT World Challenge Sprint,GT3_Gen2,Comtoyou Racing,2026,5,0.82,DNK,1989/04/17,1840,0.76,0.76,0.70,0.73,0.75,0.74,0.73,0.77,0.76,0.75,0.71,0.75,0.74,0.73,0.57
+Marco,Sorensen,GT World Challenge Sprint,GT3_Gen2,Comtoyou Racing,2026,9,0.82,DNK,1990/09/06,1805,0.73,0.73,0.67,0.70,0.72,0.74,0.70,0.71,0.71,0.70,0.70,0.69,0.74,0.73,0.40
+Simon,Gachet,GT World Challenge Sprint,GT3_Gen2,CSA Racing,2026,16,0.76,FRA,1993/10/2,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.56
+Arthur,Rougier,GT World Challenge Sprint,GT3_Gen2,CSA Racing,2026,18,0.76,FRA,2000/01/04,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.55
+Marvin,Kirchhofer,GT World Challenge Sprint,GT3_Gen2,Garage 59,2026,6,0.82,DEU,1994/03/19,1825,0.75,0.77,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.51
+Louis,Prette,GT World Challenge Sprint,GT3_Gen2,Garage 59,2026,23,0.70,MCO,1998/1/1,1685,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.52
+Mikey,Porter,GT World Challenge Sprint,GT3_Gen2,Optimum Motorsport,2026,25,0.70,GBR,2006/01/01,1675,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.52
+Guilherme,Oliveira,GT World Challenge Sprint,GT3_Gen2,Optimum Motorsport,2026,22,0.76,PRT,2004/1/1,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.43
+Dorian,Boccolacci,GT World Challenge Sprint,GT3_Gen2,Boutsen VDS,2026,11,0.76,FRA,1998/09/09,1780,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.40
+Alessio,Picariello,GT World Challenge Sprint,GT3_Gen2,Boutsen VDS,2026,12,0.76,BEL,1993/8/27,1775,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.56
+Patric,Niederhauser,GT World Challenge Sprint,GT3_Gen2,Rutronik Racing,2026,7,0.82,CHE,1991/10/08,1810,0.74,0.74,0.68,0.71,0.73,0.75,0.71,0.75,0.74,0.73,0.70,0.73,0.75,0.74,0.51
+Luca,Engstler,GT World Challenge Sprint,GT3_Gen2,Rutronik Racing,2026,15,0.76,DEU,2000/03/08,1745,0.69,0.69,0.65,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.45
+Thierry,Vermeulen,GT World Challenge Sprint,GT3_Gen2,Verstappen.com Racing,2026,17,0.76,NLD,2002/07/26,1730,0.68,0.68,0.64,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.42
+Chris,Lulham,GT World Challenge Sprint,GT3_Gen2,Verstappen.com Racing,2026,21,0.76,GBR,2003/1/1,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.40
+Thomas,Neubauer,GT World Challenge Sprint,GT3_Gen2,AF Corse,2026,13,0.76,FRA,1999/07/08,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.55
+Arthur,Leclerc,GT World Challenge Sprint,GT3_Gen2,AF Corse,2026,14,0.76,MCO,2000/10/14,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.55
+Lucas,Auer,GT World Challenge Sprint,GT3_Gen2,Winward Racing,2026,4,0.82,AUT,1994/9/11,1845,0.76,0.78,0.70,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.52
+Maro,Engel,GT World Challenge Sprint,GT3_Gen2,Winward Racing,2026,3,0.82,DEU,1985/08/27,1860,0.77,0.79,0.73,0.74,0.76,0.78,0.74,0.78,0.77,0.76,0.72,0.76,0.78,0.77,0.56
+Jules,Gounon,GT World Challenge Sprint,GT3_Gen2,GetSpeed,2026,19,0.76,FRA,1994/12/31,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.69,0.66,0.65,0.70,0.67,0.66,0.65,0.54
+Fabian,Schiller,GT World Challenge Sprint,GT3_Gen2,GetSpeed,2026,20,0.76,DEU,1997/10/24,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.56
+Mirko,Bortolotti,GT World Challenge Sprint,GT3_Gen2,Grasser Racing Team,2026,24,0.70,ITA,1990/01/10,1690,0.66,0.68,0.62,0.63,0.65,0.64,0.63,0.64,0.66,0.65,0.70,0.62,0.64,0.63,0.54
+Luca,Stolz,GT World Challenge Sprint,GT3_Gen2,Grasser Racing Team,2026,26,0.70,DEU,1995/7/29,1680,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.49
+Ezequiel,Perez Companc,GT World Challenge Sprint,GT3_Gen2,Madpanda Motorsport,2026,27,0.70,ARG,1994/7/5,1670,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.47
+Patrick,Assenheimer,GT World Challenge Sprint,GT3_Gen2,Madpanda Motorsport,2026,28,0.70,DEU,1992/04/10,1665,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.43
+Giacomo,Altoe,GT World Challenge Sprint,GT3_Gen2,Emil Frey Racing,2026,29,0.70,ITA,2000/10/5,1660,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.41
+Albert,Costa,GT World Challenge Sprint,GT3_Gen2,Emil Frey Racing,2026,30,0.70,ESP,1990/05/02,1655,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.47
+Tim,Lewis Jr.,IMSA Michelin Pilot Challenge,MiniChallenge,KMW Motorsports with TMR Engineering,2026,1,0.82,USA,1984/01/01,1780,0.72,0.74,0.66,0.69,0.71,0.72,0.69,0.70,0.70,0.69,0.70,0.68,0.72,0.71,0.33
+Rocco,Pasquarella,IMSA Michelin Pilot Challenge,MiniChallenge,KMW Motorsports with TMR Engineering,2026,2,0.82,USA,2004/01/01,1745,0.69,0.71,0.63,0.66,0.68,0.69,0.66,0.67,0.67,0.66,0.70,0.65,0.69,0.68,0.31
+Daniel,Hanley,IMSA Michelin Pilot Challenge,MiniChallenge,Rockwell Autosport Development,2026,3,0.82,USA,1990/01/01,1735,0.69,0.71,0.63,0.66,0.68,0.69,0.66,0.67,0.67,0.66,0.70,0.65,0.69,0.68,0.30
+Doug,Oakley,IMSA Michelin Pilot Challenge,MiniChallenge,Rockwell Autosport Development,2026,4,0.82,USA,1975/01/01,1715,0.67,0.69,0.61,0.64,0.66,0.67,0.64,0.65,0.65,0.64,0.70,0.63,0.67,0.66,0.27
+Lance,Bergstein,IMSA Michelin Pilot Challenge,MiniChallenge,Bryan Herta Autosport with PR1/Mathiasen,2026,5,0.82,USA,1968/01/01,1730,0.68,0.68,0.62,0.65,0.67,0.68,0.65,0.66,0.66,0.65,0.70,0.64,0.68,0.67,0.36
+Harry,Gottsacker,IMSA Michelin Pilot Challenge,MiniChallenge,Bryan Herta Autosport with PR1/Mathiasen,2026,6,0.82,USA,1999/7/28,1780,0.72,0.72,0.68,0.69,0.71,0.72,0.69,0.70,0.70,0.69,0.70,0.68,0.72,0.71,0.34
+Mason,Filippi,IMSA Michelin Pilot Challenge,MiniChallenge,Bryan Herta Autosport with PR1/Mathiasen,2026,7,0.82,USA,1998/04/20,1765,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.42
+Bryson,Morris,IMSA Michelin Pilot Challenge,MiniChallenge,Bryan Herta Autosport with PR1/Mathiasen,2026,8,0.82,USA,2006/01/01,1730,0.68,0.68,0.62,0.65,0.67,0.68,0.65,0.66,0.66,0.65,0.70,0.64,0.68,0.67,0.27
+Preston,Brown,IMSA Michelin Pilot Challenge,MiniChallenge,Bryan Herta Autosport with PR1/Mathiasen,2026,9,0.82,USA,2000/01/01,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.42
+Denis,Dupont,IMSA Michelin Pilot Challenge,MiniChallenge,Bryan Herta Autosport with PR1/Mathiasen,2026,10,0.82,BEL,1993/01/01,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.41
+Maddie,Aust,IMSA Michelin Pilot Challenge,MiniChallenge,Bryan Herta Autosport with PR1/Mathiasen,2026,11,0.82,USA,2003/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.36
+Mark,Wilkins,IMSA Michelin Pilot Challenge,MiniChallenge,Bryan Herta Autosport with PR1/Mathiasen,2026,12,0.82,CAN,1983/05/09,1770,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.36
+Franco,Girolami,IMSA Michelin Pilot Challenge,MiniChallenge,Victor Gonzalez Racing Team,2026,13,0.82,ARG,1992/02/14,1785,0.72,0.74,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.25
+Tyler,Gonzalez,IMSA Michelin Pilot Challenge,MiniChallenge,Victor Gonzalez Racing Team,2026,14,0.82,USA,2000/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.41
+Bruno,Junqueira,IMSA Michelin Pilot Challenge,MiniChallenge,Baker Racing,2026,15,0.76,BRA,1976/11/04,1795,0.73,0.73,0.69,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.43
+Raphael,Reis,IMSA Michelin Pilot Challenge,MiniChallenge,Stallion Motorsports,2026,16,0.76,BRA,1984/1/1,1740,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.30
+Robin,Liddell,IMSA Michelin Pilot Challenge,GT4,Rebel Rock Racing,2026,17,0.76,GBR,1974/02/28,1810,0.74,0.76,0.68,0.71,0.73,0.74,0.71,0.74,0.74,0.73,0.70,0.72,0.74,0.73,0.54
+Andrew,Davis,IMSA Michelin Pilot Challenge,GT4,Rebel Rock Racing,2026,18,0.76,USA,1977/1/1,1800,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.73,0.72,0.70,0.69,0.71,0.70,0.46
+Bryce,Ward,IMSA Michelin Pilot Challenge,GT4,Winward Racing,2026,19,0.76,USA,1997/01/01,1775,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.71,0.70,0.70,0.67,0.69,0.68,0.43
+Dillon,Machavern,IMSA Michelin Pilot Challenge,GT4,Turner Motorsport,2026,20,0.76,USA,1995/03/09,1810,0.74,0.76,0.68,0.71,0.73,0.72,0.71,0.74,0.74,0.73,0.70,0.72,0.72,0.71,0.49
+Luca,Mars,IMSA Michelin Pilot Challenge,GT4,Turner Motorsport,2026,21,0.76,USA,2006/01/01,1770,0.71,0.71,0.67,0.68,0.70,0.69,0.68,0.69,0.71,0.70,0.70,0.67,0.69,0.68,0.54
+Kenny,Murillo,IMSA Michelin Pilot Challenge,GT4,P1 Motor Club x Murillo Racing,2026,22,0.76,USA,1986/1/1,1780,0.72,0.72,0.68,0.69,0.71,0.70,0.69,0.70,0.72,0.71,0.70,0.68,0.70,0.69,0.42
+Stevan,McAleer,IMSA Michelin Pilot Challenge,GT4,Auto Technic Racing,2026,23,0.76,GBR,1984/08/28,1790,0.72,0.72,0.68,0.69,0.71,0.70,0.69,0.70,0.72,0.71,0.70,0.68,0.70,0.69,0.44
+Spencer,Pumpelly,IMSA Michelin Pilot Challenge,GT4,BGB Motorsports,2026,24,0.76,USA,1974/12/28,1800,0.73,0.73,0.67,0.70,0.72,0.73,0.70,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.44
+Jan,Heylen,IMSA Michelin Pilot Challenge,GT4,BGB Motorsports,2026,25,0.76,BEL,1980/05/01,1815,0.74,0.76,0.68,0.71,0.73,0.74,0.71,0.74,0.74,0.73,0.70,0.72,0.74,0.73,0.49
+Robert,Noaker,IMSA Michelin Pilot Challenge,GT4,McCumbee McAleer Racing,2026,26,0.76,USA,2003/01/01,1765,0.71,0.71,0.67,0.68,0.70,0.69,0.68,0.69,0.71,0.70,0.70,0.67,0.69,0.68,0.49
+Greg,Liefooghe,IMSA Michelin Pilot Challenge,GT4,Stephen Cameron Racing,2026,27,0.70,USA,1985/01/01,1775,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.71,0.70,0.70,0.67,0.69,0.68,0.49
+Sean,Quinlan,IMSA Michelin Pilot Challenge,GT4,Stephen Cameron Racing,2026,28,0.70,USA,1985/01/01,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.70,0.69,0.70,0.66,0.68,0.67,0.49
+Matt,Plumb,IMSA Michelin Pilot Challenge,GT4,Team TGM,2026,29,0.70,USA,1974/07/08,1785,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.72,0.71,0.70,0.68,0.70,0.69,0.41
+Hugh,Plumb,IMSA Michelin Pilot Challenge,GT4,Team TGM,2026,30,0.70,USA,1983/01/01,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.71,0.70,0.70,0.67,0.69,0.68,0.56
+Michael,Cooper,IMSA Michelin Pilot Challenge,GT4,Accelerating Performance,2026,31,0.70,USA,1989/08/19,1800,0.73,0.75,0.67,0.70,0.72,0.71,0.70,0.73,0.73,0.72,0.70,0.71,0.71,0.70,0.55
+Moisey,Uretsky,IMSA Michelin Pilot Challenge,GT4,Accelerating Performance,2026,32,0.70,USA,1988/1/1,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.70,0.69,0.70,0.66,0.68,0.67,0.51
+Jeff,Westphal,IMSA Michelin Pilot Challenge,GT4,CarBahn with Peregrine Racing,2026,33,0.70,USA,1986/06/01,1810,0.74,0.76,0.68,0.71,0.73,0.74,0.71,0.72,0.74,0.73,0.70,0.70,0.74,0.73,0.46
+Bill,Auberlen,IMSA Michelin Pilot Challenge,GT4,ST Racing by Random Vandals Racing,2026,34,0.70,USA,1968/10/12,1840,0.76,0.78,0.70,0.73,0.75,0.76,0.73,0.76,0.76,0.75,0.71,0.74,0.76,0.75,0.48
+Geronimo,Gomez Azza,Michelin Le Mans Cup,P1Gen2,Vector Sport RLR,2026,1,0.82,COL,2005/1/1,1765,0.71,0.73,0.65,0.68,0.70,0.71,0.68,0.69,0.71,0.70,0.70,0.67,0.71,0.70,0.56
+Colin,Noble,Michelin Le Mans Cup,P1Gen2,Vector Sport RLR,2026,2,0.82,GBR,1996/08/21,1785,0.72,0.74,0.68,0.69,0.71,0.72,0.69,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.52
+Jules,Caranta,Michelin Le Mans Cup,P1Gen2,Nielsen Racing,2026,3,0.82,FRA,2001/01/01,1770,0.71,0.73,0.67,0.68,0.70,0.71,0.68,0.69,0.71,0.70,0.70,0.67,0.71,0.70,0.57
+Mikaeel,Pitamber,Michelin Le Mans Cup,P1Gen2,Nielsen Racing,2026,4,0.82,ZAF,2002/01/01,1745,0.69,0.71,0.63,0.66,0.68,0.69,0.66,0.67,0.69,0.68,0.70,0.65,0.69,0.68,0.53
+Quentin,Antonel,Michelin Le Mans Cup,P1Gen2,DKR Engineering,2026,5,0.82,FRA,2003/01/01,1760,0.70,0.70,0.66,0.67,0.69,0.70,0.67,0.68,0.70,0.69,0.70,0.66,0.70,0.69,0.55
+Antti,Rammo,Michelin Le Mans Cup,P1Gen2,DKR Engineering,2026,6,0.82,EST,1983/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.68,0.65,0.66,0.68,0.67,0.70,0.64,0.68,0.67,0.58
+Stylianos,Kolovos,Michelin Le Mans Cup,P1Gen2,Rinaldi Racing,2026,7,0.82,GRC,1990/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.67,0.66,0.70,0.63,0.67,0.66,0.58
+Mikkel Gaarde,Pedersen,Michelin Le Mans Cup,P1Gen2,Rinaldi Racing,2026,8,0.82,DNK,1997/1/1,1760,0.70,0.70,0.64,0.67,0.69,0.70,0.67,0.68,0.70,0.69,0.70,0.66,0.70,0.69,0.52
+Isaac,Barashi,Michelin Le Mans Cup,P1Gen2,23Events Racing,2026,9,0.82,GBR,2003/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.69,0.68,0.70,0.65,0.67,0.66,0.60
+Matteo,Segre,Michelin Le Mans Cup,P1Gen2,23Events Racing,2026,10,0.82,ITA,1999/01/01,1740,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.69,0.68,0.70,0.65,0.67,0.66,0.56
+Louis,Iglesias,Michelin Le Mans Cup,P1Gen2,ANS Motorsport,2026,11,0.82,FRA,1997/1/1,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.69,0.69,0.68,0.70,0.67,0.67,0.66,0.64
+Arthur,Pavie,Michelin Le Mans Cup,P1Gen2,ANS Motorsport,2026,12,0.82,BRA,2003/1/1,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.68,0.67,0.70,0.64,0.66,0.65,0.56
+Maksymilian,Angelard,Michelin Le Mans Cup,P1Gen2,BWT Mucke Motorsport,2026,13,0.76,POL,2004/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.68,0.67,0.70,0.64,0.66,0.65,0.55
+Mattis,Pluschkell,Michelin Le Mans Cup,P1Gen2,BWT Mucke Motorsport,2026,14,0.76,DEU,2005/01/01,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.68,0.67,0.70,0.64,0.66,0.65,0.58
+Theo,Micouris,Michelin Le Mans Cup,P1Gen2,Team Virage,2026,15,0.76,GBR,2006/01/01,1728,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.68,0.67,0.70,0.64,0.66,0.65,0.63
+Denise,Yeung,Michelin Le Mans Cup,P1Gen2,Team Virage,2026,16,0.76,HKG,1992/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.66,0.65,0.70,0.62,0.64,0.63,0.55
+Tim,Gerhards,Michelin Le Mans Cup,P1Gen2,More Motorsport,2026,17,0.76,NLD,1995/01/01,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.63,0.65,0.64,0.54
+Max,van der Snel,Michelin Le Mans Cup,P1Gen2,More Motorsport,2026,18,0.76,NLD,1997/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.63,0.65,0.64,0.66
+Valentin,Hasse-Clot,Michelin Le Mans Cup,GT3,Racing Spirit of Leman,2026,19,0.76,FRA,1996/2/11,1815,0.74,0.76,0.70,0.71,0.73,0.74,0.71,0.74,0.74,0.73,0.70,0.72,0.74,0.73,0.42
+Philipp,Sager,Michelin Le Mans Cup,GT3,Racing Spirit of Leman,2026,20,0.76,AUT,1985/1/1,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.69,0.68,0.70,0.65,0.67,0.66,0.40
+Sebastian,Moreno,Michelin Le Mans Cup,GT3,Code Racing Development,2026,21,0.76,COL,1997/01/01,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.70,0.69,0.70,0.66,0.68,0.67,0.48
+Nico,Hantke,Michelin Le Mans Cup,GT3,Code Racing Development,2026,22,0.76,DEU,1994/01/01,1740,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.69,0.68,0.70,0.65,0.67,0.66,0.44
+Anthony,Bartone,Michelin Le Mans Cup,GT3,GetSpeed,2026,23,0.76,USA,1999/01/01,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.69,0.68,0.70,0.65,0.67,0.66,0.54
+Steve,Jans,Michelin Le Mans Cup,GT3,GetSpeed,2026,24,0.76,LUX,1988/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.68,0.67,0.70,0.64,0.66,0.65,0.52
+David,Fumanelli,Michelin Le Mans Cup,GT3,Kessel Racing,2026,25,0.70,ITA,1992/04/21,1795,0.73,0.75,0.67,0.70,0.72,0.73,0.70,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.39
+Lorenzo,Innocenti,Michelin Le Mans Cup,GT3,Kessel Racing,2026,26,0.70,ITA,1998/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.69,0.68,0.70,0.65,0.67,0.66,0.56
+Oscar,Ryndziewicz,Michelin Le Mans Cup,GT3,Kessel Racing,2026,27,0.70,GBR,2002/01/01,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.68,0.67,0.70,0.64,0.66,0.65,0.41
+Giacomo,Altoe,Michelin Le Mans Cup,GT3,Kessel Racing,2026,28,0.70,ITA,2000/10/05,1790,0.72,0.74,0.68,0.69,0.71,0.72,0.69,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.41
+Patrick,Charlaix,Michelin Le Mans Cup,GT3,GetSpeed,2026,29,0.70,FRA,1975/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.62,0.65,0.64,0.50
+Marvin,Klein,Michelin Le Mans Cup,GT3,GetSpeed,2026,30,0.70,FRA,1999/06/21,1785,0.72,0.74,0.66,0.69,0.71,0.70,0.69,0.72,0.72,0.71,0.70,0.70,0.70,0.69,0.51
+Josep,Mayola,Michelin Le Mans Cup,GT3,Biogas Motorsport,2026,31,0.70,ESP,1988/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.63,0.65,0.64,0.49
+Fran,Rueda,Michelin Le Mans Cup,GT3,Biogas Motorsport,2026,32,0.70,ESP,1995/05/03,1775,0.71,0.71,0.67,0.68,0.70,0.69,0.68,0.69,0.71,0.70,0.70,0.67,0.69,0.68,0.52
+Travis,Hill,IMSA VP Racing SportsCar Challenge,P1Gen2,Shopify Racing powered by TWOth,2026,1,0.82,USA,1987/01/01,1745,0.69,0.71,0.63,0.66,0.68,0.69,0.66,0.67,0.69,0.68,0.70,0.65,0.69,0.68,0.56
+Nicole,Havrda,IMSA VP Racing SportsCar Challenge,P1Gen2,Shopify Racing powered by TWOth,2026,2,0.82,CAN,2006/01/01,1735,0.69,0.71,0.63,0.66,0.68,0.69,0.66,0.67,0.69,0.68,0.70,0.65,0.69,0.68,0.49
+Garett,Grist,IMSA VP Racing SportsCar Challenge,P1Gen2,Toney Driver Development,2026,3,0.82,CAN,1995/04/09,1785,0.72,0.74,0.68,0.69,0.71,0.72,0.69,0.70,0.72,0.71,0.70,0.68,0.72,0.71,0.62
+Brady,Golan,IMSA VP Racing SportsCar Challenge,P1Gen2,Toney Driver Development,2026,4,0.82,USA,2006/01/01,1720,0.68,0.70,0.62,0.65,0.67,0.68,0.65,0.66,0.68,0.67,0.70,0.64,0.68,0.67,0.65
+Patrick,Kujala,IMSA VP Racing SportsCar Challenge,P1Gen2,Forte Racing,2026,5,0.82,FIN,1996/05/15,1790,0.72,0.74,0.68,0.69,0.71,0.72,0.69,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.53
+Brian,Thienes,IMSA VP Racing SportsCar Challenge,P1Gen2,Forte Racing,2026,6,0.82,USA,1975/1/1,1705,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.67,0.66,0.70,0.63,0.67,0.66,0.62
+Oscar,Tunjo,IMSA VP Racing SportsCar Challenge,P1Gen2,Gebhardt Motorsport,2026,7,0.82,COL,1996/01/05,1800,0.73,0.75,0.69,0.70,0.72,0.73,0.70,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.58
+Valentino,Catalano,IMSA VP Racing SportsCar Challenge,P1Gen2,Gebhardt Motorsport,2026,8,0.82,DEU,2006/01/01,1765,0.71,0.71,0.65,0.68,0.70,0.71,0.68,0.69,0.71,0.70,0.70,0.67,0.71,0.70,0.54
+Chris,McMurry,IMSA VP Racing SportsCar Challenge,P1Gen2,Crown Racing,2026,9,0.82,USA,1997/10/09,1780,0.72,0.74,0.66,0.69,0.71,0.72,0.69,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.61
+Jagger,Jones,IMSA VP Racing SportsCar Challenge,P1Gen2,FastMD Racing with Remstar,2026,10,0.82,USA,2002/07/29,1760,0.70,0.72,0.66,0.67,0.69,0.68,0.67,0.68,0.70,0.69,0.70,0.66,0.68,0.67,0.65
+Scott,Blind,IMSA VP Racing SportsCar Challenge,GT3,Ruckus Racing,2026,11,0.82,USA,1970/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.63,0.65,0.64,0.57
+Frank,DePew,IMSA VP Racing SportsCar Challenge,GT3,Rebel Rock Racing,2026,12,0.82,USA,1969/1/1,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.63,0.65,0.64,0.39
+Justin,Wetherill,IMSA VP Racing SportsCar Challenge,GT3,Ruckus Racing,2026,13,0.76,USA,1983/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.63,0.65,0.64,0.53
+Justin,Di Benedetto,IMSA VP Racing SportsCar Challenge,GT3,Di Benedetto Racing,2026,14,0.76,USA,1985/1/1,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.68,0.67,0.70,0.64,0.66,0.65,0.55
+Nicky,Hays,IMSA VP Racing SportsCar Challenge,GT3,Ruckus Racing,2026,15,0.76,USA,2001/01/01,1740,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.69,0.68,0.70,0.65,0.67,0.66,0.42
+Andrew,Davis,IMSA VP Racing SportsCar Challenge,GT3,Rebel Rock Racing,2026,16,0.76,USA,1977/01/01,1800,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.73,0.73,0.72,0.70,0.71,0.71,0.70,0.43
+Robert,Megennis,IMSA VP Racing SportsCar Challenge,GT3,Ruckus Racing,2026,17,0.76,USA,2000/03/26,1750,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.70,0.69,0.70,0.66,0.68,0.67,0.50
+Farhan,Siddiqi,IMSA VP Racing SportsCar Challenge,GT3,FastMD Racing with Remstar,2026,18,0.76,USA,1975/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.63,0.65,0.64,0.50
+Daniel,Oliver,IMSA VP Racing SportsCar Challenge,GT3,Performance Tech Motorsports,2026,19,0.76,USA,1998/01/01,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.68,0.67,0.70,0.64,0.66,0.65,0.52
+Wyatt,Brichacek,IMSA VP Racing SportsCar Challenge,GT3,Toney Driver Development,2026,20,0.76,USA,2006/01/01,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.68,0.67,0.70,0.64,0.66,0.65,0.54
+Westin,Workman,IMSA VP Racing SportsCar Challenge,GT4,RAFA Racing Team,2026,21,0.76,USA,2006/01/01,1765,0.71,0.73,0.67,0.68,0.70,0.71,0.68,0.69,0.71,0.70,0.70,0.67,0.71,0.70,0.54
+Rafael,Martinez,IMSA VP Racing SportsCar Challenge,GT4,RAFA Racing Team,2026,22,0.76,USA,1980/01/01,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.63,0.65,0.64,0.40
+Sean,Quinlan,IMSA VP Racing SportsCar Challenge,GT4,Stephen Cameron Racing,2026,23,0.76,USA,1985/01/01,1755,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.70,0.70,0.69,0.70,0.68,0.68,0.67,0.49
+Marc,Austin,IMSA VP Racing SportsCar Challenge,GT4,Mad Joker Racing,2026,24,0.76,USA,1986/01/01,1715,0.67,0.67,0.63,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.63,0.65,0.64,0.41
+Ismaeel,Ellahi,IMSA VP Racing SportsCar Challenge,GT4,Czabok-Simpson Motorsport,2026,25,0.70,USA,2005/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.63,0.65,0.64,0.39
+Tiger,Tari,IMSA VP Racing SportsCar Challenge,GT4,Auto Technic Racing,2026,26,0.70,USA,2001/01/01,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.68,0.67,0.70,0.64,0.66,0.65,0.50
+Courtney,Crone,IMSA VP Racing SportsCar Challenge,GT4,CarBahn with Peregrine Racing,2026,27,0.70,USA,2001/03/07,1740,0.69,0.71,0.63,0.66,0.68,0.69,0.66,0.67,0.69,0.68,0.70,0.65,0.69,0.68,0.41
+Jon,Brel,IMSA VP Racing SportsCar Challenge,GT4,Kingpin Racing,2026,28,0.70,USA,1972/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.66,0.65,0.70,0.62,0.64,0.63,0.55
+Mike,Fitzpatrick,IMSA VP Racing SportsCar Challenge,GT4,89x Motorsport,2026,29,0.70,USA,1975/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.62,0.65,0.64,0.48
+Dan,Ammann,IMSA VP Racing SportsCar Challenge,GT4,VRC,2026,30,0.70,USA,1978/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.63,0.65,0.64,0.44
+Cecilia,Rabelo,IMSA VP Racing SportsCar Challenge,GT4,Panam Racing,2026,31,0.70,BRA,1990/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.67,0.66,0.70,0.63,0.65,0.64,0.50
+Jim,Jonsin,IMSA VP Racing SportsCar Challenge,GT4,Goldcrest Motorsports,2026,32,0.70,USA,1981/01/01,1690,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.66,0.65,0.70,0.62,0.64,0.63,0.52
+Lewis,Goff,Ginetta Junior Championship UK,G40Cup,R Racing,2026,1,0.82,GBR,2010/01/01,1660,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.52
+Harry,Bartle,Ginetta Junior Championship UK,G40Cup,Pace Performance,2026,2,0.82,GBR,2009/01/01,1658,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.41
+Jesse,Phillips,Ginetta Junior Championship UK,G40Cup,R Racing,2026,3,0.82,GBR,2010/01/01,1656,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.62,0.64,0.63,0.70,0.60,0.64,0.63,0.51
+Jacob,Ashcroft,Ginetta Junior Championship UK,G40Cup,Elite Motorsport,2026,4,0.82,GBR,2010/01/01,1654,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.45
+Melvin,Kalousdian,Ginetta Junior Championship UK,G40Cup,R Racing,2026,5,0.82,SWE,2009/01/01,1652,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.61,0.63,0.62,0.70,0.60,0.63,0.62,0.49
+Max,Murray,Ginetta Junior Championship UK,G40Cup,R Racing,2026,6,0.82,GBR,2010/01/01,1650,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.61,0.63,0.62,0.70,0.60,0.63,0.62,0.50
+Harrison,Mackie,Ginetta Junior Championship UK,G40Cup,Elite Motorsport,2026,7,0.82,GBR,2010/01/01,1648,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.63,0.61,0.60,0.70,0.61,0.63,0.62,0.47
+Riley,Cranham,Ginetta Junior Championship UK,G40Cup,R Racing,2026,8,0.82,GBR,2010/01/01,1646,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.61,0.61,0.60,0.70,0.60,0.63,0.62,0.50
+Henry,Cameron,Ginetta Junior Championship UK,G40Cup,Elite Motorsport,2026,9,0.82,GBR,2009/01/01,1644,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.53
+Noah,Young,Ginetta Junior Championship UK,G40Cup,Performance One,2026,10,0.82,GBR,2010/01/01,1642,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.47
+Sebastian,Leusch,Ginetta Junior Championship UK,G40Cup,R Racing,2026,11,0.76,GBR,2010/01/01,1640,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.55
+Addison,Smith,Ginetta Junior Championship UK,G40Cup,MDD Motorsport,2026,12,0.76,GBR,2010/01/01,1638,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.57
+Vladislav,Tomenchuk,Ginetta Junior Championship UK,G40Cup,Elite Motorsport,2026,13,0.76,UKR,2010/01/01,1636,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.58
+Kai,Veitch,Ginetta Junior Championship UK,G40Cup,Pace Performance,2026,14,0.76,GBR,2010/01/01,1634,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.53
+Jorn,Helder,Ginetta Junior Championship UK,G40Cup,Project R,2026,15,0.76,NLD,2010/01/01,1632,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.51
+Devon,Hagelen,Ginetta Junior Championship UK,G40Cup,Elite Motorsport,2026,16,0.76,NLD,2010/01/01,1630,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.58
+Josh,Watts,Ginetta Junior Championship UK,G40Cup,Performance One,2026,17,0.76,GBR,2009/01/01,1628,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.51
+Bailey,Doughty,Ginetta Junior Championship UK,G40Cup,MKH Racing,2026,18,0.76,GBR,2010/01/01,1626,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.47
+Daniel,Oliver,Ginetta Junior Championship UK,G40Cup,Elite Motorsport,2026,19,0.70,ESP,2010/01/01,1624,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.44
+Andrew,Robinson,Ginetta Junior Championship UK,G40Cup,E3 Sport,2026,20,0.70,USA,2010/01/01,1622,0.61,0.61,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.48
+Henry,Carter,Ginetta Junior Championship UK,G40Cup,Pace Performance,2026,21,0.70,GBR,2010/01/01,1620,0.61,0.61,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.42
+Vicky,Farfus,Ginetta Junior Championship UK,G40Cup,Paradine Competition,2026,22,0.70,BRA,2010/01/01,1618,0.61,0.61,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.55
+Lewis,Goff,Ginetta Junior Championship Europe,G40Cup,R Racing,2026,1,0.82,GBR,2010/01/01,1660,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.52
+Harry,Bartle,Ginetta Junior Championship Europe,G40Cup,Pace Performance,2026,2,0.82,GBR,2009/01/01,1658,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.41
+Jesse,Phillips,Ginetta Junior Championship Europe,G40Cup,R Racing,2026,3,0.82,GBR,2010/01/01,1656,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.62,0.64,0.63,0.70,0.60,0.64,0.63,0.51
+Jacob,Ashcroft,Ginetta Junior Championship Europe,G40Cup,Elite Motorsport,2026,4,0.82,GBR,2010/01/01,1654,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.45
+Melvin,Kalousdian,Ginetta Junior Championship Europe,G40Cup,R Racing,2026,5,0.82,SWE,2009/01/01,1652,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.61,0.63,0.62,0.70,0.60,0.63,0.62,0.49
+Max,Murray,Ginetta Junior Championship Europe,G40Cup,R Racing,2026,6,0.82,GBR,2010/01/01,1650,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.61,0.63,0.62,0.70,0.60,0.63,0.62,0.50
+Harrison,Mackie,Ginetta Junior Championship Europe,G40Cup,Elite Motorsport,2026,7,0.82,GBR,2010/01/01,1648,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.63,0.61,0.60,0.70,0.61,0.63,0.62,0.47
+Riley,Cranham,Ginetta Junior Championship Europe,G40Cup,R Racing,2026,8,0.82,GBR,2010/01/01,1646,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.61,0.61,0.60,0.70,0.60,0.63,0.62,0.50
+Henry,Cameron,Ginetta Junior Championship Europe,G40Cup,Elite Motorsport,2026,9,0.82,GBR,2009/01/01,1644,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.53
+Noah,Young,Ginetta Junior Championship Europe,G40Cup,Performance One,2026,10,0.82,GBR,2010/01/01,1642,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.47
+Sebastian,Leusch,Ginetta Junior Championship Europe,G40Cup,R Racing,2026,11,0.76,GBR,2010/01/01,1640,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.55
+Addison,Smith,Ginetta Junior Championship Europe,G40Cup,MDD Motorsport,2026,12,0.76,GBR,2010/01/01,1638,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.57
+Vladislav,Tomenchuk,Ginetta Junior Championship Europe,G40Cup,Elite Motorsport,2026,13,0.76,UKR,2010/01/01,1636,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.58
+Kai,Veitch,Ginetta Junior Championship Europe,G40Cup,Pace Performance,2026,14,0.76,GBR,2010/01/01,1634,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.53
+Jorn,Helder,Ginetta Junior Championship Europe,G40Cup,Project R,2026,15,0.76,NLD,2010/01/01,1632,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.51
+Devon,Hagelen,Ginetta Junior Championship Europe,G40Cup,Elite Motorsport,2026,16,0.76,NLD,2010/01/01,1630,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.58
+Josh,Watts,Ginetta Junior Championship Europe,G40Cup,Performance One,2026,17,0.76,GBR,2009/01/01,1628,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.51
+Bailey,Doughty,Ginetta Junior Championship Europe,G40Cup,MKH Racing,2026,18,0.76,GBR,2010/01/01,1626,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.47
+Daniel,Oliver,Ginetta Junior Championship Europe,G40Cup,Elite Motorsport,2026,19,0.70,ESP,2010/01/01,1624,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.44
+Andrew,Robinson,Ginetta Junior Championship Europe,G40Cup,E3 Sport,2026,20,0.70,USA,2010/01/01,1622,0.61,0.61,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.48
+Lewis,Goff,Ginetta Junior Championship North America,G40Cup,R Racing,2026,1,0.82,GBR,2010/01/01,1660,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.52
+Harry,Bartle,Ginetta Junior Championship North America,G40Cup,Pace Performance,2026,2,0.82,GBR,2009/01/01,1658,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.41
+Jesse,Phillips,Ginetta Junior Championship North America,G40Cup,R Racing,2026,3,0.82,GBR,2010/01/01,1656,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.62,0.64,0.63,0.70,0.60,0.64,0.63,0.51
+Jacob,Ashcroft,Ginetta Junior Championship North America,G40Cup,Elite Motorsport,2026,4,0.82,GBR,2010/01/01,1654,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.45
+Melvin,Kalousdian,Ginetta Junior Championship North America,G40Cup,R Racing,2026,5,0.82,SWE,2009/01/01,1652,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.61,0.63,0.62,0.70,0.60,0.63,0.62,0.49
+Max,Murray,Ginetta Junior Championship North America,G40Cup,R Racing,2026,6,0.82,GBR,2010/01/01,1650,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.61,0.63,0.62,0.70,0.60,0.63,0.62,0.50
+Harrison,Mackie,Ginetta Junior Championship North America,G40Cup,Elite Motorsport,2026,7,0.82,GBR,2010/01/01,1648,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.63,0.61,0.60,0.70,0.61,0.63,0.62,0.47
+Riley,Cranham,Ginetta Junior Championship North America,G40Cup,R Racing,2026,8,0.82,GBR,2010/01/01,1646,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.61,0.61,0.60,0.70,0.60,0.63,0.62,0.50
+Henry,Cameron,Ginetta Junior Championship North America,G40Cup,Elite Motorsport,2026,9,0.82,GBR,2009/01/01,1644,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.53
+Noah,Young,Ginetta Junior Championship North America,G40Cup,Performance One,2026,10,0.82,GBR,2010/01/01,1642,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.47
+Sebastian,Leusch,Ginetta Junior Championship North America,G40Cup,R Racing,2026,11,0.76,GBR,2010/01/01,1640,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.55
+Addison,Smith,Ginetta Junior Championship North America,G40Cup,MDD Motorsport,2026,12,0.76,GBR,2010/01/01,1638,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.57
+Vladislav,Tomenchuk,Ginetta Junior Championship North America,G40Cup,Elite Motorsport,2026,13,0.76,UKR,2010/01/01,1636,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.58
+Kai,Veitch,Ginetta Junior Championship North America,G40Cup,Pace Performance,2026,14,0.76,GBR,2010/01/01,1634,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.53
+Jorn,Helder,Ginetta Junior Championship North America,G40Cup,Project R,2026,15,0.76,NLD,2010/01/01,1632,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.51
+Devon,Hagelen,Ginetta Junior Championship North America,G40Cup,Elite Motorsport,2026,16,0.76,NLD,2010/01/01,1630,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.58
+Josh,Watts,Ginetta Junior Championship North America,G40Cup,Performance One,2026,17,0.76,GBR,2009/01/01,1628,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.51
+Bailey,Doughty,Ginetta Junior Championship North America,G40Cup,MKH Racing,2026,18,0.76,GBR,2010/01/01,1626,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.47
+Daniel,Oliver,Ginetta Junior Championship North America,G40Cup,Elite Motorsport,2026,19,0.70,ESP,2010/01/01,1624,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.44
+Andrew,Robinson,Ginetta Junior Championship North America,G40Cup,E3 Sport,2026,20,0.70,USA,2010/01/01,1622,0.61,0.61,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.48
+Henry,Carter,Ginetta Junior Championship North America,G40Cup,Pace Performance,2026,21,0.70,GBR,2010/01/01,1620,0.61,0.61,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.42
+Vicky,Farfus,Ginetta Junior Championship North America,G40Cup,Paradine Competition,2026,22,0.70,BRA,2010/01/01,1618,0.61,0.61,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.55
+Benjamin,Ricci,GT Revival Series,GT1_05,Storic and Race Cars,2026,1,0.82,FRA,1988/01/01,1760,0.70,0.72,0.64,0.67,0.69,0.70,0.67,0.68,0.70,0.69,0.70,0.66,0.70,0.69,0.55
+Jean-Luc,Beaubelique,GT Revival Series,GT1_05,Storic and Race Cars,2026,2,0.82,FRA,1967/01/01,1745,0.69,0.71,0.63,0.66,0.68,0.69,0.66,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.52
+Jim,Pla,GT Revival Series,GT1_05,Storic and Race Cars,2026,3,0.82,FRA,1992/10/06,1770,0.71,0.73,0.67,0.68,0.70,0.71,0.68,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.48
+Jonathan,Mitchell,GT Revival Series,GT1_05,Scott Sport,2026,4,0.82,GBR,1975/01/01,1725,0.68,0.70,0.62,0.65,0.67,0.68,0.65,0.66,0.68,0.67,0.70,0.64,0.68,0.67,0.42
+Heiko,Neumann,GT Revival Series,GT1_05,Team Motopark,2026,5,0.82,DEU,1975/01/01,1720,0.68,0.68,0.62,0.65,0.67,0.68,0.65,0.66,0.68,0.67,0.70,0.64,0.68,0.67,0.47
+Philippe,Giauque,GT Revival Series,GT1_05,Debard Automobiles by Racetivity,2026,6,0.82,CHE,1970/01/01,1715,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.67,0.66,0.70,0.63,0.67,0.66,0.49
+Philippe,Colancon,GT Revival Series,GT1_05,2B Autosport,2026,7,0.82,FRA,1970/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.65,0.64,0.70,0.63,0.67,0.66,0.55
+Peter,Moulsdale,GT Revival Series,GT1_05,Ecurie Ecosse powered by Barwell,2026,8,0.82,GBR,1965/01/01,1708,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.65,0.64,0.70,0.63,0.67,0.66,0.50
+Matt,Topham,GT Revival Series,GT1_05,Ecurie Ecosse powered by Barwell,2026,9,0.82,GBR,1988/01/01,1712,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.67,0.67,0.66,0.70,0.65,0.65,0.64,0.53
+Pascal,Huteau,GT Revival Series,GT1_05,Fanta Racing Legend by Code Classic,2026,10,0.82,FRA,1970/01/01,1704,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.49
+Franz,Wunderlich,GT Revival Series,GT1_05,Fanta Racing Legend by Code Classic,2026,11,0.82,DEU,1970/01/01,1702,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.39
+Shaun,Lynn,GT Revival Series,GT1_05,Team Parker Racing,2026,12,0.82,GBR,1962/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.48
+Janos,Santa,GT Revival Series,GT1_05,GFS Racing,2026,13,0.76,HUN,1975/01/01,1698,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.47
+Nick,Padmore,GT Revival Series,GT1_05,TFT Racing,2026,14,0.76,GBR,1977/01/01,1740,0.69,0.71,0.65,0.66,0.68,0.67,0.66,0.69,0.69,0.68,0.70,0.67,0.67,0.66,0.54
+Jean-Lou,Rihon,GT Revival Series,GT1_05,TFT Racing,2026,15,0.76,BEL,1970/01/01,1696,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.48
+Dan,Henrey,GT Revival Series,GT1_05,Scott Sport,2026,16,0.76,GBR,1978/01/01,1694,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.52
+Pierre,Hirschi,GT Revival Series,GT1_05,CMR,2026,17,0.76,CHE,1970/01/01,1692,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.54
+Daniel,Desbrueres,GT Revival Series,GT1_05,Sainteloc Racing,2026,18,0.76,FRA,1970/01/01,1690,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.51
+Philippe,Gache,GT Revival Series,GT1_05,Sainteloc Racing,2026,19,0.76,FRA,1962/05/31,1715,0.67,0.69,0.63,0.64,0.66,0.65,0.64,0.67,0.67,0.66,0.70,0.65,0.65,0.64,0.46
+Marcus,von Oeyenhausen,GT Revival Series,GT1_05,Classic & Speed,2026,20,0.76,DEU,1975/01/01,1688,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.54
+Geoff,Isringhausen,GT Revival Series,GT1_05,Speed Motorsports Management,2026,21,0.76,USA,1952/1/1,1686,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.42
+Anne-Sophie,Nourry,GT Revival Series,GT1_05,Nourry Competition,2026,22,0.76,FRA,1980/1/1,1684,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.40
+Emil,Caumes,GT Revival Series,GT1_05,Caumes Armatures Bourgoin,2026,23,0.76,FRA,1990/01/01,1682,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.56
+Jacques,Caumes,GT Revival Series,GT1_05,Caumes Armatures Bourgoin,2026,24,0.76,FRA,1965/01/01,1680,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.51
+Jean,Legras,GT Revival Series,GT1_05,Spark Motorsport,2026,25,0.70,FRA,1970/01/01,1678,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.45
+Jose,Garcia,GT Revival Series,GT1_05,Lionspeed GP,2026,26,0.70,ESP,1970/01/01,1676,0.65,0.65,0.61,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.52
+Timmo,Mol,GT Revival Series,GT1_05,Lionspeed GP,2026,27,0.70,NLD,1980/01/01,1674,0.65,0.65,0.61,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.46
+Christian,Kuhn,GT Revival Series,GT1_05,Speed Motorsports Management,2026,28,0.70,DEU,1970/01/01,1672,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.56
+Olivier,Lopez,GT Revival Series,GT1_05,Espace Racing,2026,29,0.70,FRA,1970/1/1,1670,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.42
+Christian,Philippon,GT Revival Series,GT1_05,Espace Racing,2026,30,0.70,FRA,1968/01/01,1668,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.45
+Nicolas,Coquin,GT Revival Series,GT1_05,Spark Motorsport,2026,31,0.70,FRA,1975/01/01,1666,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.42
+Hugues,Ripert,GT Revival Series,GT1_05,Spark Motorsport,2026,32,0.70,FRA,1970/01/01,1664,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.41
+Scott,Jeffs,Mini Challenge,MiniChallenge,Privateer,2016,1,0.82,GBR,1985/01/01,1668,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.30
+Scot,Adam,Mini Challenge,MiniChallenge,Privateer,2016,2,0.82,GBR,1980/01/01,1662,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.62,0.64,0.63,0.70,0.60,0.64,0.63,0.26
+Tim,Porter,Mini Challenge,MiniChallenge,Privateer,2016,3,0.82,GBR,1980/1/1,1660,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.62,0.64,0.63,0.70,0.60,0.64,0.63,0.39
+Steve,Ruxton-Cocker,Mini Challenge,MiniChallenge,Privateer,2016,4,0.82,GBR,1975/01/01,1656,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.62,0.64,0.63,0.70,0.60,0.64,0.63,0.38
+Carlito,Miracco,Mini Challenge,MiniChallenge,Privateer,2016,5,0.82,GBR,1980/01/01,1652,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.61,0.63,0.62,0.70,0.60,0.63,0.62,0.27
+Rob,Austin,Mini Challenge,MiniChallenge,Privateer,2016,6,0.82,GBR,1981/02/01,1670,0.65,0.67,0.61,0.62,0.64,0.65,0.62,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.28
+Toby,Hotston,Mini Challenge,MiniChallenge,Privateer,2016,7,0.82,GBR,1985/01/01,1648,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.61,0.61,0.60,0.70,0.60,0.63,0.62,0.40
+Neil,Newstead,Mini Challenge,MiniChallenge,Privateer,2016,8,0.82,GBR,1975/01/01,1646,0.63,0.63,0.60,0.60,0.62,0.63,0.60,0.61,0.61,0.60,0.70,0.60,0.63,0.62,0.28
+Max,Bladon,Mini Challenge,MiniChallenge,Excelr8 Motorsport,2016,9,0.82,GBR,1997/01/01,1665,0.64,0.66,0.60,0.61,0.63,0.64,0.61,0.62,0.64,0.63,0.70,0.60,0.64,0.63,0.35
+Josh,Gollin,Mini Challenge,MiniChallenge,Coastal Racing,2016,10,0.82,GBR,1996/01/01,1658,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.35
+Sam,Weller,Mini Challenge,MiniChallenge,Privateer,2016,11,0.76,GBR,1998/01/01,1656,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.41
+Brad,Hutchison,Mini Challenge,MiniChallenge,Privateer,2016,12,0.76,GBR,1990/01/01,1654,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.34
+Will,Neal,Mini Challenge,MiniChallenge,Team Dynamics,2016,13,0.76,GBR,1996/01/01,1652,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.29
+Michael,Bamber,Mini Challenge,MiniChallenge,Privateer,2016,14,0.76,GBR,1985/01/01,1650,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.31
+Owen,Walton,Mini Challenge,MiniChallenge,Privateer,2016,15,0.76,GBR,1998/01/01,1648,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.30
+James,Goodall,Mini Challenge,MiniChallenge,Privateer,2016,16,0.76,GBR,1990/01/01,1646,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.36
+Keith,Issatt,Mini Challenge,MiniChallenge,Lawrence Davey Racing,2016,17,0.76,GBR,1970/01/01,1644,0.63,0.65,0.60,0.60,0.62,0.63,0.60,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.39
+Jono,Davis,Mini Challenge,MiniChallenge,Privateer,2016,18,0.76,GBR,1975/01/01,1642,0.63,0.65,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.30
+Richard,Mills,Mini Challenge,MiniChallenge,RTS Motorsport,2016,19,0.70,GBR,1975/01/01,1640,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.63,0.61,0.60,0.70,0.61,0.61,0.60,0.40
+Chloe,Hewitt,Mini Challenge,MiniChallenge,Privateer,2016,20,0.70,GBR,1998/01/01,1638,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.35
+Simon,Clark,Mini Challenge,MiniChallenge,Sussex Road & Race,2016,21,0.70,GBR,1975/01/01,1636,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.35
+Stuart,Lane,Mini Challenge,MiniChallenge,Oakfield Motorsport,2016,22,0.70,GBR,1970/01/01,1634,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.37
+Aaron,Reeve,Mini Challenge,MiniChallenge,AReeve Motorsport,2016,23,0.70,GBR,1985/01/01,1632,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.31
+Taelor,Shand,Mini Challenge,MiniChallenge,Privateer,2016,24,0.70,GBR,1995/01/01,1630,0.62,0.62,0.60,0.60,0.61,0.60,0.60,0.60,0.60,0.60,0.70,0.60,0.60,0.60,0.26
+Adam,Putera,Lamborghini Super Trofeo Europe,Super Trofeo,VSR,2025,1,0.82,MYS,1999/01/01,1770,0.71,0.73,0.67,0.68,0.70,0.71,0.68,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.44
+Enzo,Geraci,Lamborghini Super Trofeo Europe,Super Trofeo,Oregon Team,2025,2,0.82,ITA,2005/01/01,1765,0.71,0.73,0.65,0.68,0.70,0.71,0.68,0.69,0.71,0.70,0.70,0.67,0.71,0.70,0.54
+Josef,Knopp,Lamborghini Super Trofeo Europe,Super Trofeo,Oregon Team,2025,3,0.82,CZE,2004/01/01,1760,0.70,0.72,0.64,0.67,0.69,0.70,0.67,0.68,0.70,0.69,0.70,0.66,0.70,0.69,0.45
+Patrik,Fraboni,Lamborghini Super Trofeo Europe,Super Trofeo,Target Racing,2025,4,0.82,ITA,2000/01/01,1755,0.70,0.72,0.64,0.67,0.69,0.70,0.67,0.68,0.70,0.69,0.70,0.66,0.70,0.69,0.47
+Giacomo,Pedrini,Lamborghini Super Trofeo Europe,Super Trofeo,Target Racing,2025,5,0.82,ITA,2004/01/01,1750,0.70,0.70,0.64,0.67,0.69,0.70,0.67,0.68,0.70,0.69,0.70,0.66,0.70,0.69,0.46
+Paul,Levet,Lamborghini Super Trofeo Europe,Super Trofeo,VSR,2025,6,0.82,FRA,2004/01/01,1745,0.69,0.69,0.63,0.66,0.68,0.69,0.66,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.53
+Guido,Luchetti,Lamborghini Super Trofeo Europe,Super Trofeo,Target Racing,2025,7,0.82,ITA,2003/01/01,1740,0.69,0.71,0.63,0.66,0.68,0.69,0.66,0.67,0.67,0.66,0.70,0.65,0.69,0.68,0.43
+Anthony,Pretorius,Lamborghini Super Trofeo Europe,Super Trofeo,Leipert Motorsport,2025,8,0.82,ZAF,2000/01/01,1735,0.69,0.69,0.65,0.66,0.68,0.69,0.66,0.67,0.67,0.66,0.70,0.65,0.69,0.68,0.48
+Silas Loven,Rytter,Lamborghini Super Trofeo Europe,Super Trofeo,Leipert Motorsport,2025,9,0.82,DNK,2005/01/01,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.46
+Benedetto,Strignano,Lamborghini Super Trofeo Europe,Super Trofeo,Rexal Villorba Corse,2025,10,0.82,ITA,2002/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.51
+Jerzy,Spinkiewicz,Lamborghini Super Trofeo Europe,Super Trofeo,UNIQ Racing,2025,11,0.82,POL,2001/01/01,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.46
+Stephan,Guerin,Lamborghini Super Trofeo Europe,Super Trofeo,CMR,2025,12,0.82,FRA,1975/01/01,1715,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.49
+Georgi,Dimitrov,Lamborghini Super Trofeo Europe,Super Trofeo,CMR,2025,13,0.76,BGR,1989/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.65,0.64,0.70,0.63,0.67,0.66,0.46
+Milos,Pavlovic,Lamborghini Super Trofeo Europe,Super Trofeo,Auto Sport Racing Service,2025,14,0.76,SRB,1982/10/08,1720,0.68,0.70,0.62,0.65,0.67,0.66,0.65,0.68,0.68,0.67,0.70,0.66,0.66,0.65,0.57
+Alessio,Ruffini,Lamborghini Super Trofeo Europe,Super Trofeo,Auto Sport Racing Service,2025,15,0.76,ITA,1998/01/01,1708,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.47
+Dimitri,Enjalbert,Lamborghini Super Trofeo Europe,Super Trofeo,BDR Competition by Grupo Prom,2025,16,0.76,FRA,1985/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.47
+Anthony,Nahra,Lamborghini Super Trofeo Europe,Super Trofeo,BDR Competition by Grupo Prom,2025,17,0.76,LBN,1985/01/01,1698,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.50
+Hugo,Bac,Lamborghini Super Trofeo Europe,Super Trofeo,Boutsen VDS,2025,18,0.76,FRA,1998/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.49
+Renaud,Kuppens,Lamborghini Super Trofeo Europe,Super Trofeo,Boutsen VDS,2025,19,0.76,BEL,1967/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.47
+Shota,Abkhazava,Lamborghini Super Trofeo Europe,Super Trofeo,ART-Line,2025,20,0.76,GEO,1971/01/01,1700,0.67,0.67,0.62,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.44
+Egor,Orudzhev,Lamborghini Super Trofeo Europe,Super Trofeo,ART-Line,2025,21,0.70,RUS,1995/10/16,1702,0.67,0.67,0.63,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.45
+Bronislav,Formanek,Lamborghini Super Trofeo Europe,Super Trofeo,Micanek Motorsport powered by Buggyra,2025,22,0.70,CZE,1975/01/01,1692,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.45
+Stefan,Rosina,Lamborghini Super Trofeo Europe,Super Trofeo,Micanek Motorsport powered by Buggyra,2025,23,0.70,SVK,1987/07/15,1718,0.68,0.68,0.64,0.65,0.67,0.66,0.65,0.68,0.66,0.65,0.70,0.66,0.66,0.65,0.40
+Andrzej,Lewandowski,Lamborghini Super Trofeo Europe,Super Trofeo,Auto Sport Racing Service,2025,24,0.70,POL,1977/01/01,1690,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.55
+Maxim,Dirickx,Radical Cup Europe,P4,Aust Motorsport,2026,1,0.82,BEL,2001/01/01,1740,0.69,0.71,0.65,0.66,0.68,0.69,0.66,0.67,0.69,0.68,0.70,0.65,0.69,0.68,0.64
+Theo,Micouris,Radical Cup Europe,P4,Team Virage,2026,2,0.82,GBR,2006/1/1,1735,0.69,0.71,0.65,0.66,0.68,0.69,0.66,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.52
+Emil,Hellberg,Radical Cup Europe,P4,Allay Racing,2026,3,0.82,SWE,2004/01/01,1730,0.68,0.70,0.62,0.65,0.67,0.68,0.65,0.66,0.68,0.67,0.70,0.64,0.68,0.67,0.62
+Mattis,Pluschkell,Radical Cup Europe,P4,BWT Mucke Motorsport,2026,4,0.82,DEU,2005/1/1,1725,0.68,0.70,0.62,0.65,0.67,0.68,0.65,0.66,0.68,0.67,0.70,0.64,0.68,0.67,0.65
+Tobias Bille,Clausen,Radical Cup Europe,P4,BWT Mucke Motorsport,2026,5,0.82,DNK,2002/01/01,1720,0.68,0.68,0.62,0.65,0.67,0.68,0.65,0.66,0.68,0.67,0.70,0.64,0.68,0.67,0.55
+Jacob,Erlbacher,Radical Cup Europe,P4,German Motor Sports Team,2026,6,0.82,DEU,2004/01/01,1715,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.67,0.66,0.70,0.63,0.67,0.66,0.55
+Valentino,Catalano,Radical Cup Europe,P4,German Motor Sports Team,2026,7,0.82,DEU,2006/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.65,0.64,0.70,0.63,0.67,0.66,0.58
+Linus,Hellberg,Radical Cup Europe,P4,Allay Racing,2026,8,0.82,SWE,2004/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.67,0.64,0.65,0.65,0.64,0.70,0.63,0.67,0.66,0.64
+Mads Kjelde,Larsen,Radical Cup Europe,P4,BWT Mucke Motorsport,2026,9,0.82,DNK,1996/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.51
+Markus,Pommer,Radical Cup Europe,P4,BWT Mucke Motorsport,2026,10,0.82,DEU,1991/01/27,1725,0.68,0.70,0.62,0.65,0.67,0.66,0.65,0.68,0.66,0.65,0.70,0.66,0.66,0.65,0.51
+Dominique,Bastien,Radical Cup Europe,P4,Team Virage,2026,11,0.82,FRA,1985/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.56
+Sandro,Prissoutti,Radical Cup Europe,P4,Switch Racing,2026,12,0.82,FRA,1988/01/01,1690,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.49
+Louis,Rossi,Radical Cup Europe,P4,Switch Racing,2026,13,0.76,FRA,1989/06/23,1718,0.68,0.70,0.64,0.65,0.67,0.66,0.65,0.68,0.68,0.67,0.70,0.66,0.66,0.65,0.63
+Alister,Yoong,Radical Cup Europe,P4,Switch Racing,2026,14,0.76,MYS,2003/01/10,1708,0.67,0.67,0.63,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.53
+Marlon,Hernandez,Radical Cup Europe,P4,Switch Racing,2026,15,0.76,FRA,1990/01/01,1688,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.60
+Nano,Lopez,Radical Cup Europe,P4,Switch Racing,2026,16,0.76,ESP,1992/01/01,1686,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.61
+Romano,Ricci,Radical Cup Europe,P4,Switch Racing,2026,17,0.76,FRA,1995/01/01,1684,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.61
+Ian,Aguilera,Radical Cup Europe,P4,ANS Motorsport,2026,18,0.76,ESP,1998/01/01,1682,0.65,0.65,0.61,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.67
+Adrien,Chila,Radical Cup Europe,P4,ANS Motorsport,2026,19,0.76,FRA,1998/01/01,1680,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.66
+Pacome,Weisenburger,Radical Cup Europe,P4,ANS Motorsport,2026,20,0.76,FRA,2000/01/01,1678,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.60
+Mikkel,Kristensen,Radical Cup Europe,P4,ANS Motorsport,2026,21,0.76,DNK,1990/01/01,1676,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.55
+Nicolas,Maulini,Radical Cup Europe,P4,ANS Motorsport,2026,22,0.76,CHE,1981/01/01,1674,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.65,0.63,0.62,0.70,0.63,0.63,0.62,0.64
+Pedro Juan,Moreno,Radical Cup Europe,P4,ANS Motorsport,2026,23,0.70,ESP,1985/01/01,1672,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.66
+Jacques,Wolff,Radical Cup Europe,P4,ANS Motorsport,2026,24,0.70,FRA,1975/01/01,1670,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.59
+Adrien,Yvon,Radical Cup Europe,P4,ANS Motorsport,2026,25,0.70,FRA,1988/01/01,1668,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.51
+Alexandre,Yvon,Radical Cup Europe,P4,ANS Motorsport,2026,26,0.70,FRA,1988/01/01,1666,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.61
+Spike,Kohlbecker,Radical Cup North America,P4,TechSport Racing,2026,1,0.82,USA,2002/7/23,1730,0.68,0.70,0.64,0.65,0.67,0.68,0.65,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.59
+Jeremy,Fletcher,Radical Cup North America,P4,Copeland Motorsports,2026,2,0.82,USA,1990/01/01,1715,0.67,0.69,0.63,0.64,0.66,0.67,0.64,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.57
+Ethan,Goulart,Radical Cup North America,P4,BSI Racing,2026,3,0.82,USA,2005/01/01,1705,0.67,0.69,0.61,0.64,0.66,0.67,0.64,0.65,0.67,0.66,0.70,0.63,0.67,0.66,0.57
+Massimo,Sunseri,Radical Cup North America,P4,BSI Racing,2026,4,0.82,USA,2005/1/1,1700,0.67,0.69,0.60,0.64,0.66,0.67,0.64,0.65,0.67,0.66,0.70,0.62,0.67,0.66,0.66
+Alcyr,Araujo,Radical Cup North America,P4,BSI Racing,2026,5,0.82,BRA,1980/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.66,0.63,0.64,0.66,0.65,0.70,0.62,0.66,0.65,0.57
+Ethan,Ayars,Radical Cup North America,P4,BSI Racing,2026,6,0.82,USA,2005/01/01,1690,0.66,0.66,0.60,0.63,0.65,0.66,0.63,0.64,0.66,0.65,0.70,0.62,0.66,0.65,0.53
+Ryan,Power,Radical Cup North America,P4,BSI Racing,2026,7,0.82,USA,2004/01/01,1688,0.66,0.66,0.60,0.63,0.65,0.66,0.63,0.64,0.64,0.63,0.70,0.62,0.66,0.65,0.55
+Nathan,Dupuis,Radical Cup North America,P4,Copeland Motorsports,2026,8,0.82,USA,1998/01/01,1686,0.66,0.68,0.60,0.63,0.65,0.66,0.63,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.60
+Beltre,Curtis,Radical Cup North America,P4,Copeland Motorsports,2026,9,0.82,USA,1995/01/01,1684,0.65,0.65,0.61,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.62
+Niko,Colby,Radical Cup North America,P4,Copeland Motorsports,2026,10,0.82,USA,2005/01/01,1682,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.54
+Paityn,Feyen,Radical Cup North America,P4,Copeland Motorsports,2026,11,0.82,USA,2004/01/01,1680,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.60
+Jenson,Sofronas,Radical Cup North America,P4,Copeland Motorsports / GMG Racing,2026,12,0.82,USA,2006/01/01,1678,0.65,0.67,0.60,0.62,0.64,0.63,0.62,0.65,0.63,0.62,0.70,0.63,0.63,0.62,0.65
+Will,Robusto,Radical Cup North America,P4,RVA Graphics Motorsports by Speed Syndicate,2026,13,0.76,USA,2005/01/01,1676,0.65,0.67,0.61,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.65
+Garrett,Manes,Radical Cup North America,P4,RVA Graphics Motorsports by Speed Syndicate,2026,14,0.76,USA,1995/01/01,1674,0.65,0.65,0.61,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.60
+Max,Schweid,Radical Cup North America,P4,RVA Graphics Motorsports by Speed Syndicate,2026,15,0.76,USA,1998/01/01,1672,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.57
+Zach,Hollingshead,Radical Cup North America,P4,Hollingshead Performance,2026,16,0.76,USA,1998/1/1,1670,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.54
+Tom,Rudnai,Radical Cup North America,P4,Dream Machine @ Eagles Canyon,2026,17,0.76,USA,1975/01/01,1668,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.65
+Jared,Odrick,Radical Cup North America,P4,Dream Machine @ Eagles Canyon,2026,18,0.76,USA,1987/12/31,1666,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.62
+Jason,Kos,Radical Cup North America,P4,Dream Machine @ Eagles Canyon,2026,19,0.76,USA,1980/01/01,1664,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.52
+Jeff,Curry,Radical Cup North America,P4,Dream Machine @ Eagles Canyon,2026,20,0.76,USA,1975/01/01,1662,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.64
+Andrew,Gilleland,Radical Cup North America,P4,Dream Machine @ Eagles Canyon,2026,21,0.76,USA,1985/01/01,1660,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.57
+Livio,Galanti,Radical Cup North America,P4,Dream Machine @ Eagles Canyon,2026,22,0.76,USA,1975/01/01,1658,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.52
+Paul,Wilson,Radical Cup North America,P4,Dream Machine @ Eagles Canyon,2026,23,0.70,USA,1970/01/01,1656,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.59
+Joseph,Maley,Radical Cup North America,P4,Eagles Canyon w/Fast Track,2026,24,0.70,USA,1985/01/01,1654,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.56
+Michael,Edwards,Radical Cup North America,P4,Eagles Canyon w/Fast Track,2026,25,0.70,USA,1980/01/01,1652,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.63
+Ava,Schletz,Radical Cup North America,P4,Eagles Canyon w/Fast Track,2026,26,0.70,USA,2005/01/01,1650,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.66
