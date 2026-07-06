@@ -1,7 +1,8 @@
 {
-  "name": "Road to Le Mans",
-  "description": "Race in GT and Prototype cars accross Europe and the US. Features a selection of current sprint and endurance series.",
-  "authors": ["whyl_"],
+  "name": "Stockcar Odyssey",
+  "available": false,
+  "description": "A stock car career climbing the oval ladder from grassroots short tracks to the top national series.",
+  "authors": [],
   "hero": "hero.jpg",
   "championships": "championships.csv",
   "events": "events.csv",

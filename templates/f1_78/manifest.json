@@ -1,0 +1,13 @@
+{
+  "name": "F1 '78",
+  "available": false,
+  "description": "The 1978 Formula 1 season, competing for the world championship in the ground-effect era.",
+  "authors": [],
+  "hero": "hero.jpg",
+  "championships": "championships.csv",
+  "events": "events.csv",
+  "tracks": "tracks.csv",
+  "teams": "teams.csv",
+  "cars": "cars.csv",
+  "drivers": "drivers.csv"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Le Mans '05",
+  "available": false,
+  "description": "The 2005 sportscar season, racing GT and prototype machinery at Le Mans and across the endurance calendar.",
+  "authors": [],
+  "hero": "hero.jpg",
+  "championships": "championships.csv",
+  "events": "events.csv",
+  "tracks": "tracks.csv",
+  "teams": "teams.csv",
+  "cars": "cars.csv",
+  "drivers": "drivers.csv"
+}
