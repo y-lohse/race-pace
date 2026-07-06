@@ -1,7 +1,7 @@
 {
   "name": "F1 '97",
   "available": true,
-  "description": "The 1997 Formula 1 season, fighting for the world championship in the grooveless slick era.",
+  "description": "Join the Formula 1 from the 1997 season onwards, fighting for the world championship in the grooveless slick era.",
   "authors": ["Blitzer69", "WTG"],
   "hero": "hero.png",
   "championships": "championships.csv",

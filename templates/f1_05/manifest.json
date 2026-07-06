@@ -1,7 +1,7 @@
 {
   "name": "F1 '05",
   "available": true,
-  "description": "The 2005 Formula 1 season, contesting the world championship in the V10 era.",
+  "description": "Start your career in the 2005 Formula 1 season, contesting the world championship in the V10 era.",
   "authors": ["Blitzer69", "WTG"],
   "hero": "hero.png",
   "championships": "championships.csv",
