@@ -1,1 +1,226 @@
 team_name,category,model,livery,championship_names,livery_id,model_folder
+KTF Sports,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #01,Old Stock Race,51,opala_oldstock
+KTF Sports,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #2,Old Stock Race,52,opala_oldstock
+KTF Sports,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #3,Old Stock Race,53,opala_oldstock
+Pole Motorsport,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #6,Old Stock Race,54,opala_oldstock
+Pole Motorsport,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #9,Old Stock Race,55,opala_oldstock
+Pole Motorsport,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #11,Old Stock Race,56,opala_oldstock
+TMG Racing,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #17,Old Stock Race,57,opala_oldstock
+TMG Racing,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #18,Old Stock Race,58,opala_oldstock
+TMG Racing,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #22,Old Stock Race,59,opala_oldstock
+Cavaleiro Sports,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #23,Old Stock Race,60,opala_oldstock
+Cavaleiro Sports,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #45,Old Stock Race,61,opala_oldstock
+Cavaleiro Sports,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #51,Old Stock Race,62,opala_oldstock
+Eurofarma RC,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #54,Old Stock Race,63,opala_oldstock
+Eurofarma RC,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #64,Old Stock Race,64,opala_oldstock
+Eurofarma RC,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #77,Old Stock Race,65,opala_oldstock
+RCM Motorsport,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #78,Old Stock Race,66,opala_oldstock
+RCM Motorsport,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #79,Old Stock Race,67,opala_oldstock
+RCM Motorsport,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #89,Old Stock Race,68,opala_oldstock
+Ipiranga Racing,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #93,Old Stock Race,69,opala_oldstock
+Ipiranga Racing,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #113,Old Stock Race,70,opala_oldstock
+Ipiranga Racing,OldStock,Chevrolet Opala Old Stock Race,Opala Old Stock Race #909,Old Stock Race,71,opala_oldstock
+KTF Sports,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,KTF Sports - C.Bueno #0,"Turismo Carretera,Stock Car Pro Series (2023)",51,stock_cruze_23
+KTF Sports,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,KTF Sports - R.Baptista #3,"Turismo Carretera,Stock Car Pro Series (2023)",52,stock_cruze_23
+TMG Racing,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,Lubrax Podium TMG - J.Campos #4,"Turismo Carretera,Stock Car Pro Series (2023)",53,stock_cruze_23
+TMG Racing,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,Lubrax Podium TMG - F.Massa #19,"Turismo Carretera,Stock Car Pro Series (2023)",54,stock_cruze_23
+Cavaleiro Sports,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,Cavaleiro Sports - D.Navarro #5,"Turismo Carretera,Stock Car Pro Series (2023)",55,stock_cruze_23
+Cavaleiro Sports,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,Cavaleiro Sports - M.Gomes #80,"Turismo Carretera,Stock Car Pro Series (2023)",56,stock_cruze_23
+Pole Motorsport,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,POLE Motorsport - R.Suzuki #8,"Turismo Carretera,Stock Car Pro Series (2023)",57,stock_cruze_23
+Pole Motorsport,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,POLE Motorsport - A.Abreu #51,"Turismo Carretera,Stock Car Pro Series (2023)",58,stock_cruze_23
+Vogel Motorsport,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,AMM Vogel - L.Foresti #12,"Turismo Carretera,Stock Car Pro Series (2023)",61,stock_cruze_23
+Vogel Motorsport,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,AMM Vogel - G.Casagrande #83,"Turismo Carretera,Stock Car Pro Series (2023)",62,stock_cruze_23
+Blau Motorsport,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,Blau Motorsport - A.Khodair #18,"Turismo Carretera,Stock Car Pro Series (2023)",63,stock_cruze_23
+Blau Motorsport,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,Blau Motorsport - F.Fraga #74,"Turismo Carretera,Stock Car Pro Series (2023)",64,stock_cruze_23
+Eurofarma RC,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,Eurofarma RC - D.Serra #29,"Turismo Carretera,Stock Car Pro Series (2023)",65,stock_cruze_23
+Eurofarma RC,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,Eurofarma RC - R.Mauricio #90,"Turismo Carretera,Stock Car Pro Series (2023)",66,stock_cruze_23
+KTF Racing,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,KTF Racing - G.Salas #85,"Turismo Carretera,Stock Car Pro Series (2023)",67,stock_cruze_23
+KTF Racing,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,KTF Racing - F.Baptista #121,"Turismo Carretera,Stock Car Pro Series (2023)",68,stock_cruze_23
+RCM Motorsport,StockCarV8_2023,Toyota Corolla Stock Car 2023,RCM Motorsport - R.Zonta #10,"Turismo Carretera,Stock Car Pro Series (2023)",52,stock_corolla_23
+RCM Motorsport,StockCarV8_2023,Toyota Corolla Stock Car 2023,RCM Motorsport - B.Baptista #44,"Turismo Carretera,Stock Car Pro Series (2023)",53,stock_corolla_23
+Ipiranga Racing,StockCarV8_2023,Toyota Corolla Stock Car 2023,Ipiranga Racing - T.Camilo #21,"Turismo Carretera,Stock Car Pro Series (2023)",54,stock_corolla_23
+Ipiranga Racing,StockCarV8_2023,Toyota Corolla Stock Car 2023,Ipiranga Racing - C.Ramos #30,"Turismo Carretera,Stock Car Pro Series (2023)",55,stock_corolla_23
+Crown Racing,StockCarV8_2023,Toyota Corolla Stock Car 2023,Crown Racing - E.Elias #28,"Turismo Carretera,Stock Car Pro Series (2023)",56,stock_corolla_23
+Crown Racing,StockCarV8_2023,Toyota Corolla Stock Car 2023,Crown Racing - N.Piquet Jr #33,"Turismo Carretera,Stock Car Pro Series (2023)",57,stock_corolla_23
+Scuderia Chiarelli,StockCarV8_2023,Toyota Corolla Stock Car 2023,Scuderia Chiarelli - R.Teixeira #37,"Turismo Carretera,Stock Car Pro Series (2023)",58,stock_corolla_23
+Scuderia Chiarelli,StockCarV8_2023,Toyota Corolla Stock Car 2023,Scuderia Chiarelli - S.Jimenez #73,"Turismo Carretera,Stock Car Pro Series (2023)",59,stock_corolla_23
+MOBIL ALE,StockCarV8_2023,Toyota Corolla Stock Car 2023,MOBIL ALE - E.Barrichello #91,"Turismo Carretera,Stock Car Pro Series (2023)",60,stock_corolla_23
+MOBIL ALE,StockCarV8_2023,Toyota Corolla Stock Car 2023,MOBIL ALE - R.Barrichello #111,"Turismo Carretera,Stock Car Pro Series (2023)",61,stock_corolla_23
+KTF Sports,Montana,Copa Montana,Copa Montana #00,Stock Light Brasil,51,montana
+KTF Sports,Montana,Copa Montana,Copa Montana #01,Stock Light Brasil,52,montana
+TMG Racing,Montana,Copa Montana,Copa Montana #02,Stock Light Brasil,53,montana
+TMG Racing,Montana,Copa Montana,Copa Montana #04,Stock Light Brasil,54,montana
+Cavaleiro Sports,Montana,Copa Montana,Copa Montana #08,Stock Light Brasil,55,montana
+Cavaleiro Sports,Montana,Copa Montana,Copa Montana #10,Stock Light Brasil,56,montana
+Pole Motorsport,Montana,Copa Montana,Copa Montana #11,Stock Light Brasil,57,montana
+Pole Motorsport,Montana,Copa Montana,Copa Montana #17,Stock Light Brasil,58,montana
+Vogel Motorsport,Montana,Copa Montana,Copa Montana #22,Stock Light Brasil,59,montana
+Vogel Motorsport,Montana,Copa Montana,Copa Montana #23,Stock Light Brasil,60,montana
+Blau Motorsport,Montana,Copa Montana,Copa Montana #27,Stock Light Brasil,61,montana
+Blau Motorsport,Montana,Copa Montana,Copa Montana #29,Stock Light Brasil,62,montana
+Eurofarma RC,Montana,Copa Montana,Copa Montana #30,Stock Light Brasil,63,montana
+Eurofarma RC,Montana,Copa Montana,Copa Montana #40,Stock Light Brasil,64,montana
+KTF Racing,Montana,Copa Montana,Copa Montana #44,Stock Light Brasil,65,montana
+KTF Racing,Montana,Copa Montana,Copa Montana #48,Stock Light Brasil,66,montana
+RCM Motorsport,Montana,Copa Montana,Copa Montana #49,Stock Light Brasil,67,montana
+RCM Motorsport,Montana,Copa Montana,Copa Montana #51,Stock Light Brasil,68,montana
+Ipiranga Racing,Montana,Copa Montana,Copa Montana #55,Stock Light Brasil,69,montana
+Ipiranga Racing,Montana,Copa Montana,Copa Montana #63,Stock Light Brasil,70,montana
+Crown Racing,Montana,Copa Montana,Copa Montana #70,Stock Light Brasil,71,montana
+Crown Racing,Montana,Copa Montana,Copa Montana #82,Stock Light Brasil,72,montana
+Scuderia Chiarelli,Montana,Copa Montana,Copa Montana #98,Stock Light Brasil,73,montana
+Scuderia Chiarelli,Montana,Copa Montana,Copa Montana #99,Stock Light Brasil,74,montana
+Crown Racing,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Crown Racing - C.Bueno #0,Stock Car Pro Series (2022),51,stock_cruze_22
+Crown Racing,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Crown Racing - R.Baptista #3,Stock Car Pro Series (2022),52,stock_cruze_22
+Wokin Garra Racing,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Lubrax Podium - J.Campos #4,Stock Car Pro Series (2022),54,stock_cruze_22
+Wokin Garra Racing,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Lubrax Podium - F.Massa #19,Stock Car Pro Series (2022),55,stock_cruze_22
+Cavaleiro Sports,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Cavaleiro Sports - D.Navarro #5,Stock Car Pro Series (2022),56,stock_cruze_22
+Cavaleiro Sports,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Cavaleiro Sports - M.Gomes #80,Stock Car Pro Series (2022),57,stock_cruze_22
+KTF Sports,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,KTF Sports - G.Di Mauro #11,Stock Car Pro Series (2022),58,stock_cruze_22
+KTF Sports,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,KTF Sports - L.Foresti #12,Stock Car Pro Series (2022),59,stock_cruze_22
+KTF Racing,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,KTF Sports - G.Salas #85,Stock Car Pro Series (2022),60,stock_cruze_22
+KTF Racing,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,KTF Sports - F.Baptista #121,Stock Car Pro Series (2022),61,stock_cruze_22
+Blau Motorsport,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Blau Motorsport - A.Khodair #18,Stock Car Pro Series (2022),62,stock_cruze_22
+Blau Motorsport,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Blau Motorsport - D.Nunes #70,Stock Car Pro Series (2022),63,stock_cruze_22
+Vogel Motorsport,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Shell V-Power - G.Osman #28,Stock Car Pro Series (2022),64,stock_cruze_22
+Vogel Motorsport,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Shell V-Power - A.Abreu #51,Stock Car Pro Series (2022),65,stock_cruze_22
+Eurofarma RC,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Eurofarma RC - D.Serra #29,Stock Car Pro Series (2022),66,stock_cruze_22
+Eurofarma RC,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Eurofarma RC - R.Mauricio #90,Stock Car Pro Series (2022),67,stock_cruze_22
+Pole Motorsport,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Hot Car Competicoes - T.Antoniazi #54,Stock Car Pro Series (2022),68,stock_cruze_22
+Pole Motorsport,StockCarV8_2022,Chevrolet Cruze Stock Car 2022,Hot Car Competicoes - F.Lapenna #110,Stock Car Pro Series (2022),69,stock_cruze_22
+Full Time Bassani,StockCarV8_2022,Toyota Corolla Stock Car 2022,Full Time Bassani - T.Kanaan #6,Stock Car Pro Series (2022),51,stock_corolla_22
+Full Time Bassani,StockCarV8_2022,Toyota Corolla Stock Car 2022,Full Time Bassani - R.Suzuki #8,Stock Car Pro Series (2022),52,stock_corolla_22
+RCM Motorsport,StockCarV8_2022,Toyota Corolla Stock Car 2022,RCM Motorsport - R.Zonta #10,Stock Car Pro Series (2022),53,stock_corolla_22
+RCM Motorsport,StockCarV8_2022,Toyota Corolla Stock Car 2022,RCM Motorsport - B.Baptista #44,Stock Car Pro Series (2022),57,stock_corolla_22
+Ipiranga Racing,StockCarV8_2022,Toyota Corolla Stock Car 2022,Ipiranga Racing - T.Camilo #21,Stock Car Pro Series (2022),54,stock_corolla_22
+Ipiranga Racing,StockCarV8_2022,Toyota Corolla Stock Car 2022,Ipiranga Racing - C.Ramos #30,Stock Car Pro Series (2022),55,stock_corolla_22
+TMG Racing,StockCarV8_2022,Toyota Corolla Stock Car 2022,Motul TMG Racing - N.Piquet Jr #33,Stock Car Pro Series (2022),56,stock_corolla_22
+TMG Racing,StockCarV8_2022,Toyota Corolla Stock Car 2022,AMM Vogel - M.Rossi #117,Stock Car Pro Series (2022),62,stock_corolla_22
+Scuderia Chiarelli,StockCarV8_2022,Toyota Corolla Stock Car 2022,Scuderia CJ - S.Jimenez #73,Stock Car Pro Series (2022),58,stock_corolla_22
+Scuderia Chiarelli,StockCarV8_2022,Toyota Corolla Stock Car 2022,Scuderia CJ - B.Monteiro #88,Stock Car Pro Series (2022),59,stock_corolla_22
+MOBIL ALE,StockCarV8_2022,Toyota Corolla Stock Car 2022,Full Time Sports - G.Petecof #101,Stock Car Pro Series (2022),60,stock_corolla_22
+MOBIL ALE,StockCarV8_2022,Toyota Corolla Stock Car 2022,Full Time Sports - R.Barrichello #111,Stock Car Pro Series (2022),61,stock_corolla_22
+Wokin Garra Racing,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,Hot Car Competicoes - G.Di Mauro #11,Stock Car Pro Series (2023),59,stock_cruze_23
+Wokin Garra Racing,StockCarV8_2023,Chevrolet Cruze Stock Car 2023,Hot Car Competicoes - L.Kohl #95,Stock Car Pro Series (2023),60,stock_cruze_23
+Full Time Bassani,StockCarV8_2023,Toyota Corolla Stock Car 2023,Full Time Sports - G.Petecof #101,Stock Car Pro Series (2023),62,stock_corolla_23
+Full Time Bassani,StockCarV8_2023,Toyota Corolla Stock Car 2023,Full Time Sports - M.Rossi #117,Stock Car Pro Series (2023),63,stock_corolla_23
+KTF Racing,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,KTF Racing - C.Bueno #0,Stock Car Pro Series,51,stock_cruze_24
+KTF Racing,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,KTF Sports - Z.Muggiati #38,Stock Car Pro Series,52,stock_cruze_24
+KTF Sports,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,KTF Sports - G.Salas #85,Stock Car Pro Series,53,stock_cruze_24
+KTF Sports,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,KTF Sports - M.Gomes #80,Stock Car Pro Series,54,stock_cruze_24
+Pole Motorsport,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,Pole Motorsport - J.Campos #4,Stock Car Pro Series,55,stock_cruze_24
+Pole Motorsport,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,Pole Motorsport - A.Abreu #51,Stock Car Pro Series,56,stock_cruze_24
+TMG Racing,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,TMG Racing - R.Suzuki #8,Stock Car Pro Series,57,stock_cruze_24
+TMG Racing,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,TMG Racing - F.Massa #19,Stock Car Pro Series,58,stock_cruze_24
+Cavaleiro Sports,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,Cavaleiro Sports - G.Di Mauro #11,Stock Car Pro Series,59,stock_cruze_24
+Cavaleiro Sports,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,Cavaleiro Sports - N.Piquet Jr. #33,Stock Car Pro Series,60,stock_cruze_24
+Vogel Motorsport,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,A.Mattheis Vogel - L.Foresti #12,Stock Car Pro Series,61,stock_cruze_24
+Vogel Motorsport,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,A.Mattheis Vogel - G.Casagrande #83,Stock Car Pro Series,62,stock_cruze_24
+Blau Motorsport,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,Blau Motorsport - A.Khodair #18,Stock Car Pro Series,63,stock_cruze_24
+Blau Motorsport,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,Blau Motorsport - F.Fraga #88,Stock Car Pro Series,64,stock_cruze_24
+Eurofarma RC,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,Eurofarma RC - D.Serra #29,Stock Car Pro Series,65,stock_cruze_24
+Eurofarma RC,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,Eurofarma RC - R.Mauricio #90,Stock Car Pro Series,66,stock_cruze_24
+Wokin Garra Racing,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,Wokin Garra Racing - G.Robe #35,Stock Car Pro Series,68,stock_cruze_24
+Wokin Garra Racing,StockCarV8_2024,Chevrolet Cruze Stock Car 2024,Wokin Garra Racing - L.Kohl #95,Stock Car Pro Series,69,stock_cruze_24
+RCM Motorsport,StockCarV8_2024,Toyota Corolla Stock Car 2024,RCM Motorsport - R.Zonta #10,Stock Car Pro Series,51,stock_corolla_24
+RCM Motorsport,StockCarV8_2024,Toyota Corolla Stock Car 2024,RCM Motorsport - B.Baptista #44,Stock Car Pro Series,52,stock_corolla_24
+Ipiranga Racing,StockCarV8_2024,Toyota Corolla Stock Car 2024,Ipiranga Racing - T.Camilo #21,Stock Car Pro Series,53,stock_corolla_24
+Ipiranga Racing,StockCarV8_2024,Toyota Corolla Stock Car 2024,Ipiranga Racing - C.Ramos #30,Stock Car Pro Series,54,stock_corolla_24
+Crown Racing,StockCarV8_2024,Toyota Corolla Stock Car 2024,Crown Racing - E.Elias #28,Stock Car Pro Series,55,stock_corolla_24
+Crown Racing,StockCarV8_2024,Toyota Corolla Stock Car 2024,Crown Racing - F.Baptista #121,Stock Car Pro Series,56,stock_corolla_24
+Full Time Bassani,StockCarV8_2024,Toyota Corolla Stock Car 2024,Full Time Bassani - A.Leist #81,Stock Car Pro Series,57,stock_corolla_24
+Full Time Bassani,StockCarV8_2024,Toyota Corolla Stock Car 2024,Full Time Bassani - G.Petecof #101,Stock Car Pro Series,58,stock_corolla_24
+MOBIL ALE,StockCarV8_2024,Toyota Corolla Stock Car 2024,MOBIL ALE - E.Barrichello #91,Stock Car Pro Series,59,stock_corolla_24
+MOBIL ALE,StockCarV8_2024,Toyota Corolla Stock Car 2024,MOBIL ALE - R.Barrichello #111,Stock Car Pro Series,60,stock_corolla_24
+KTF Sports,SprintRace,Sprint Race,Marcelo Henriques #03,NASCAR Brasil Series,51,sprintrace
+KTF Sports,SprintRace,Sprint Race,Kaua Machado #7,NASCAR Brasil Series,52,sprintrace
+Pole Motorsport,SprintRace,Sprint Race,Cassio Cortes #09,NASCAR Brasil Series,53,sprintrace
+Pole Motorsport,SprintRace,Sprint Race,Daniel Coutinho #17,NASCAR Brasil Series,54,sprintrace
+TMG Racing,SprintRace,Sprint Race,Pedro Lopes #18,NASCAR Brasil Series,55,sprintrace
+TMG Racing,SprintRace,Sprint Race,Luciano Zangirolami #19,NASCAR Brasil Series,56,sprintrace
+Cavaleiro Sports,SprintRace,Sprint Race,Felipe Neira #28,NASCAR Brasil Series,57,sprintrace
+Cavaleiro Sports,SprintRace,Sprint Race,Walter Lester #33,NASCAR Brasil Series,58,sprintrace
+Vogel Motorsport,SprintRace,Sprint Race,Luiz Arruda #44,NASCAR Brasil Series,59,sprintrace
+Vogel Motorsport,SprintRace,Sprint Race,Cae Coelho #55,NASCAR Brasil Series,60,sprintrace
+Blau Motorsport,SprintRace,Sprint Race,Allan Croce #61,NASCAR Brasil Series,61,sprintrace
+Blau Motorsport,SprintRace,Sprint Race,Francesco Franciosi #73,NASCAR Brasil Series,62,sprintrace
+Eurofarma RC,SprintRace,Sprint Race,Nathan Brito #77,NASCAR Brasil Series,63,sprintrace
+Eurofarma RC,SprintRace,Sprint Race,Franco Pasquale #78,NASCAR Brasil Series,64,sprintrace
+Wokin Garra Racing,SprintRace,Sprint Race,Sergio Ramalho #79,NASCAR Brasil Series,65,sprintrace
+Wokin Garra Racing,SprintRace,Sprint Race,Gerson Campos #82,NASCAR Brasil Series,66,sprintrace
+Crown Racing,SprintRace,Sprint Race,Edu Menossi #85,NASCAR Brasil Series,67,sprintrace
+Crown Racing,SprintRace,Sprint Race,Vinny Azevedo #99,NASCAR Brasil Series,68,sprintrace
+Full Time Bassani,SprintRace,Sprint Race,Rubens Barrichello #111,NASCAR Brasil Series,69,sprintrace
+Full Time Bassani,SprintRace,Sprint Race,Joao Rosate #858,NASCAR Brasil Series,70,sprintrace
+Thunderhead Motorsports,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #01,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",51,stock_usa_g2
+Thunderhead Motorsports,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #2,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",52,stock_usa_g2
+Red Canyon Racing,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #3,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",53,stock_usa_g2
+Red Canyon Racing,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #04,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",54,stock_usa_g2
+Ironclad Racing Group,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #5,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",55,stock_usa_g2
+Ironclad Racing Group,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #8,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",56,stock_usa_g2
+Blue Ridge Speed Co.,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #9,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",57,stock_usa_g2
+Blue Ridge Speed Co.,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #11,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",58,stock_usa_g2
+Stallion Motorsports,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #13,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",59,stock_usa_g2
+Stallion Motorsports,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #14,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",60,stock_usa_g2
+Copperhead Racing,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #15,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",61,stock_usa_g2
+Copperhead Racing,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #16,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",62,stock_usa_g2
+Dustbowl Performance,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #17,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",63,stock_usa_g2
+Dustbowl Performance,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #22,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",64,stock_usa_g2
+Flatland Autosport,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #25,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",65,stock_usa_g2
+Flatland Autosport,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #29,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",66,stock_usa_g2
+Lone Star Racing Team,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #32,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",67,stock_usa_g2
+Lone Star Racing Team,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #33,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",68,stock_usa_g2
+Ridgeline Motorsports,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #34,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",69,stock_usa_g2
+Ridgeline Motorsports,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #35,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",70,stock_usa_g2
+Buckshot Racing Group,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #42,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",71,stock_usa_g2
+Buckshot Racing Group,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #43,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",72,stock_usa_g2
+Frontier Speed Works,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #45,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",73,stock_usa_g2
+Frontier Speed Works,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #52,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",74,stock_usa_g2
+Hardtack Motorsports,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #54,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",75,stock_usa_g2
+Hardtack Motorsports,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #58,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",76,stock_usa_g2
+Piedmont Racing Co.,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #59,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",77,stock_usa_g2
+Piedmont Racing Co.,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #66,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",78,stock_usa_g2
+Sunbelt Autosport,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #71,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",79,stock_usa_g2
+Sunbelt Autosport,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #76,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",80,stock_usa_g2
+Gravel Pit Racing,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #77,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",81,stock_usa_g2
+Gravel Pit Racing,Stock_USA_Gen2,Stock USA Gen2,Stock USA Gen2 #78,"NASCAR Cup Series (Gen 4),NASCAR Second Division (Gen 4),ARCA Menards Series (Gen 4),NASCAR Euro Series (Gen 4)",82,stock_usa_g2
+Thunderhead Motorsports,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #00,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",51,stock_usa_g3
+Thunderhead Motorsports,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #02,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",52,stock_usa_g3
+Red Canyon Racing,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #4,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",53,stock_usa_g3
+Red Canyon Racing,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #5,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",54,stock_usa_g3
+Ironclad Racing Group,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #6,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",55,stock_usa_g3
+Ironclad Racing Group,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #8,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",56,stock_usa_g3
+Blue Ridge Speed Co.,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #10,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",57,stock_usa_g3
+Blue Ridge Speed Co.,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #12,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",58,stock_usa_g3
+Stallion Motorsports,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #13,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",59,stock_usa_g3
+Stallion Motorsports,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #15,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",60,stock_usa_g3
+Copperhead Racing,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #22,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",61,stock_usa_g3
+Copperhead Racing,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #26,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",62,stock_usa_g3
+Dustbowl Performance,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #30,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",63,stock_usa_g3
+Dustbowl Performance,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #32,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",64,stock_usa_g3
+Flatland Autosport,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #33,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",65,stock_usa_g3
+Flatland Autosport,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #35,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",66,stock_usa_g3
+Lone Star Racing Team,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #44,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",67,stock_usa_g3
+Lone Star Racing Team,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #46,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",68,stock_usa_g3
+Ridgeline Motorsports,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #51,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",69,stock_usa_g3
+Ridgeline Motorsports,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #53,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",70,stock_usa_g3
+Buckshot Racing Group,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #55,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",71,stock_usa_g3
+Buckshot Racing Group,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #58,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",72,stock_usa_g3
+Frontier Speed Works,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #60,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",73,stock_usa_g3
+Frontier Speed Works,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #62,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",74,stock_usa_g3
+Hardtack Motorsports,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #66,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",75,stock_usa_g3
+Hardtack Motorsports,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #69,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",76,stock_usa_g3
+Piedmont Racing Co.,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #70,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",77,stock_usa_g3
+Piedmont Racing Co.,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #72,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",78,stock_usa_g3
+Sunbelt Autosport,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #73,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",79,stock_usa_g3
+Sunbelt Autosport,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #74,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",80,stock_usa_g3
+Gravel Pit Racing,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #75,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",81,stock_usa_g3
+Gravel Pit Racing,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #78,"NASCAR Cup Series (Next Gen),NASCAR Second Division (Next Gen),NASCAR Euro Series (Next Gen)",82,stock_usa_g3
+A. J. Foyt Racing,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #80,NASCAR Cup Series (Next Gen),83,stock_usa_g3
+A. J. Foyt Racing,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #82,NASCAR Cup Series (Next Gen),84,stock_usa_g3
+Chip Ganassi Racing,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #85,NASCAR Cup Series (Next Gen),85,stock_usa_g3
+Chip Ganassi Racing,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #88,NASCAR Cup Series (Next Gen),86,stock_usa_g3
+Dreyer & Reinbold Racing,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #92,NASCAR Cup Series (Next Gen),87,stock_usa_g3
+Dreyer & Reinbold Racing,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #95,NASCAR Cup Series (Next Gen),88,stock_usa_g3
+HMD Motorsports,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #96,NASCAR Cup Series (Next Gen),89,stock_usa_g3
+HMD Motorsports,Stock_USA_Gen3,Stock USA Gen3,Stock USA Gen3 #99,NASCAR Cup Series (Next Gen),90,stock_usa_g3
