@@ -2,7 +2,7 @@
   "name": "F1 '05",
   "available": false,
   "description": "The 2005 Formula 1 season, contesting the world championship in the V10 era.",
-  "authors": [],
+  "authors": ["Blitzer69"],
   "hero": "hero.png",
   "championships": "championships.csv",
   "events": "events.csv",

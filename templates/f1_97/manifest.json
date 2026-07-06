@@ -2,7 +2,7 @@
   "name": "F1 '97",
   "available": false,
   "description": "The 1997 Formula 1 season, fighting for the world championship in the grooveless slick era.",
-  "authors": [],
+  "authors": ["Blitzer69"],
   "hero": "hero.png",
   "championships": "championships.csv",
   "events": "events.csv",

@@ -2,7 +2,7 @@
   "name": "F1 '88",
   "available": false,
   "description": "The 1988 Formula 1 season, racing through the final year of the turbo era.",
-  "authors": [],
+  "authors": ["Blitzer69"],
   "hero": "hero.png",
   "championships": "championships.csv",
   "events": "events.csv",

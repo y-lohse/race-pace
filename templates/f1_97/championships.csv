@@ -1,1 +1,10 @@
 name,categories,prestige,points,pit_stop,start_type,field_type,parc_ferme,events_count,tags,init_month,init_day,registration_start_month,registration_start_day,registration_end_month,registration_end_day,start_year,end_year,default_included
+Formula 1 (V10 Gen 1),F-V10_Gen1,100,"10,6,4,3,2,1",FALSE,standing,,FALSE,15,"Open Wheel,World,F1",1,3,1,12,1,19,1997,1999,TRUE
+Formula 1 (V10 Gen 2),F-V10_Gen2,100,"10,8,6,5,4,3,2,1",FALSE,standing,,FALSE,14,"Open Wheel,World,F1",1,3,1,12,1,19,2000,2004,TRUE
+Formula 1 (V10 Gen 3),F-V10_Gen3,100,"10,8,6,5,4,3,2,1",FALSE,standing,,TRUE,13,"Open Wheel,World,F1",1,3,1,12,1,19,2005,2005,TRUE
+Formula 1 (V8 Gen 1),F-V8_Gen1,100,"10,8,6,5,4,3,2,1",FALSE,standing,,TRUE,13,"Open Wheel,World,F1",1,3,1,12,1,19,2006,2007,TRUE
+Formula 1 (V8 Gen 2),F-V8_Gen2,100,"10,8,6,5,4,3,2,1",FALSE,standing,,TRUE,11,"Open Wheel,World,F1",1,3,1,12,1,19,2008,2009,TRUE
+Formula 1 (V8 Gen 3),F-Reiza,100,"25,18,15,12,10,8,6,4,2,1",TRUE,standing,,TRUE,13,"Open Wheel,World,F1",1,3,1,12,1,19,2010,2015,TRUE
+Formula 1 (Hybrid Gen 1),F-Ultimate_Gen1,100,"25,18,15,12,10,8,6,4,2,1",TRUE,standing,,TRUE,13,"Open Wheel,World,F1",1,3,1,12,1,19,2016,2018,TRUE
+Formula 1 (Hybrid Gen 2),F-Ultimate,100,"25,18,15,12,10,8,6,4,2,1",TRUE,standing,,TRUE,14,"Open Wheel,World,F1",1,3,1,12,1,19,2019,2021,TRUE
+Formula 1 (Hybrid Gen 3),F-Ultimate_Gen2,100,"25,18,15,12,10,8,6,4,2,1",TRUE,standing,,TRUE,16,"Open Wheel,World,F1",1,3,1,12,1,19,2022,,TRUE
