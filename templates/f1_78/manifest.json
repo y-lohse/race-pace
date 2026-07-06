@@ -2,12 +2,19 @@
   "name": "F1 '78",
   "available": true,
   "description": "Formula 1 through the ages. Start in 1978 and race through all the regulations changes until the modern era.",
-  "authors": ["Blitzer69", "WTG"],
+  "authors": ["Blitzer69", "Javen", "WTG"],
   "hero": "hero.png",
   "championships": "championships.csv",
   "events": "events.csv",
   "tracks": "tracks.csv",
   "teams": "teams.csv",
   "cars": "cars.csv",
-  "drivers": "drivers.csv"
+  "drivers": "drivers.csv",
+  "overrides": {
+    "real_roster": {
+      "cars": "real_cars.csv",
+      "drivers": "real_drivers.csv",
+      "teams": "real_teams.csv"
+    }
+  }
 }

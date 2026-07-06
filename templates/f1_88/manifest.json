@@ -2,12 +2,19 @@
   "name": "F1 '88",
   "available": true,
   "description": "Begin your career in the 1988 Formula 1 season, racing through the final year of the turbo era.",
-  "authors": ["Blitzer69", "WTG"],
+  "authors": ["Blitzer69", "Javen", "WTG"],
   "hero": "hero.png",
   "championships": "championships.csv",
   "events": "events.csv",
   "tracks": "tracks.csv",
   "teams": "teams.csv",
   "cars": "cars.csv",
-  "drivers": "drivers.csv"
+  "drivers": "drivers.csv",
+  "overrides": {
+    "real_roster": {
+      "cars": "real_cars.csv",
+      "drivers": "real_drivers.csv",
+      "teams": "real_teams.csv"
+    }
+  }
 }

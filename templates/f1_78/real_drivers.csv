@@ -1,0 +1,23 @@
+name,surname,championship_name,category,team_name,end_year,expected_standing,team_loyalty,country,dob,elo,race_skill,qualifying_skill,aggression,defending,stamina,consistency,start_reactions,wet_skill,tyre_management,fuel_management,blue_flag_conceding,weather_tyre_changes,avoidance_of_mistakes,avoidance_of_forced_mistakes,setup_downforce,setup_downforce_randomness
+Niki,Lauda,Formula 1 (Retro Gen 2),F-Retro_Gen2,Brabham Racing Organisation,1978,4,0.82,AUT,1949/02/22,1980,0.85,0.89,0.79,0.82,0.84,0.87,0.82,0.88,0.86,0.85,0.80,0.86,0.87,0.86,0.73,0.17
+John,Watson,Formula 1 (Retro Gen 2),F-Retro_Gen2,Brabham Racing Organisation,1978,6,0.82,GBR,1946/05/04,1900,0.79,0.79,0.73,0.76,0.78,0.77,0.76,0.77,0.77,0.76,0.74,0.75,0.77,0.76,0.75,0.17
+Patrick,Depailler,Formula 1 (Retro Gen 2),F-Retro_Gen2,Tyrrell Racing Organisation,1978,5,0.82,FRA,1944/08/09,1920,0.81,0.81,0.75,0.78,0.80,0.79,0.78,0.79,0.79,0.78,0.76,0.77,0.79,0.78,0.60,0.18
+Didier,Pironi,Formula 1 (Retro Gen 2),F-Retro_Gen2,Tyrrell Racing Organisation,1978,15,0.68,FRA,1952/03/26,1770,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.76,0.23
+Jochen,Mass,Formula 1 (Retro Gen 2),F-Retro_Gen2,ATS Racing,1978,11,0.75,DEU,1946/09/30,1815,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.59,0.21
+Keke,Rosberg,Formula 1 (Retro Gen 2),F-Retro_Gen2,ATS Racing,1978,24,0.68,FIN,1948/12/06,1690,0.66,0.66,0.64,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.73,0.24
+Carlos,Reutemann,Formula 1 (Retro Gen 2),F-Retro_Gen2,Scuderia Ferrari,1978,3,0.82,ARG,1942/04/12,2020,0.87,0.91,0.81,0.84,0.86,0.89,0.84,0.85,0.88,0.87,0.82,0.83,0.89,0.88,0.61,0.15
+Gilles,Villeneuve,Formula 1 (Retro Gen 2),F-Retro_Gen2,Scuderia Ferrari,1978,9,0.75,CAN,1950/01/18,1870,0.78,0.82,0.76,0.75,0.77,0.76,0.75,0.81,0.76,0.75,0.73,0.79,0.76,0.75,0.65,0.18
+Emerson,Fittipaldi,Formula 1 (Retro Gen 2),F-Retro_Gen2,Fittipaldi Automotive,1978,17,0.68,BRA,1946/12/12,1755,0.70,0.70,0.64,0.67,0.69,0.72,0.67,0.68,0.71,0.70,0.70,0.66,0.72,0.71,0.66,0.26
+Ingo,Hoffmann,Formula 1 (Retro Gen 2),F-Retro_Gen2,Fittipaldi Automotive,1978,26,0.68,BRA,1953/02/28,1660,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.73,0.23
+Jacques,Laffite,Formula 1 (Retro Gen 2),F-Retro_Gen2,Ligier,1978,8,0.75,FRA,1943/11/21,1880,0.78,0.78,0.72,0.75,0.77,0.76,0.75,0.76,0.76,0.75,0.73,0.74,0.76,0.75,0.60,0.24
+Jean-Pierre,Jarier,Formula 1 (Retro Gen 2),F-Retro_Gen2,Ligier,1978,18,0.68,FRA,1946/07/10,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.66,0.20
+Derek,Daly,Formula 1 (Retro Gen 2),F-Retro_Gen2,Hesketh Racing,1978,25,0.68,IRL,1953/03/11,1665,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.65,0.26
+Eddie,Cheever,Formula 1 (Retro Gen 2),F-Retro_Gen2,Hesketh Racing,1978,23,0.68,USA,1958/01/10,1685,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.74,0.27
+Alan,Jones,Formula 1 (Retro Gen 2),F-Retro_Gen2,Williams,1978,10,0.75,AUS,1946/11/02,1840,0.76,0.76,0.74,0.73,0.75,0.74,0.73,0.79,0.74,0.73,0.71,0.77,0.74,0.73,0.60,0.24
+Patrick,Neve,Formula 1 (Retro Gen 2),F-Retro_Gen2,Williams,1978,22,0.68,BEL,1949/10/13,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.71,0.23
+Mario,Andretti,Formula 1 (Retro Gen 2),F-Retro_Gen2,Team Lotus,1978,1,0.82,USA,1940/02/28,2100,0.93,0.96,0.86,0.90,0.92,0.93,0.90,0.91,0.94,0.93,0.88,0.89,0.93,0.92,0.75,0.12
+Ronnie,Peterson,Formula 1 (Retro Gen 2),F-Retro_Gen2,Team Lotus,1978,2,0.82,SWE,1944/02/14,2050,0.89,0.93,0.87,0.86,0.88,0.87,0.86,0.87,0.87,0.86,0.84,0.85,0.87,0.86,0.76,0.19
+James,Hunt,Formula 1 (Retro Gen 2),F-Retro_Gen2,McLaren Racing,1978,13,0.68,GBR,1947/08/29,1805,0.73,0.73,0.71,0.70,0.72,0.71,0.70,0.76,0.71,0.70,0.70,0.74,0.71,0.70,0.72,0.21
+Patrick,Tambay,Formula 1 (Retro Gen 2),F-Retro_Gen2,McLaren Racing,1978,14,0.68,FRA,1949/06/25,1790,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.59,0.23
+Hans-Joachim,Stuck,Formula 1 (Retro Gen 2),F-Retro_Gen2,Shadow Racing,1978,16,0.68,DEU,1951/01/01,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.68,0.20
+Clay,Regazzoni,Formula 1 (Retro Gen 2),F-Retro_Gen2,Shadow Racing,1978,12,0.75,CHE,1939/09/05,1810,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.72,0.19

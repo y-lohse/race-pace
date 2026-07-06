@@ -2,12 +2,19 @@
   "name": "F1 '05",
   "available": true,
   "description": "Start your career in the 2005 Formula 1 season, contesting the world championship in the V10 era.",
-  "authors": ["Blitzer69", "WTG"],
+  "authors": ["Blitzer69", "Javen", "WTG"],
   "hero": "hero.png",
   "championships": "championships.csv",
   "events": "events.csv",
   "tracks": "tracks.csv",
   "teams": "teams.csv",
   "cars": "cars.csv",
-  "drivers": "drivers.csv"
+  "drivers": "drivers.csv",
+  "overrides": {
+    "real_roster": {
+      "cars": "real_cars.csv",
+      "drivers": "real_drivers.csv",
+      "teams": "real_teams.csv"
+    }
+  }
 }

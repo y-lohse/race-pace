@@ -1,0 +1,19 @@
+name,surname,championship_name,category,team_name,end_year,expected_standing,team_loyalty,country,dob,elo,race_skill,qualifying_skill,aggression,defending,stamina,consistency,start_reactions,wet_skill,tyre_management,fuel_management,blue_flag_conceding,weather_tyre_changes,avoidance_of_mistakes,avoidance_of_forced_mistakes,setup_downforce,setup_downforce_randomness
+Fernando,Alonso,Formula 1 (V10 Gen 3),F-V10_Gen3,Renault F1 Team,2005,1,0.82,ESP,1981/07/29,2120,0.93,0.96,0.88,0.91,0.92,0.93,0.91,0.96,0.94,0.93,0.88,0.94,0.93,0.92,0.68,0.15
+Giancarlo,Fisichella,Formula 1 (V10 Gen 3),F-V10_Gen3,Renault F1 Team,2005,5,0.82,ITA,1973/01/14,1890,0.79,0.79,0.73,0.76,0.78,0.81,0.76,0.77,0.77,0.76,0.74,0.75,0.81,0.80,0.70,0.19
+Kimi,Raikkonen,Formula 1 (V10 Gen 3),F-V10_Gen3,McLaren Racing,2005,2,0.82,FIN,1979/10/17,2080,0.91,0.95,0.89,0.88,0.90,0.89,0.88,0.94,0.92,0.91,0.86,0.92,0.89,0.88,0.73,0.20
+Juan Pablo,Montoya,Formula 1 (V10 Gen 3),F-V10_Gen3,McLaren Racing,2005,4,0.82,COL,1975/09/20,1985,0.85,0.89,0.83,0.82,0.84,0.83,0.82,0.83,0.83,0.82,0.80,0.81,0.83,0.82,0.71,0.21
+Michael,Schumacher,Formula 1 (V10 Gen 3),F-V10_Gen3,Scuderia Ferrari,2005,3,0.82,DEU,1969/01/03,2050,0.89,0.93,0.87,0.86,0.88,0.91,0.86,0.92,0.90,0.89,0.84,0.90,0.91,0.90,0.59,0.20
+Rubens,Barrichello,Formula 1 (V10 Gen 3),F-V10_Gen3,Scuderia Ferrari,2005,8,0.75,BRA,1972/05/23,1845,0.76,0.76,0.70,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.69,0.20
+Mark,Webber,Formula 1 (V10 Gen 3),F-V10_Gen3,Williams,2005,10,0.75,AUS,1976/08/27,1805,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.71,0.25
+Nick,Heidfeld,Formula 1 (V10 Gen 3),F-V10_Gen3,Williams,2005,11,0.75,DEU,1977/05/10,1795,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.71,0.25
+Jenson,Button,Formula 1 (V10 Gen 3),F-V10_Gen3,BAR,2005,9,0.75,GBR,1980/01/19,1830,0.75,0.79,0.69,0.72,0.74,0.73,0.72,0.78,0.76,0.75,0.70,0.76,0.73,0.72,0.61,0.24
+Takuma,Sato,Formula 1 (V10 Gen 3),F-V10_Gen3,BAR,2005,23,0.68,JPN,1977/01/28,1645,0.63,0.63,0.61,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.71,0.23
+David,Coulthard,Formula 1 (V10 Gen 3),F-V10_Gen3,Red Bull Racing,2005,12,0.75,GBR,1971/03/27,1785,0.72,0.72,0.66,0.69,0.71,0.74,0.69,0.70,0.70,0.69,0.70,0.68,0.74,0.73,0.64,0.19
+Christian,Klien,Formula 1 (V10 Gen 3),F-V10_Gen3,Red Bull Racing,2005,15,0.68,AUT,1983/02/07,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.70,0.27
+Felipe,Massa,Formula 1 (V10 Gen 3),F-V10_Gen3,Sauber,2005,13,0.68,BRA,1981/04/25,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.74,0.21
+Jacques,Villeneuve,Formula 1 (V10 Gen 3),F-V10_Gen3,Sauber,2005,14,0.68,CAN,1971/04/09,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.68,0.21
+Tiago,Monteiro,Formula 1 (V10 Gen 3),F-V10_Gen3,Jordan Grand Prix,2005,16,0.68,PRT,1976/07/24,1690,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.74,0.28
+Narain,Karthikeyan,Formula 1 (V10 Gen 3),F-V10_Gen3,Jordan Grand Prix,2005,18,0.68,IND,1977/01/14,1665,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.64,0.24
+Christijan,Albers,Formula 1 (V10 Gen 3),F-V10_Gen3,Minardi,2005,19,0.68,NLD,1979/04/16,1660,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.74,0.28
+Robert,Doornbos,Formula 1 (V10 Gen 3),F-V10_Gen3,Minardi,2005,20,0.68,NLD,1981/09/23,1655,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.60,0.28

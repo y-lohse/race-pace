@@ -1,0 +1,25 @@
+name,surname,championship_name,category,team_name,end_year,expected_standing,team_loyalty,country,dob,elo,race_skill,qualifying_skill,aggression,defending,stamina,consistency,start_reactions,wet_skill,tyre_management,fuel_management,blue_flag_conceding,weather_tyre_changes,avoidance_of_mistakes,avoidance_of_forced_mistakes,setup_downforce,setup_downforce_randomness
+Ukyo,Katayama,Formula 1 (V10 Gen 1),F-V10_Gen1,Minardi,1997,20,0.68,JPN,1963/05/29,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.63,0.25
+Jarno,Trulli,Formula 1 (V10 Gen 1),F-V10_Gen1,Minardi,1997,15,0.68,ITA,1974/07/13,1770,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.68,0.21
+Olivier,Panis,Formula 1 (V10 Gen 1),F-V10_Gen1,Prost Grand Prix,1997,9,0.75,FRA,1966/09/02,1860,0.77,0.77,0.71,0.74,0.76,0.75,0.74,0.75,0.75,0.74,0.72,0.73,0.75,0.74,0.72,0.22
+Shinji,Nakano,Formula 1 (V10 Gen 1),F-V10_Gen1,Prost Grand Prix,1997,18,0.68,JPN,1971/04/01,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.75,0.26
+Michael,Schumacher,Formula 1 (V10 Gen 1),F-V10_Gen1,Scuderia Ferrari,1997,2,0.82,DEU,1969/01/03,2110,0.93,0.96,0.90,0.90,0.92,0.93,0.90,0.96,0.94,0.93,0.88,0.94,0.92,0.91,0.77,0.14
+Eddie,Irvine,Formula 1 (V10 Gen 1),F-V10_Gen1,Scuderia Ferrari,1997,7,0.75,GBR,1965/11/10,1890,0.79,0.79,0.77,0.76,0.78,0.77,0.76,0.77,0.77,0.76,0.74,0.75,0.77,0.76,0.71,0.20
+Jacques,Villeneuve,Formula 1 (V10 Gen 1),F-V10_Gen1,Williams,1997,1,0.82,CAN,1971/04/09,2100,0.91,0.95,0.91,0.90,0.92,0.89,0.90,0.91,0.94,0.93,0.88,0.89,0.89,0.88,0.71,0.16
+Heinz-Harald,Frentzen,Formula 1 (V10 Gen 1),F-V10_Gen1,Williams,1997,3,0.82,DEU,1967/05/18,1990,0.85,0.89,0.79,0.82,0.84,0.83,0.82,0.83,0.83,0.82,0.80,0.81,0.83,0.82,0.67,0.21
+Mika,Salo,Formula 1 (V10 Gen 1),F-V10_Gen1,Tyrrell Racing Organisation,1997,13,0.68,FIN,1966/11/30,1790,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.72,0.26
+Jos,Verstappen,Formula 1 (V10 Gen 1),F-V10_Gen1,Tyrrell Racing Organisation,1997,21,0.68,NLD,1972/03/04,1690,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.60,0.27
+Johnny,Herbert,Formula 1 (V10 Gen 1),F-V10_Gen1,Sauber,1997,10,0.75,GBR,1964/06/25,1840,0.76,0.76,0.70,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.70,0.22
+Nicola,Larini,Formula 1 (V10 Gen 1),F-V10_Gen1,Sauber,1997,19,0.68,ITA,1964/03/19,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.68,0.24
+Ralf,Schumacher,Formula 1 (V10 Gen 1),F-V10_Gen1,Jordan Grand Prix,1997,11,0.75,DEU,1975/06/30,1810,0.74,0.78,0.72,0.71,0.73,0.76,0.71,0.77,0.75,0.74,0.70,0.75,0.76,0.75,0.62,0.20
+Giancarlo,Fisichella,Formula 1 (V10 Gen 1),F-V10_Gen1,Jordan Grand Prix,1997,8,0.75,ITA,1973/01/14,1870,0.78,0.78,0.72,0.75,0.77,0.76,0.75,0.76,0.76,0.75,0.73,0.74,0.76,0.75,0.60,0.20
+Damon,Hill,Formula 1 (V10 Gen 1),F-V10_Gen1,Arrows,1997,12,0.75,GBR,1960/09/17,1805,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.76,0.71,0.70,0.70,0.74,0.71,0.70,0.69,0.19
+Pedro,Diniz,Formula 1 (V10 Gen 1),F-V10_Gen1,Arrows,1997,17,0.68,BRA,1970/05/22,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.62,0.23
+Rubens,Barrichello,Formula 1 (V10 Gen 1),F-V10_Gen1,Stewart Grand Prix,1997,14,0.68,BRA,1972/05/23,1780,0.72,0.72,0.70,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.69,0.25
+Jan,Magnussen,Formula 1 (V10 Gen 1),F-V10_Gen1,Stewart Grand Prix,1997,22,0.68,DNK,1973/07/04,1680,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.61,0.22
+Jean,Alesi,Formula 1 (V10 Gen 1),F-V10_Gen1,Benetton Formula,1997,4,0.82,FRA,1964/06/11,1960,0.83,0.83,0.77,0.80,0.82,0.85,0.80,0.81,0.81,0.80,0.78,0.79,0.85,0.84,0.59,0.19
+Gerhard,Berger,Formula 1 (V10 Gen 1),F-V10_Gen1,Benetton Formula,1997,5,0.82,AUT,1959/08/27,1930,0.81,0.81,0.75,0.78,0.80,0.83,0.78,0.79,0.82,0.81,0.76,0.77,0.83,0.82,0.69,0.20
+Mika,Hakkinen,Formula 1 (V10 Gen 1),F-V10_Gen1,McLaren Racing,1997,6,0.82,FIN,1968/09/28,1910,0.80,0.84,0.74,0.77,0.79,0.78,0.77,0.83,0.78,0.77,0.75,0.81,0.78,0.77,0.68,0.16
+David,Coulthard,Formula 1 (V10 Gen 1),F-V10_Gen1,McLaren Racing,1997,16,0.68,GBR,1971/03/27,1740,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.60,0.23
+Vincenzo,Sospiri,Formula 1 (V10 Gen 1),F-V10_Gen1,MasterCard Lola,1997,23,0.68,ITA,1966/10/07,1660,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.61,0.23
+Ricardo,Rosset,Formula 1 (V10 Gen 1),F-V10_Gen1,MasterCard Lola,1997,24,0.68,BRA,1968/07/27,1650,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.74,0.27
