@@ -3,7 +3,7 @@
   "available": false,
   "description": "The 2005 Formula 1 season, contesting the world championship in the V10 era.",
   "authors": [],
-  "hero": "hero.jpg",
+  "hero": "hero.png",
   "championships": "championships.csv",
   "events": "events.csv",
   "tracks": "tracks.csv",
