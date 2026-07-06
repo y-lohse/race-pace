@@ -1,0 +1,27 @@
+name,surname,championship_name,category,team_name,end_year,expected_standing,team_loyalty,country,dob,elo,race_skill,qualifying_skill,aggression,defending,stamina,consistency,start_reactions,wet_skill,tyre_management,fuel_management,blue_flag_conceding,weather_tyre_changes,avoidance_of_mistakes,avoidance_of_forced_mistakes,setup_downforce,setup_downforce_randomness
+Piercarlo,Ghinzani,Formula 1 (Classic Gen 2),F-Classic_Gen2,Zakspeed,1988,23,0.70,ITA,1952/01/16,1685,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.76,0.26
+Bernd,Schneider,Formula 1 (Classic Gen 2),F-Classic_Gen2,Zakspeed,1988,21,0.70,DEU,1964/07/20,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.66,0.27
+Nigel,Mansell,Formula 1 (Classic Gen 2),F-Classic_Gen2,Williams,1988,11,0.70,GBR,1953/08/08,1845,0.76,0.80,0.74,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.71,0.22
+Riccardo,Patrese,Formula 1 (Classic Gen 2),F-Classic_Gen2,Williams,1988,10,0.70,ITA,1954/04/17,1855,0.77,0.77,0.71,0.74,0.76,0.79,0.74,0.75,0.75,0.74,0.72,0.73,0.79,0.78,0.64,0.20
+Jonathan,Palmer,Formula 1 (Classic Gen 2),F-Classic_Gen2,Tyrrell Racing Organisation,1988,16,0.70,GBR,1956/11/07,1740,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.72,0.23
+Julian,Bailey,Formula 1 (Classic Gen 2),F-Classic_Gen2,Tyrrell Racing Organisation,1988,25,0.70,GBR,1961/10/09,1675,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.71,0.24
+Luis,Perez-Sala,Formula 1 (Classic Gen 2),F-Classic_Gen2,Minardi,1988,22,0.70,ESP,1959/05/15,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.60,0.25
+Pierluigi,Martini,Formula 1 (Classic Gen 2),F-Classic_Gen2,Minardi,1988,20,0.70,ITA,1961/04/23,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.63,0.24
+Alessandro,Nannini,Formula 1 (Classic Gen 2),F-Classic_Gen2,Benetton Formula,1988,9,0.70,ITA,1959/07/07,1840,0.76,0.76,0.70,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.67,0.23
+Thierry,Boutsen,Formula 1 (Classic Gen 2),F-Classic_Gen2,Benetton Formula,1988,4,0.80,BEL,1957/07/13,1930,0.81,0.81,0.75,0.78,0.80,0.83,0.78,0.79,0.79,0.78,0.76,0.77,0.83,0.82,0.59,0.16
+Oscar,Larrauri,Formula 1 (Classic Gen 2),F-Classic_Gen2,EuroBrun,1988,26,0.70,ARG,1954/08/19,1665,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.69,0.27
+Stefano,Modena,Formula 1 (Classic Gen 2),F-Classic_Gen2,EuroBrun,1988,24,0.70,ITA,1963/05/12,1680,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.71,0.28
+Philippe,Alliot,Formula 1 (Classic Gen 2),F-Classic_Gen2,Larrousse,1988,15,0.70,FRA,1954/07/27,1750,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.70,0.22
+Yannick,Dalmas,Formula 1 (Classic Gen 2),F-Classic_Gen2,Larrousse,1988,19,0.70,FRA,1961/07/28,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.72,0.23
+Nelson,Piquet,Formula 1 (Classic Gen 2),F-Classic_Gen2,Team Lotus,1988,6,0.80,BRA,1952/08/17,1905,0.80,0.80,0.74,0.77,0.79,0.78,0.77,0.78,0.81,0.80,0.75,0.76,0.78,0.77,0.76,0.23
+Satoru,Nakajima,Formula 1 (Classic Gen 2),F-Classic_Gen2,Team Lotus,1988,14,0.70,JPN,1953/02/23,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.73,0.23
+Mauricio,Gugelmin,Formula 1 (Classic Gen 2),F-Classic_Gen2,Leyton House Racing,1988,13,0.70,BRA,1963/04/20,1780,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.64,0.21
+Ivan,Capelli,Formula 1 (Classic Gen 2),F-Classic_Gen2,Leyton House Racing,1988,7,0.80,ITA,1963/05/24,1865,0.77,0.77,0.75,0.74,0.76,0.75,0.74,0.75,0.75,0.74,0.72,0.73,0.75,0.74,0.65,0.25
+Derek,Warwick,Formula 1 (Classic Gen 2),F-Classic_Gen2,Arrows,1988,8,0.80,GBR,1954/08/27,1830,0.75,0.75,0.69,0.72,0.74,0.73,0.72,0.78,0.73,0.72,0.70,0.76,0.73,0.72,0.64,0.23
+Eddie,Cheever,Formula 1 (Classic Gen 2),F-Classic_Gen2,Arrows,1988,12,0.70,USA,1958/01/10,1790,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.74,0.25
+Rene,Arnoux,Formula 1 (Classic Gen 2),F-Classic_Gen2,Ligier,1988,17,0.70,FRA,1948/07/04,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.66,0.27
+Stefan,Johansson,Formula 1 (Classic Gen 2),F-Classic_Gen2,Ligier,1988,18,0.70,SWE,1956/09/08,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.72,0.23
+Michele,Alboreto,Formula 1 (Classic Gen 2),F-Classic_Gen2,Scuderia Ferrari,1988,5,0.80,ITA,1956/12/23,1890,0.79,0.79,0.73,0.76,0.78,0.77,0.76,0.77,0.77,0.76,0.74,0.75,0.77,0.76,0.72,0.20
+Gerhard,Berger,Formula 1 (Classic Gen 2),F-Classic_Gen2,Scuderia Ferrari,1988,3,0.80,AUT,1959/08/27,1990,0.85,0.89,0.83,0.82,0.84,0.83,0.82,0.83,0.83,0.82,0.80,0.81,0.83,0.82,0.69,0.17
+Alain,Prost,Formula 1 (Classic Gen 2),F-Classic_Gen2,McLaren Racing,1988,2,0.80,FRA,1955/02/24,2090,0.92,0.94,0.84,0.89,0.91,0.93,0.89,0.94,0.93,0.92,0.87,0.93,0.93,0.92,0.76,0.17
+Ayrton,Senna,Formula 1 (Classic Gen 2),F-Classic_Gen2,McLaren Racing,1988,1,0.80,BRA,1960/03/21,2100,0.92,0.96,0.90,0.90,0.92,0.90,0.90,0.96,0.92,0.91,0.88,0.94,0.90,0.89,0.63,0.17

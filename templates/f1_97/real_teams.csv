@@ -1,0 +1,39 @@
+name,principal,driver_loyalty,expectation_level,performance_rating,engineering_weight,engineering_drag,engineering_power,in championship
+Alfa Romeo Racing,Frederic Vasseur,,,0.65,0.50,0.50,0.50,TRUE
+Alpine,Steve Nielsen,,,0.50,0.50,0.52,0.56,TRUE
+Arrows,Jackie Oliver,,,0.71,0.50,0.50,0.50,TRUE
+Aston Martin,Andy Cowell,,,0.50,0.50,0.52,0.56,TRUE
+Audi,Jonathan Wheatley,,,0.50,0.50,0.52,0.56,TRUE
+BAR,Craig Pollock,,,0.68,0.50,0.50,0.50,TRUE
+BMW Sauber,BMW Sauber,,,0.50,0.50,0.52,0.56,TRUE
+Benetton Formula,Flavio Briatore,,,0.82,0.50,0.50,0.50,TRUE
+Caterham F1 Team,Tony Fernandes,,,0.35,0.50,0.50,0.50,TRUE
+Force India,Vijay Mallya,,,0.77,0.50,0.50,0.50,TRUE
+HRT,Luis Perez-Sala,,,0.28,0.50,0.50,0.50,TRUE
+Haas,Ayao Komatsu,,,0.63,0.50,0.50,0.50,TRUE
+Honda Racing,Nobuhiko Kawamoto,,,0.50,0.50,0.50,0.60,TRUE
+Jordan Grand Prix,Eddie Jordan,,,0.51,0.50,0.50,0.50,TRUE
+Lotus F1 Team,Eric Boullier,,,0.81,0.56,0.56,0.48,TRUE
+Manor Racing,Dave Ryan,,,0.33,0.50,0.50,0.50,TRUE
+Marussia F1 Team,John Booth,,,0.31,0.50,0.50,0.50,TRUE
+MasterCard Lola,Eric Broadley,,,0.28,0.50,0.50,0.50,TRUE
+McLaren Racing,Zac Brown,,,0.85,0.56,0.56,0.48,TRUE
+Mercedes-AMG,Toto Wolff,,,0.89,0.50,0.50,0.60,TRUE
+Midland F1,Midland F1,,,0.50,0.50,0.50,0.50,TRUE
+Minardi,Giancarlo Minardi,,,0.50,0.50,0.50,0.50,TRUE
+Prost Grand Prix,Alain Prost,,,0.60,0.50,0.50,0.50,TRUE
+Racing Bulls,Alan Permane,,,0.50,0.50,0.60,0.48,TRUE
+Racing Point,Otmar Szafnauer,,,0.80,0.50,0.50,0.50,TRUE
+Red Bull Racing,Laurent Mekies,,,0.88,0.50,0.60,0.48,TRUE
+Renault,Flavio Briatore,,,0.75,0.50,0.50,0.50,TRUE
+Renault F1 Team,Steve Nielsen,,,0.50,0.50,0.50,0.50,TRUE
+Sauber,Peter Sauber,,,0.65,0.50,0.50,0.50,TRUE
+Scuderia AlphaTauri,Franz Tost,,,0.74,0.50,0.48,0.60,TRUE
+Scuderia Ferrari,Frédéric Vasseur,,,0.87,0.50,0.48,0.60,TRUE
+Scuderia Toro Rosso,Franz Tost,,,0.68,0.50,0.48,0.60,TRUE
+Stewart Grand Prix,Jackie Stewart,,,0.65,0.50,0.50,0.50,TRUE
+Super Aguri,Super Aguri,,,0.50,0.50,0.50,0.50,TRUE
+Toyota,Toyota,,,0.50,0.50,0.50,0.60,TRUE
+Tyrrell Racing Organisation,Ken Tyrrell,,,0.67,0.50,0.50,0.50,TRUE
+Williams,Frank Williams,,,0.86,0.56,0.56,0.48,TRUE
+Williams Racing,James Vowles,,,0.75,0.56,0.56,0.48,TRUE
