@@ -1,0 +1,225 @@
+name,surname,championship_name,category,team_name,end_year,expected_standing,team_loyalty,country,dob,elo,race_skill,qualifying_skill,aggression,defending,stamina,consistency,start_reactions,wet_skill,tyre_management,fuel_management,blue_flag_conceding,weather_tyre_changes,avoidance_of_mistakes,avoidance_of_forced_mistakes,setup_downforce
+Cole,Custer,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Haas Factory Team,2026,24,0.76,USA,1998/01/23,1780,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.50
+Anthony,Alfredo,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Beard Motorsports,2026,37,0.70,USA,1999/03/31,1685,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.52
+Kyle,Larson,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Hendrick Motorsports,2026,1,0.82,USA,1992/07/31,2030,0.88,0.90,0.82,0.85,0.87,0.89,0.85,0.89,0.88,0.87,0.83,0.87,0.89,0.88,0.57
+Chase,Elliott,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Hendrick Motorsports,2026,8,0.82,USA,1995/11/28,1915,0.80,0.82,0.74,0.77,0.79,0.78,0.77,0.81,0.78,0.77,0.75,0.79,0.78,0.77,0.55
+William,Byron,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Hendrick Motorsports,2026,3,0.82,USA,1997/11/29,1995,0.86,0.88,0.80,0.83,0.85,0.87,0.83,0.84,0.86,0.85,0.81,0.82,0.87,0.86,0.54
+Alex,Bowman,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Hendrick Motorsports,2026,13,0.82,USA,1993/04/25,1845,0.76,0.76,0.70,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.54
+Ricky,Stenhouse Jr.,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Hyak Motorsports,2026,22,0.76,USA,1987/10/2,1790,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.43
+Ty,Dillon,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Kaulig Racing,2026,31,0.70,USA,1992/02/27,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.54
+A.J.,Allmendinger,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Kaulig Racing,2026,18,0.82,USA,1981/12/16,1820,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.75,0.72,0.71,0.70,0.73,0.72,0.71,0.45
+Austin,Dillon,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Richard Childress Racing,2026,21,0.76,USA,1990/4/27,1800,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.54
+Kyle,Busch,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Richard Childress Racing,2026,12,0.82,USA,1985/05/02,1885,0.79,0.79,0.76,0.76,0.78,0.77,0.76,0.77,0.77,0.76,0.74,0.75,0.77,0.76,0.47
+Cody,Ware,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Rick Ware Racing,2026,34,0.70,USA,1995/11/07,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.45
+Daniel,Suarez,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Spire Motorsports,2026,20,0.76,MEX,1992/01/07,1810,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.43
+Michael,McDowell,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Spire Motorsports,2026,25,0.76,USA,1984/12/21,1775,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.47
+Carson,Hocevar,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Spire Motorsports,2026,15,0.82,USA,2003/01/28,1840,0.76,0.76,0.73,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.55
+Ross,Chastain,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Trackhouse Racing,2026,10,0.82,USA,1992/12/04,1885,0.79,0.79,0.76,0.76,0.78,0.77,0.76,0.77,0.77,0.76,0.74,0.75,0.77,0.76,0.47
+Connor,Zilisch,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Trackhouse Racing,2026,27,0.76,USA,2006/07/22,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.56
+Shane,van Gisbergen,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Trackhouse Racing,2026,16,0.82,NZL,1989/05/09,1860,0.77,0.77,0.71,0.74,0.76,0.75,0.74,0.78,0.75,0.74,0.72,0.76,0.75,0.74,0.57
+Noah,Gragson,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Front Row Motorsports,2026,26,0.76,USA,1998/07/15,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.43
+Todd,Gilliland,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Front Row Motorsports,2026,23,0.76,USA,2000/05/15,1785,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.51
+Zane,Smith,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Front Row Motorsports,2026,28,0.76,USA,1999/06/09,1755,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.51
+Brad,Keselowski,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,RFK Racing,2026,9,0.82,USA,1984/02/12,1900,0.79,0.79,0.73,0.76,0.78,0.77,0.76,0.77,0.77,0.76,0.74,0.75,0.77,0.76,0.57
+Chris,Buescher,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,RFK Racing,2026,14,0.82,USA,1992/10/29,1850,0.76,0.76,0.70,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.51
+Ryan,Preece,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,RFK Racing,2026,29,0.76,USA,1990/10/25,1740,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.56
+Austin,Cindric,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Team Penske,2026,17,0.82,USA,1998/09/02,1830,0.75,0.75,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.53
+Ryan,Blaney,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Team Penske,2026,5,0.82,USA,1993/12/31,1950,0.83,0.85,0.77,0.80,0.82,0.84,0.80,0.81,0.81,0.80,0.78,0.79,0.84,0.83,0.45
+Joey,Logano,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Team Penske,2026,7,0.82,USA,1990/05/24,1920,0.81,0.83,0.78,0.78,0.80,0.82,0.78,0.79,0.81,0.80,0.76,0.77,0.82,0.81,0.42
+Josh,Berry,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Wood Brothers Racing,2026,19,0.76,USA,1990/10/22,1815,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.53
+Bubba,Wallace,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,23XI Racing,2026,11,0.82,USA,1993/10/08,1875,0.78,0.78,0.75,0.75,0.77,0.76,0.75,0.76,0.76,0.75,0.73,0.74,0.76,0.75,0.49
+Riley,Herbst,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,23XI Racing,2026,30,0.76,USA,1999/02/24,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.51
+Tyler,Reddick,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,23XI Racing,2026,4,0.82,USA,1996/1/11,1970,0.84,0.86,0.81,0.81,0.83,0.82,0.81,0.85,0.82,0.81,0.79,0.83,0.82,0.81,0.48
+Corey,Heim,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,23XI Racing,2026,35,0.70,USA,2002/07/05,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.46
+Denny,Hamlin,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Joe Gibbs Racing,2026,6,0.82,USA,1980/11/18,1945,0.82,0.84,0.76,0.79,0.81,0.83,0.79,0.80,0.82,0.81,0.77,0.78,0.83,0.82,0.45
+Chase,Briscoe,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Joe Gibbs Racing,2026,15,0.82,USA,1994/12/15,1855,0.77,0.77,0.71,0.74,0.76,0.75,0.74,0.75,0.75,0.74,0.72,0.73,0.75,0.74,0.48
+Christopher,Bell,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Joe Gibbs Racing,2026,2,0.82,USA,1994/12/16,2005,0.86,0.88,0.80,0.83,0.85,0.87,0.83,0.84,0.86,0.85,0.81,0.82,0.87,0.86,0.42
+Ty,Gibbs,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Joe Gibbs Racing,2026,18,0.82,USA,2002/10/04,1835,0.75,0.75,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.58
+John Hunter,Nemechek,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Legacy Motor Club,2026,27,0.76,USA,1997/06/11,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.45
+Erik,Jones,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Legacy Motor Club,2026,22,0.76,USA,1996/05/30,1795,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.43
+Jimmie,Johnson,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,Legacy Motor Club,2026,39,0.70,USA,1975/09/17,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.52
+Justin,Allgaier,NASCAR Cup Series (Next Gen),Stock_USA_Gen3,JR Motorsports,2026,38,0.70,USA,1986/06/06,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.57
+Caca,Bueno,NASCAR Brasil Series,SprintRace,Scuderia Bandeiras,2026,1,0.82,BRA,1976/07/24,1840,0.76,0.78,0.70,0.73,0.75,0.76,0.73,0.74,0.74,0.73,0.71,0.72,0.76,0.75,0.52
+Vitor,Genz,NASCAR Brasil Series,SprintRace,Team RC,2026,2,0.82,BRA,1987/07/19,1815,0.74,0.74,0.70,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.42
+Denis,Navarro,NASCAR Brasil Series,SprintRace,Cavaleiro Sports,2026,3,0.82,BRA,1987/01/01,1805,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.47
+Thiago,Camilo,NASCAR Brasil Series,SprintRace,Full Time Sports,2026,4,0.82,BRA,1984/09/20,1835,0.75,0.77,0.71,0.72,0.74,0.75,0.72,0.75,0.75,0.74,0.70,0.73,0.75,0.74,0.46
+Rubens,Barrichello,NASCAR Brasil Series,SprintRace,Full Time Sports,2026,5,0.82,BRA,1972/05/23,1830,0.75,0.77,0.69,0.72,0.74,0.75,0.72,0.75,0.75,0.74,0.70,0.73,0.75,0.74,0.57
+Gabriel,Casagrande,NASCAR Brasil Series,SprintRace,AMattheis Vogel,2026,6,0.82,BRA,1995/02/20,1810,0.74,0.76,0.68,0.71,0.73,0.74,0.71,0.74,0.72,0.71,0.70,0.72,0.74,0.73,0.47
+Ricardo,Zonta,NASCAR Brasil Series,SprintRace,TMG Racing,2026,7,0.82,BRA,1976/03/23,1805,0.73,0.75,0.67,0.70,0.72,0.71,0.70,0.73,0.73,0.72,0.70,0.71,0.71,0.70,0.47
+Ricardo,Mauricio,NASCAR Brasil Series,SprintRace,Eurofarma RC,2026,8,0.82,BRA,1979/1/7,1800,0.73,0.73,0.67,0.70,0.72,0.73,0.70,0.71,0.73,0.72,0.70,0.69,0.73,0.72,0.46
+Galid,Osman,NASCAR Brasil Series,SprintRace,Scuderia Chiarelli,2026,9,0.76,BRA,1988/01/01,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.43
+Allam,Khodair,NASCAR Brasil Series,SprintRace,Blau Motorsport,2026,10,0.76,BRA,1981/05/15,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.42
+Nicolas,Costa,NASCAR Brasil Series,SprintRace,Crown Racing,2026,11,0.76,BRA,1991/01/01,1755,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.46
+Arthur,Gama,NASCAR Brasil Series,SprintRace,Scuderia Bandeiras,2026,12,0.76,BRA,2003/01/01,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.46
+Murilo,Rocha,NASCAR Brasil Series,SprintRace,Crown Racing,2026,13,0.76,BRA,1999/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.49
+Alfredinho,Ibiapina,NASCAR Brasil Series,SprintRace,Full Time Sports,2026,14,0.76,BRA,2008/04/18,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.49
+Alex,Seid,NASCAR Brasil Series,SprintRace,Team RC,2026,15,0.76,BRA,1991/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.51
+Felipe,Tozzo,NASCAR Brasil Series,SprintRace,AMattheis TMG,2026,16,0.76,BRA,1997/01/01,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.49
+Dudu,Castroneves,NASCAR Brasil Series,SprintRace,Cavaleiro Sports,2026,17,0.70,BRA,2000/01/01,1715,0.67,0.67,0.63,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.50
+Bruna,Tomaselli,NASCAR Brasil Series,SprintRace,Scuderia Bandeiras Sports,2026,18,0.70,BRA,1997/09/18,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.59
+Tatiana,Calderon,NASCAR Brasil Series,SprintRace,Scuderia Bandeiras Sports,2026,19,0.70,COL,1993/03/10,1705,0.67,0.67,0.63,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.49
+Jorge,Martelli,NASCAR Brasil Series,SprintRace,Crown Racing,2026,20,0.70,BRA,1990/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.59
+Olivier,Deschamps,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,SpeedHouse,2026,1,0.82,FRA,1978/01/01,1810,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.50
+Paul,Jouffreau,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,RDV Competition,2026,2,0.82,FRA,2004/01/01,1830,0.75,0.77,0.69,0.72,0.74,0.75,0.72,0.75,0.73,0.72,0.70,0.73,0.75,0.74,0.54
+Marc,Goossens,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,SpeedHouse,2026,3,0.82,BEL,1969/11/30,1815,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.74,0.72,0.71,0.70,0.72,0.72,0.71,0.46
+Vladimiros,Tziortzis,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Academy Motorsport,2026,4,0.82,CYP,1997/04/12,1800,0.73,0.73,0.69,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.52
+Brad,Ranson,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Academy Motorsport,2026,5,0.82,GBR,1992/01/01,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.42
+Alex,Caffi,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Academy Motorsport,2026,6,0.82,ITA,1964/3/18,1770,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.56
+Martin,Doubek,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Hendriks Motorsport,2026,7,0.82,CZE,1994/10/11,1805,0.73,0.75,0.67,0.70,0.72,0.73,0.70,0.71,0.71,0.70,0.70,0.69,0.73,0.72,0.43
+Jordan,O'Brien,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Academy Motorsport,2026,8,0.82,IRL,2000/01/01,1755,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.57
+Davit,Kajaia,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Race Art Technology,2026,9,0.82,GEO,1984/01/10,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.44
+Gianmarco,Ercoli,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Alumitec Racing,2026,10,0.82,ITA,1995/5/5,1835,0.75,0.77,0.71,0.72,0.74,0.75,0.72,0.73,0.75,0.74,0.70,0.71,0.75,0.74,0.43
+Nelson,Piquet Jr.,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Bremotion,2026,11,0.82,BRA,1985/7/25,1810,0.74,0.76,0.70,0.71,0.73,0.72,0.71,0.74,0.74,0.73,0.70,0.72,0.72,0.71,0.54
+Thomas,Krasonis,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Marko Stipp Motorsport,2026,12,0.82,GRC,2001/7/7,1780,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.58
+Vittorio,Ghirelli,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,PK Carsport,2026,13,0.76,ITA,1994/5/9,1840,0.76,0.78,0.72,0.73,0.75,0.76,0.73,0.74,0.76,0.75,0.71,0.72,0.76,0.75,0.54
+Andre,Lortie,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,SpeedHouse,2026,14,0.76,CAN,2003/01/01,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.51
+Stefano,Attianese,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Race Art Technology,2026,15,0.76,ITA,1992/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.50
+Jack,Davidson,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Lux Motorsport,2026,16,0.76,GBR,2000/01/01,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.50
+Fabrizio,Armetta,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,The Club Motorsport,2026,17,0.76,ITA,1975/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.53
+Ulysse,Delsaux,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,RDV Competition,2026,18,0.76,FRA,1997/11/22,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.42
+Logan,Bearden,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Marko Stipp Motorsport,2026,19,0.76,USA,1995/1/1,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.44
+Thomas,Toffel,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Race Art Technology,2026,20,0.76,CHE,1991/01/01,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.44
+Giovanni,Cartechini,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,The Club Motorsport,2026,21,0.76,ITA,1992/01/01,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.46
+Romain,Monti,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Bremotion,2026,22,0.76,FRA,1990/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.48
+Brenna,Schubert,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Bremotion,2026,23,0.76,DEU,1995/1/1,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.54
+Sebastiaan,Bleekemolen,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Hendriks Motorsport,2026,24,0.76,NLD,1978/08/09,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.69,0.69,0.68,0.70,0.67,0.67,0.66,0.50
+Jeroen,Bleekemolen,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Hendriks Motorsport,2026,25,0.70,NLD,1981/10/23,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.71,0.71,0.70,0.70,0.69,0.69,0.68,0.54
+Vinnie,Meskelis,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Lux Motorsport,2026,26,0.70,GBR,1998/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.45
+Kenko,Miura,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Hendriks Motorsport,2026,27,0.70,JPN,1979/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.52
+Julien,Rehberg,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Bremotion,2026,28,0.70,DEU,2004/1/1,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.46
+Garrett,Lowe,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Lux Motorsport,2026,29,0.70,USA,1998/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.57
+Raphael,Lessard,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Innovation Racing,2026,30,0.70,CAN,2001/07/05,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.48
+Gil,Linster,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,Hendriks Motorsport,2026,31,0.70,LUX,1993/09/13,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.47
+Beitske,Visser,NASCAR Euro Series (Next Gen),Stock_USA_Gen3,SpeedHouse,2026,32,0.70,NLD,1995/03/10,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.54
+Justin,Allgaier,NASCAR Second Division (Next Gen),Stock_USA_Gen3,JR Motorsports,2026,1,0.82,USA,1986/06/06,1885,0.79,0.81,0.73,0.76,0.78,0.79,0.76,0.79,0.79,0.78,0.74,0.77,0.79,0.78,0.57
+Austin,Hill,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Richard Childress Racing,2026,2,0.82,USA,1994/04/21,1875,0.78,0.80,0.74,0.75,0.77,0.78,0.75,0.76,0.78,0.77,0.73,0.74,0.78,0.77,0.51
+Carson,Kvapil,NASCAR Second Division (Next Gen),Stock_USA_Gen3,JR Motorsports,2026,3,0.82,USA,2003/05/22,1850,0.76,0.78,0.70,0.73,0.75,0.76,0.73,0.74,0.74,0.73,0.71,0.72,0.76,0.75,0.46
+Sheldon,Creed,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Haas Factory Team,2026,4,0.82,USA,1997/09/30,1845,0.76,0.78,0.72,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.56
+Sam,Mayer,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Haas Factory Team,2026,5,0.82,USA,2003/6/26,1840,0.76,0.78,0.70,0.73,0.75,0.76,0.73,0.74,0.76,0.75,0.71,0.72,0.76,0.75,0.45
+Brandon,Jones,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Joe Gibbs Racing,2026,6,0.82,USA,1997/2/18,1835,0.75,0.75,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.42
+Taylor,Gray,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Joe Gibbs Racing,2026,7,0.82,USA,2005/03/25,1830,0.75,0.75,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.45
+William,Sawalich,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Joe Gibbs Racing,2026,8,0.82,USA,2006/10/3,1825,0.75,0.75,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.49
+Sammy,Smith,NASCAR Second Division (Next Gen),Stock_USA_Gen3,JR Motorsports,2026,9,0.82,USA,2004/06/04,1820,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.49
+Jesse,Love,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Richard Childress Racing,2026,10,0.82,USA,2005/1/14,1815,0.74,0.76,0.70,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.55
+Harrison,Burton,NASCAR Second Division (Next Gen),Stock_USA_Gen3,AM Racing,2026,11,0.82,USA,2000/10/09,1810,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.58
+Rajah,Caruth,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Big Machine Racing,2026,12,0.82,USA,2002/06/11,1805,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.42
+Jeb,Burton,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Jordan Anderson Racing,2026,13,0.76,USA,1992/08/06,1800,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.58
+Blaine,Perkins,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Jordan Anderson Racing,2026,14,0.76,USA,2000/02/28,1780,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.42
+Jeremy,Clements,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Jeremy Clements Racing,2026,15,0.76,USA,1984/1/16,1795,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.46
+Josh,Williams,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Kaulig Racing,2026,16,0.76,USA,1993/8/3,1790,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.44
+Christian,Eckes,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Kaulig Racing,2026,17,0.76,USA,2000/11/10,1785,0.72,0.72,0.68,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.52
+Daniel,Dye,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Kaulig Racing,2026,18,0.76,USA,2003/12/04,1780,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.43
+Ryan,Sieg,NASCAR Second Division (Next Gen),Stock_USA_Gen3,RSS Racing,2026,19,0.76,USA,1987/06/20,1775,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.51
+Kyle,Sieg,NASCAR Second Division (Next Gen),Stock_USA_Gen3,RSS Racing,2026,20,0.76,USA,2001/06/08,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.50
+Lavar,Scott,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Young's Motorsports,2026,21,0.76,USA,2003/09/06,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.46
+Brennan,Poole,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Alpha Prime Racing,2026,22,0.76,USA,1991/04/11,1755,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.58
+Mason,Maggio,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Alpha Prime Racing,2026,23,0.76,USA,2004/06/23,1750,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.52
+Parker,Retzlaff,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Alpha Prime Racing,2026,24,0.76,USA,2003/05/21,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.43
+Josh,Bilicki,NASCAR Second Division (Next Gen),Stock_USA_Gen3,DGM Racing,2026,25,0.70,USA,1995/06/03,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.69,0.67,0.66,0.70,0.67,0.67,0.66,0.58
+Anthony,Alfredo,NASCAR Second Division (Next Gen),Stock_USA_Gen3,DGM Racing,2026,26,0.70,USA,1999/03/31,1740,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.52
+Garrett,Smithley,NASCAR Second Division (Next Gen),Stock_USA_Gen3,SS-Green Light Racing,2026,27,0.70,USA,1992/04/27,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.50
+Ryan,Ellis,NASCAR Second Division (Next Gen),Stock_USA_Gen3,SS-Green Light Racing,2026,28,0.70,USA,1989/11/29,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.47
+Corey,Day,NASCAR Second Division (Next Gen),Stock_USA_Gen3,TRICON Garage,2026,29,0.70,USA,2005/11/28,1770,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.48
+Gio,Ruggiero,NASCAR Second Division (Next Gen),Stock_USA_Gen3,TRICON Garage,2026,30,0.70,USA,2006/07/28,1765,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.58
+Austin,Green,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Sam Hunt Racing,2026,31,0.70,USA,2000/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.51
+Dean,Thompson,NASCAR Second Division (Next Gen),Stock_USA_Gen3,Sam Hunt Racing,2026,32,0.70,USA,2001/05/31,1720,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.54
+Felipe,Fraga,Stock Car Pro Series,StockCarV8_2024,Eurofarma RC,2026,1,0.82,BRA,1995/07/03,1910,0.80,0.82,0.77,0.77,0.79,0.81,0.77,0.80,0.80,0.79,0.75,0.78,0.81,0.80,0.50
+Rafael,Suzuki,Stock Car Pro Series,StockCarV8_2024,Scuderia Bandeiras,2026,2,0.82,BRA,1987/08/13,1865,0.77,0.79,0.74,0.74,0.76,0.78,0.74,0.75,0.75,0.74,0.72,0.73,0.78,0.77,0.55
+Gabriel,Casagrande,Stock Car Pro Series,StockCarV8_2024,AMattheis Vogel,2026,3,0.82,BRA,1995/02/20,1885,0.79,0.81,0.73,0.76,0.78,0.80,0.76,0.77,0.79,0.78,0.74,0.75,0.80,0.79,0.47
+Rubens,Barrichello,Stock Car Pro Series,StockCarV8_2024,Scuderia Bandeiras Sports,2026,4,0.82,BRA,1972/05/23,1855,0.77,0.79,0.71,0.74,0.76,0.78,0.74,0.77,0.77,0.76,0.72,0.75,0.78,0.77,0.56
+Felipe,Massa,Stock Car Pro Series,StockCarV8_2024,TMG Racing,2026,5,0.82,BRA,1981/04/25,1870,0.78,0.80,0.72,0.75,0.77,0.79,0.75,0.78,0.78,0.77,0.73,0.76,0.79,0.78,0.45
+Arthur,Leist,Stock Car Pro Series,StockCarV8_2024,Crown Racing,2026,6,0.82,BRA,2001/06/17,1800,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.53
+Nelson,Piquet Jr.,Stock Car Pro Series,StockCarV8_2024,Scuderia Bandeiras,2026,7,0.82,BRA,1985/07/25,1845,0.76,0.76,0.73,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.51
+Guilherme,Salas,Stock Car Pro Series,StockCarV8_2024,Valda Cavaleiro Sports,2026,8,0.82,BRA,1994/04/25,1830,0.75,0.75,0.69,0.72,0.74,0.73,0.72,0.73,0.73,0.72,0.70,0.71,0.73,0.72,0.55
+Julio,Campos,Stock Car Pro Series,StockCarV8_2024,TMG Racing,2026,9,0.82,BRA,1982/01/15,1815,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.54
+Enzo,Elias,Stock Car Pro Series,StockCarV8_2024,AMattheis TMG,2026,10,0.82,BRA,2002/02/08,1810,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.51
+Leo,Reis,Stock Car Pro Series,StockCarV8_2024,CAR Racing,2026,11,0.82,BRA,2006/08/21,1780,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.50
+Allam,Khodair,Stock Car Pro Series,StockCarV8_2024,Blau Motorsport,2026,12,0.82,BRA,1981/05/15,1795,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.45
+Sergio,Sette Camara,Stock Car Pro Series,StockCarV8_2024,Team RC,2026,13,0.76,BRA,1998/5/23,1820,0.74,0.74,0.71,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.44
+Gaetano,di Mauro,Stock Car Pro Series,StockCarV8_2024,Eurofarma RC,2026,14,0.76,BRA,1997/07/01,1788,0.72,0.72,0.66,0.69,0.71,0.70,0.69,0.70,0.70,0.69,0.70,0.68,0.70,0.69,0.57
+Cesar,Ramos,Stock Car Pro Series,StockCarV8_2024,Mercado Livre Racing,2026,15,0.76,BRA,1989/07/25,1775,0.71,0.71,0.65,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.53
+Felipe,Baptista,Stock Car Pro Series,StockCarV8_2024,Sterling Racing,2026,16,0.76,BRA,2003/04/08,1765,0.71,0.71,0.68,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.59
+Ricardo,Zonta,Stock Car Pro Series,StockCarV8_2024,Full Time Gazoo Racing,2026,17,0.76,BRA,1976/3/23,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.70,0.70,0.69,0.70,0.68,0.68,0.67,0.57
+Atila,Abreu,Stock Car Pro Series,StockCarV8_2024,Scuderia Bandeiras Sports,2026,18,0.76,BRA,1987/05/10,1768,0.71,0.71,0.68,0.68,0.70,0.69,0.68,0.69,0.69,0.68,0.70,0.67,0.69,0.68,0.57
+Daniel,Serra,Stock Car Pro Series,StockCarV8_2024,Blau Motorsport,2026,19,0.76,BRA,1984/02/24,1805,0.73,0.75,0.67,0.70,0.72,0.74,0.70,0.73,0.73,0.72,0.70,0.71,0.74,0.73,0.42
+Alfredinho,Ibiapina,Stock Car Pro Series,StockCarV8_2024,Full Time Gazoo Racing,2026,20,0.76,BRA,2008/04/18,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.48
+Renan,Guerra,Stock Car Pro Series,StockCarV8_2024,AMattheis TMG,2026,21,0.76,BRA,1989/05/21,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.50
+Caca,Bueno,Stock Car Pro Series,StockCarV8_2024,Scuderia Chiarelli,2026,22,0.76,BRA,1976/07/24,1755,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.42
+Ricardo,Mauricio,Stock Car Pro Series,StockCarV8_2024,Valda Cavaleiro Sports,2026,23,0.70,BRA,1979/01/07,1748,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.45
+Lucas,Foresti,Stock Car Pro Series,StockCarV8_2024,AMattheis Vogel,2026,24,0.70,BRA,1992/05/12,1740,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.43
+Thiago,Camilo,Stock Car Pro Series,StockCarV8_2024,Mercado Livre Racing Team,2026,25,0.70,BRA,1984/09/20,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.50
+Zezinho,Muggiati,Stock Car Pro Series,StockCarV8_2024,Team RC,2026,26,0.70,BRA,2003/05/09,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.56
+Helio,Castroneves,Stock Car Pro Series,StockCarV8_2024,Mercado Livre Racing,2026,27,0.70,BRA,1975/05/10,1760,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.70,0.68,0.67,0.70,0.68,0.68,0.67,0.48
+Vicente,Orige,Stock Car Pro Series,StockCarV8_2024,Sterling Racing,2026,28,0.70,BRA,1973/3/16,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.48
+Firas,Fahs,Stock Light Brasil,Montana,Artcon Racing,2026,1,0.80,BRA,2004/01/01,1725,0.68,0.70,0.64,0.65,0.67,0.68,0.65,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.58
+Enzo,Nienkoter,Stock Light Brasil,Montana,Artcon Racing,2026,2,0.80,BRA,2003/01/01,1720,0.68,0.70,0.64,0.65,0.67,0.68,0.65,0.66,0.68,0.67,0.70,0.64,0.68,0.67,0.43
+Luis,Trombini,Stock Light Brasil,Montana,Artcon Racing,2026,3,0.80,BRA,2003/01/01,1715,0.67,0.69,0.61,0.64,0.66,0.67,0.64,0.65,0.67,0.66,0.70,0.63,0.67,0.66,0.48
+Juninho,Berlanda,Stock Light Brasil,Montana,SG28 Racing,2026,4,0.80,BRA,1984/01/01,1730,0.68,0.70,0.64,0.65,0.67,0.68,0.65,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.59
+Enzo,Bedani,Stock Light Brasil,Montana,SG28 Racing,2026,5,0.80,BRA,2004/01/01,1710,0.67,0.69,0.61,0.64,0.66,0.67,0.64,0.65,0.67,0.66,0.70,0.63,0.67,0.66,0.57
+Mathias,de Valle,Stock Light Brasil,Montana,Garra Racing,2026,6,0.80,BRA,2002/01/01,1705,0.67,0.69,0.61,0.64,0.66,0.67,0.64,0.65,0.67,0.66,0.70,0.63,0.67,0.66,0.54
+Joao,Bortoluzzi,Stock Light Brasil,Montana,Garra Racing,2026,7,0.80,BRA,2004/1/1,1700,0.67,0.67,0.60,0.64,0.66,0.67,0.64,0.65,0.67,0.66,0.70,0.62,0.67,0.66,0.43
+Leonardo,Rufino,Stock Light Brasil,Montana,Garra Racing,2026,8,0.74,BRA,2004/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.66,0.63,0.64,0.66,0.65,0.70,0.62,0.66,0.65,0.50
+Alexandre,Bastos,Stock Light Brasil,Montana,CAR Racing,2026,9,0.74,BRA,1997/01/01,1690,0.66,0.66,0.60,0.63,0.65,0.66,0.63,0.64,0.64,0.63,0.70,0.62,0.66,0.65,0.57
+Augusto,Sangalli,Stock Light Brasil,Montana,CAR Racing,2026,10,0.74,BRA,2001/01/01,1685,0.66,0.66,0.60,0.63,0.65,0.66,0.63,0.64,0.64,0.63,0.70,0.62,0.66,0.65,0.58
+Richard,Annunziata,Stock Light Brasil,Montana,MForce,2026,11,0.74,BRA,2000/01/01,1680,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.46
+Enzo,Falquete,Stock Light Brasil,Montana,MForce,2026,12,0.74,BRA,2004/01/01,1675,0.65,0.65,0.61,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.49
+Vinicius,Papareli,Stock Light Brasil,Montana,RTR Sport Team,2026,13,0.74,BRA,2001/01/01,1670,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.65,0.63,0.62,0.70,0.63,0.63,0.62,0.57
+Fausto,Filho,Stock Light Brasil,Montana,RTR Sport Team,2026,14,0.74,BRA,2002/01/01,1665,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.44
+Erick,Schotten,Stock Light Brasil,Montana,w2 ProGP,2026,15,0.68,BRA,2004/01/01,1660,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.42
+Kaka,Magno,Stock Light Brasil,Montana,w2 ProGP,2026,16,0.68,BRA,2003/01/01,1655,0.64,0.64,0.60,0.61,0.63,0.62,0.61,0.62,0.62,0.61,0.70,0.60,0.62,0.61,0.47
+Victor,Tieri,Stock Light Brasil,Montana,w2 ProGP,2026,17,0.68,BRA,2003/01/01,1650,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.58
+Lucas,Moura,Stock Light Brasil,Montana,w2 ProGP,2026,18,0.68,BRA,2004/01/01,1645,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.47
+Gabriel,Konigkan,Stock Light Brasil,Montana,w2 ProGP,2026,19,0.68,BRA,2004/01/01,1640,0.63,0.63,0.60,0.60,0.62,0.61,0.60,0.61,0.61,0.60,0.70,0.60,0.61,0.60,0.58
+Jake,Bollman,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Nitro Motorsports,2026,1,0.82,USA,2007/01/01,1785,0.72,0.74,0.66,0.69,0.71,0.72,0.69,0.70,0.72,0.71,0.70,0.68,0.72,0.71,0.53
+Thomas,Annunziata,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Nitro Motorsports,2026,2,0.82,USA,2005/01/01,1780,0.72,0.74,0.66,0.69,0.71,0.72,0.69,0.70,0.72,0.71,0.70,0.68,0.72,0.71,0.42
+Ryan,Vargas,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Maples Motorsports,2026,3,0.82,USA,2000/09/23,1770,0.71,0.73,0.67,0.68,0.70,0.71,0.68,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.50
+Andy,Jankowiak,ARCA Menards Series (Gen 4),Stock_USA_Gen2,KLAS Motorsports,2026,4,0.82,USA,1988/01/01,1765,0.71,0.73,0.67,0.68,0.70,0.71,0.68,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.57
+Isabella,Robusto,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Nitro Motorsports,2026,5,0.82,USA,2005/11/09,1760,0.70,0.72,0.64,0.67,0.69,0.70,0.67,0.68,0.70,0.69,0.70,0.66,0.70,0.69,0.47
+Jason,Kitzmiller,ARCA Menards Series (Gen 4),Stock_USA_Gen2,CR7 Motorsports,2026,6,0.82,USA,1973/01/01,1755,0.70,0.70,0.64,0.67,0.69,0.70,0.67,0.68,0.70,0.69,0.70,0.66,0.70,0.69,0.54
+Takuma,Koga,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Fast Track Racing,2026,7,0.82,JPN,1977/04/06,1750,0.70,0.70,0.64,0.67,0.69,0.70,0.67,0.70,0.68,0.67,0.70,0.68,0.70,0.69,0.58
+Michael,Maples,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Maples Motorsports,2026,8,0.82,USA,1962/01/01,1745,0.69,0.69,0.63,0.66,0.68,0.69,0.66,0.67,0.67,0.66,0.70,0.65,0.69,0.68,0.55
+Bobby Dale,Earnhardt,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Rise Racing,2026,9,0.82,USA,1987/09/01,1740,0.69,0.69,0.65,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.49
+Alex,Clubb,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Clubb Racing Inc.,2026,10,0.82,USA,1992/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.47
+Gio,Ruggiero,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Joe Gibbs Racing,2026,11,0.82,USA,2006/01/01,1800,0.73,0.75,0.69,0.70,0.72,0.73,0.70,0.71,0.73,0.72,0.70,0.69,0.73,0.72,0.53
+Brad,Smith,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Brad Smith Motorsports,2026,12,0.82,USA,1968/9/26,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.52
+Daniel,Dye,ARCA Menards Series (Gen 4),Stock_USA_Gen2,SPS Racing,2026,13,0.76,USA,2003/12/04,1765,0.71,0.73,0.67,0.68,0.70,0.71,0.68,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.47
+Carson,Brown,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Pinnacle Racing Group,2026,14,0.76,USA,1993/01/01,1760,0.70,0.72,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.43
+Garrett,Mitchell,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Rette Jones Racing,2026,15,0.76,USA,1995/04/05,1745,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.42
+Gavan,Boschele,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Nitro Motorsports,2026,16,0.76,USA,2008/01/01,1750,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.50
+Jeff,Maconi,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Clubb Racing Inc.,2026,17,0.76,USA,1999/01/01,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.48
+Tristan,McKee,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Pinnacle Racing Group,2026,18,0.76,USA,2010/01/01,1740,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.52
+Max,Reaves,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Joe Gibbs Racing,2026,19,0.76,USA,2008/01/01,1735,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.56
+Robbie,Kennealy,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Jan's Towing Racing with Kennealy Keller Motorsports,2026,20,0.76,USA,1989/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.43
+Jack,Wood,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Pinnacle Racing Group,2026,21,0.76,USA,2000/08/07,1730,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.41
+Matt,Kemp,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Fast Track Racing,2026,22,0.76,USA,1998/01/01,1715,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.41
+Will,Kimmel,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Kimmel Racing,2026,23,0.76,USA,1988/5/15,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.51
+Isaac,Kitzmiller,ARCA Menards Series (Gen 4),Stock_USA_Gen2,ACR Motorsports,2026,24,0.76,USA,2007/1/1,1710,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.47
+George,Siciliano,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Rette Jones Racing,2026,25,0.70,USA,1969/01/01,1705,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.51
+Wesley,Slimp,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Nitro Motorsports,2026,26,0.70,USA,2003/01/01,1700,0.67,0.67,0.60,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.62,0.65,0.64,0.54
+Dystany,Spurlock,ARCA Menards Series (Gen 4),Stock_USA_Gen2,MBM Motorsports,2026,27,0.70,USA,1991/01/01,1695,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.42
+Lanie,Buice,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Pinnacle Racing Group,2026,28,0.70,USA,2007/01/01,1690,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.45
+Ed,Pompa,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Fast Track Racing,2026,29,0.70,USA,1962/1/1,1685,0.66,0.66,0.60,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.47
+Monty,Tipton,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Nascimento Motorsports,2026,30,0.70,USA,1987/1/1,1680,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.47
+Taylor,Reimer,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Pinnacle Racing Group,2026,31,0.70,USA,1999/01/01,1680,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.54
+Nate,Moeller,ARCA Menards Series (Gen 4),Stock_USA_Gen2,Fast Track Racing,2026,32,0.70,USA,2001/01/01,1675,0.65,0.65,0.60,0.62,0.64,0.63,0.62,0.63,0.63,0.62,0.70,0.61,0.63,0.62,0.57
+Nelson,Piquet Jr.,Old Stock Race,OldStock,KTF Sports,2026,1,0.82,BRA,1985/07/25,1840,0.76,0.78,0.70,0.73,0.75,0.76,0.73,0.76,0.74,0.73,0.71,0.74,0.76,0.75,0.48
+Guilherme,Salas,Old Stock Race,OldStock,KTF Sports,2026,2,0.82,BRA,1994/01/01,1793,0.73,0.75,0.67,0.70,0.72,0.73,0.70,0.71,0.71,0.70,0.70,0.69,0.73,0.72,0.45
+Julio,Campos,Old Stock Race,OldStock,KTF Sports,2026,3,0.82,BRA,1981/01/01,1806,0.73,0.75,0.67,0.70,0.72,0.73,0.70,0.71,0.71,0.70,0.70,0.69,0.73,0.72,0.52
+Enzo,Elias,Old Stock Race,OldStock,Pole Motorsport,2026,4,0.82,BRA,2002/08/07,1779,0.72,0.74,0.66,0.69,0.71,0.72,0.69,0.72,0.70,0.69,0.70,0.70,0.72,0.71,0.42
+Leo,Reis,Old Stock Race,OldStock,Pole Motorsport,2026,5,0.82,BRA,2001/01/01,1767,0.71,0.73,0.66,0.68,0.70,0.71,0.68,0.69,0.69,0.68,0.70,0.67,0.71,0.70,0.45
+Allam,Khodair,Old Stock Race,OldStock,Pole Motorsport,2026,6,0.82,BRA,1981/05/15,1800,0.73,0.73,0.67,0.70,0.72,0.73,0.70,0.71,0.71,0.70,0.70,0.69,0.73,0.72,0.51
+Alfredinho,Ibiapina,Old Stock Race,OldStock,TMG Racing,2026,7,0.82,BRA,2008/01/01,1733,0.69,0.69,0.63,0.66,0.68,0.69,0.66,0.67,0.67,0.66,0.70,0.65,0.69,0.68,0.51
+Renan,Guerra,Old Stock Race,OldStock,TMG Racing,2026,8,0.82,BRA,1989/05/21,1751,0.70,0.70,0.64,0.67,0.69,0.70,0.67,0.68,0.68,0.67,0.70,0.66,0.70,0.69,0.47
+Caca,Bueno,Old Stock Race,OldStock,TMG Racing,2026,9,0.82,BRA,1976/07/24,1819,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.74,0.72,0.71,0.70,0.72,0.72,0.71,0.54
+Ricardo,Mauricio,Old Stock Race,OldStock,Cavaleiro Sports,2026,10,0.76,BRA,1979/01/07,1797,0.73,0.73,0.68,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.42
+Lucas,Foresti,Old Stock Race,OldStock,Cavaleiro Sports,2026,11,0.76,BRA,1992/05/12,1755,0.70,0.70,0.64,0.67,0.69,0.68,0.67,0.68,0.68,0.67,0.70,0.66,0.68,0.67,0.59
+Thiago,Camilo,Old Stock Race,OldStock,Cavaleiro Sports,2026,12,0.76,BRA,1984/09/20,1813,0.74,0.74,0.68,0.71,0.73,0.72,0.71,0.72,0.72,0.71,0.70,0.70,0.72,0.71,0.54
+Zezinho,Muggiati,Old Stock Race,OldStock,Eurofarma RC,2026,13,0.76,BRA,2003/01/01,1741,0.69,0.69,0.63,0.66,0.68,0.67,0.66,0.67,0.67,0.66,0.70,0.65,0.67,0.66,0.58
+Helio,Castroneves,Old Stock Race,OldStock,Eurofarma RC,2026,14,0.76,BRA,1975/05/10,1849,0.76,0.76,0.70,0.73,0.75,0.74,0.73,0.74,0.74,0.73,0.71,0.72,0.74,0.73,0.46
+Vicente,Orige,Old Stock Race,OldStock,Eurofarma RC,2026,15,0.76,BRA,1998/01/01,1717,0.68,0.68,0.63,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.55
+Andre,Moraes Jr.,Old Stock Race,OldStock,RCM Motorsport,2026,16,0.76,BRA,1990/01/01,1725,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.68,0.66,0.65,0.70,0.66,0.66,0.65,0.42
+Rafa,Reis,Old Stock Race,OldStock,RCM Motorsport,2026,17,0.76,BRA,1988/01/01,1728,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.46
+Lucas,Kohl,Old Stock Race,OldStock,RCM Motorsport,2026,18,0.76,BRA,1998/05/04,1706,0.67,0.67,0.61,0.64,0.66,0.65,0.64,0.65,0.65,0.64,0.70,0.63,0.65,0.64,0.53
+Denis,Navarro,Old Stock Race,OldStock,Ipiranga Racing,2026,19,0.70,BRA,1987/01/20,1724,0.68,0.68,0.62,0.65,0.67,0.66,0.65,0.66,0.66,0.65,0.70,0.64,0.66,0.65,0.44
+Arthur,Gama,Old Stock Race,OldStock,Ipiranga Racing,2026,20,0.70,BRA,1999/01/01,1697,0.66,0.66,0.61,0.63,0.65,0.64,0.63,0.64,0.64,0.63,0.70,0.62,0.64,0.63,0.54
+Ricardo,Zonta,Old Stock Race,OldStock,Ipiranga Racing,2026,21,0.70,BRA,1976/03/23,1800,0.73,0.73,0.67,0.70,0.72,0.71,0.70,0.71,0.71,0.70,0.70,0.69,0.71,0.70,0.43

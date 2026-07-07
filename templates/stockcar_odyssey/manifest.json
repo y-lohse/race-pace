@@ -1,12 +1,19 @@
 {
   "name": "Stockcar Odyssey",
   "description": "Work your way up to the NASCAR Cup Series in this stock car focused career.",
-  "authors": ["Blitzer69", "whyl_"],
+  "authors": ["Blitzer69", "Javen", "whyl_"],
   "hero": "hero.jpg",
   "championships": "championships.csv",
   "events": "events.csv",
   "tracks": "tracks.csv",
   "teams": "teams.csv",
   "cars": "cars.csv",
-  "drivers": "drivers.csv"
+  "drivers": "drivers.csv",
+  "overrides": {
+    "real_roster": {
+      "cars": "real_cars.csv",
+      "drivers": "real_drivers.csv",
+      "teams": "real_teams.csv"
+    }
+  }
 }
