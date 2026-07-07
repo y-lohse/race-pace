@@ -1,7 +1,7 @@
 {
   "name": "Le Mans '05",
   "available": false,
-  "description": "A world of 2005 era GT and prototype racing.",
+  "description": "A career set in the mid 2000s, including a mixture of sprint and endurance racing in GTs and Le Mans prototypes.",
   "authors": [],
   "hero": "hero.jpg",
   "championships": "championships.csv",
