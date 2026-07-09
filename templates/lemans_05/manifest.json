@@ -3,7 +3,7 @@
   "available": false,
   "description": "A career set in the mid 2000s, including a mixture of sprint and endurance racing in GTs and Le Mans prototypes.",
   "authors": [],
-  "hero": "hero.jpg",
+  "hero": "hero.png",
   "championships": "championships.csv",
   "events": "events.csv",
   "tracks": "tracks.csv",
