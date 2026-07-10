@@ -1,8 +1,8 @@
 {
   "name": "Stockcar Odyssey",
   "description": "Work your way up to the NASCAR Cup Series in this stock car focused career.",
-  "authors": ["Blitzer69", "Javen", "whyl_"],
-  "hero": "hero.jpg",
+  "authors": ["Blitzer69", "Javen", "whyl_", "WTG"],
+  "hero": "hero.png",
   "championships": "championships.csv",
   "events": "events.csv",
   "tracks": "tracks.csv",
