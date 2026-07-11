@@ -2,7 +2,7 @@
   "name": "F1 '97",
   "available": true,
   "description": "Join the Formula 1 from the 1997 season onwards, fighting for the world championship in the grooveless slick era.",
-  "authors": ["Blitzer69", "Javen", "WTG"],
+  "authors": ["Blitzer69", "Javen", "WTG", "Missare4(33)"],
   "hero": "hero.png",
   "championships": "championships.csv",
   "events": "events.csv",
@@ -10,11 +10,13 @@
   "teams": "teams.csv",
   "cars": "cars.csv",
   "drivers": "drivers.csv",
+  "logos": "logos.zip",
   "overrides": {
     "real_roster": {
       "cars": "real_cars.csv",
       "drivers": "real_drivers.csv",
-      "teams": "real_teams.csv"
+      "teams": "real_teams.csv",
+      "logos": "real_logos.zip"
     }
   }
 }
