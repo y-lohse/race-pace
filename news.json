@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-11",
+    "title": "Historical content available",
+    "content": "v23 introduces a set of templates you can choose from when starting a career, including historical F1 seasons and the option to use real driver names.",
+    "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-153029",
+    "linkText": "Find out more in the full changelog"
+  },
+  {
     "date": "2026-07-03",
     "title": "Team performances and improved contracts",
     "content": "v22 came out last week with a focus on simulating more of the teams behavior, and a revamped contract presentation.",
@@ -18,13 +25,6 @@
     "title": "New driver and team profile pages, post raceanalysis...",
     "content": "The last couple of versions brought new driver and team pages, now much more explorable! You'll also notice a more detailed post-race report.",
     "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-150753",
-    "linkText": "Find out more in the full changelog"
-  },
-  {
-    "date": "2026-04-20",
-    "title": "v16: Headlines from the media and improved rivalries",
-    "content": "In the new version, you'll start to see a news feed on the home page that will keep you up to date with the most recent developments in the racing world. Spot your next team... or you next rival. Speaking or rivals, their detection has been hugely improved. People you never actually race side by side with will now be ignored, while regular battles are more likely to lead to a long term rivalry.",
-    "link": "https://www.overtake.gg/downloads/race-pace-a-living-career-app.81848/updates#resource-update-149431",
     "linkText": "Find out more in the full changelog"
   }
 ]
