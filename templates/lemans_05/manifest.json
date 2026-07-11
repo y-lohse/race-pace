@@ -2,7 +2,7 @@
   "name": "Le Mans '05",
   "available": false,
   "description": "A career set in the mid 2000s, including a mixture of sprint and endurance racing in GTs and Le Mans prototypes.",
-  "authors": [],
+  "authors": ["Blitzer69", "WTG"],
   "hero": "hero.png",
   "championships": "championships.csv",
   "events": "events.csv",
