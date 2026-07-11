@@ -1,1 +1,180 @@
-id,name,type,grade,garages,country,length,turns,start_year,end_year,real_name,location
+id,name,type,grade,garages,country,length,turns,start_year,end_year,real_name,is_mod,location
+Adelaide_Historic,Adelaide Historic 1988,street,4,26,AUS,3780,16,1985,2000,Adelaide Street Circuit,FALSE,Adelaide
+Adelaide_Modern,Adelaide,street,3,39,AUS,3219,14,2000,,Adelaide Street Circuit,FALSE,Adelaide
+Azure_Circuit_2021,Azure Circuit,street,1,26,MCO,3337,19,1929,,Circuit de Monaco,FALSE,Azure Circuit
+Barcelona_1991,Circuit de Barcelona-Catalunya Historic 1991,circuit,4,32,ESP,4747,14,1991,1994,Circuit de Barcelona-Catalunya,FALSE,Barcelona
+Barcelona_GP_1999,Circuit de Barcelona-Catalunya Historic 1999,circuit,4,40,ESP,4728,13,1995,2000,Circuit de Barcelona-Catalunya,FALSE,Barcelona
+Barcelona_GP_2001,Circuit de Barcelona-Catalunya Historic 2001,circuit,4,40,ESP,4728,13,2001,2003,Circuit de Barcelona-Catalunya,FALSE,Barcelona
+Bathurst_1983,Bathurst Historic 1983,circuit,4,32,AUS,6171,20,1938,1986,Mount Panorama Circuit,FALSE,Bathurst
+Bathurst_2020,Bathurst 2020,circuit,3,48,AUS,6213,23,1987,,Mount Panorama Circuit,FALSE,Bathurst
+BrandsHatch_GP,Brands Hatch,circuit,2,32,GBR,3916,10,1950,,Brands Hatch,FALSE,Brands Hatch
+BrandsHatch_Indy,Brands Hatch Indy,circuit,2,32,GBR,1944,5,1950,,Brands Hatch,FALSE,Brands Hatch
+Brasilia_Full,Brasília Full,circuit,2,30,BRA,5476,12,1974,,Autódromo Brasília BRB,FALSE,Brasília
+Brasilia_Outer,Brasília Outer,circuit,2,30,BRA,2913,5,1974,,Autódromo Brasília BRB,FALSE,Brasília
+Buenos_Aires_Circuito_12,Buenos Aires Circuito No.12,circuit,2,32,ARG,5651,8,1952,,Autódromo Oscar y Juan Gálvez,FALSE,Buenos Aires
+Buenos_Aires_Circuito_15,Buenos Aires Circuito No.15,circuit,2,32,ARG,5948,15,1952,,Autódromo Oscar y Juan Gálvez,FALSE,Buenos Aires
+Buenos_Aires_Circuito_6,Buenos Aires Circuito No.6,circuit,2,32,ARG,4312,17,1952,,Autódromo Oscar y Juan Gálvez,FALSE,Buenos Aires
+Buenos_Aires_Circuito_6T,Buenos Aires Circuito No.6 S,circuit,2,32,ARG,4259,17,1952,,Autódromo Oscar y Juan Gálvez,FALSE,Buenos Aires
+Buenos_Aires_Circuito_7,Buenos Aires Circuito No.7,circuit,2,32,ARG,2607,4,1952,,Autódromo Oscar y Juan Gálvez,FALSE,Buenos Aires
+Buenos_Aires_Circuito_8,Buenos Aires Circuito No.8,circuit,2,32,ARG,3327,9,1952,,Autódromo Oscar y Juan Gálvez,FALSE,Buenos Aires
+Buenos_Aires_Circuito_9,Buenos Aires Circuito No.9,circuit,2,32,ARG,3335,11,1952,,Autódromo Oscar y Juan Gálvez,FALSE,Buenos Aires
+CadwellPark,Cadwell Park,circuit,3,26,GBR,3502,16,1938,,Cadwell Park,FALSE,Cadwell Park
+CampoGrande1,Campo Grande,circuit,3,48,BRA,3433,12,2001,,Autódromo Internacional Orlando Moura,FALSE,Campo Grande
+Cascais,Cascais,circuit,1,48,PRT,4182,13,2000,,Circuito do Estoril,FALSE,Cascais
+Cascais_1988,Cascais Historic 1988,circuit,4,30,PRT,4350,11,1972,1999,Circuito do Estoril,FALSE,Cascais
+Cascais_Alternate,Cascais Alternate,circuit,1,48,PRT,4157,11,2000,,Circuito do Estoril,FALSE,Cascais
+Cascavel2,Cascavel,circuit,3,48,BRA,3302,7,1970,,Autódromo Internacional Zilmar Beux de Cascavel,FALSE,Cascavel
+Circuit_de_Catalunya_GP,Circuit de Barcelona-Catalunya GP,circuit,1,48,ESP,4675,16,2004,,Circuit de Barcelona-Catalunya,FALSE,Barcelona
+Circuit_de_Catalunya_GP_NC,Circuit de Barcelona-Catalunya GP (No Chicane),circuit,1,48,ESP,4657,14,2004,,Circuit de Barcelona-Catalunya,FALSE,Barcelona
+Circuit_de_Catalunya_NATL_NC,Circuit de Barcelona-Catalunya National,circuit,1,48,ESP,2997,9,2004,,Circuit de Barcelona-Catalunya,FALSE,Barcelona
+Cleveland_GP,Cleveland GP,circuit,3,32,USA,3389,10,1982,2007,Burke Lakefront Airport,FALSE,Cleveland
+Cordoba_GP,Córdoba No.4,circuit,3,26,ARG,4060,13,1998,,Autódromo Oscar Cabalén,FALSE,Córdoba
+Cordoba_International,Córdoba TC,circuit,3,26,ARG,3653,7,1968,,Autódromo Oscar Cabalén,FALSE,Córdoba
+Cordoba_NATL,Córdoba No.2,circuit,3,26,ARG,2060,11,1975,,Autódromo Oscar Cabalén,FALSE,Córdoba
+Curitiba_outer,Curitiba Outer,circuit,3,30,BRA,2600,6,1988,2022,Autódromo Internacional de Curitiba,FALSE,Curitiba
+CuritibaInternacional,Curitiba,circuit,3,30,BRA,3695,10,1988,2022,Autódromo Internacional de Curitiba,FALSE,Curitiba
+CurveloLong,Curvelo Long,circuit,2,48,BRA,4420,18,2016,,Circuito dos Cristais,FALSE,Curvelo
+CurveloShort,Curvelo Short,circuit,2,48,BRA,3330,18,2016,,Circuito dos Cristais,FALSE,Curvelo
+Daytona_Nascar_Road_Course,Daytona Nascar Road Course,circuit,3,48,USA,5729,15,1959,,Daytona International Speedway,FALSE,Daytona
+Daytona_Road_Course,Daytona Sports Car Course,circuit,3,48,USA,5729,12,1959,,Daytona International Speedway,FALSE,Daytona
+Donington_GP,Donington GP,circuit,2,38,GBR,4023,11,1931,,Donington Park,FALSE,Donington Park
+Donington_Nat,Donington National,circuit,2,38,GBR,3185,9,1931,,Donington Park,FALSE,Donington Park
+Fontana_SCC,Auto Club Speedway Sports Car Course,circuit,2,30,USA,4509,17,2001,2023,Auto Club Speedway,FALSE,Fontana
+Galeao_Airport,Galeão Airport,circuit,3,32,BRA,3200,5,2022,2022,Cacá Bueno Circuit,FALSE,Galeão Airport
+Gateway_RC1,WWT Raceway Road Course (Short),circuit,2,32,USA,2575,10,1997,,World Wide Technology Raceway,FALSE,Gateway
+Gateway_RC2,WWT Raceway Road Course (Long),circuit,2,32,USA,3219,14,2019,,World Wide Technology Raceway,FALSE,Gateway
+GoianiaMixed,Goiânia,circuit,3,48,BRA,3820,13,1974,,Autódromo Internacional Ayrton Senna (Goiânia),FALSE,Goiânia
+GoianiaOuter,Goiânia External,circuit,3,48,BRA,2590,5,1974,,Autódromo Internacional Ayrton Senna (Goiânia),FALSE,Goiânia
+GoianiaShort,Goiânia Short,circuit,3,36,BRA,1910,7,1974,,Autódromo Internacional Ayrton Senna (Goiânia),FALSE,Goiânia
+Guapore,Guaporé,circuit,3,40,BRA,3080,7,1976,,Autódromo Internacional de Guaporé,FALSE,Guaporé
+Hockenheim_1977,Hockenheim Historic 1977,circuit,4,36,DEU,6789,13,1970,1981,Hockenheimring Baden-Württemberg,FALSE,Hockenheimring
+Hockenheim_1988,Hockenheim Historic 1988,circuit,4,36,DEU,6797,15,1982,2000,Hockenheimring Baden-Württemberg,FALSE,Hockenheimring
+Hockenheim_1988_short,Hockenheim Historic 1988 Short,circuit,4,36,DEU,2636,13,1982,2000,Hockenheimring Baden-Württemberg,FALSE,Hockenheimring
+Hockenheim_2001,Hockenheim Historic 2001,circuit,4,30,DEU,6823,16,2001,,Hockenheimring Baden-Württemberg,FALSE,Hockenheimring
+Hockenheim_GP,Hockenheim,circuit,1,48,DEU,4574,17,2001,,Hockenheimring Baden-Württemberg,FALSE,Hockenheimring
+Hockenheim_National,Hockenheim National,circuit,1,30,DEU,3692,16,2001,,Hockenheimring Baden-Württemberg,FALSE,Hockenheimring
+Hockenheim_ShortA,Hockenheim Short A,circuit,3,30,DEU,2638,11,2001,,Hockenheimring Baden-Württemberg,FALSE,Hockenheimring
+Hockenheim_ShortB,Hockenheim Short B,circuit,1,30,DEU,2604,13,2001,,Hockenheimring Baden-Württemberg,FALSE,Hockenheimring
+Hungaroring_GP_2025,Hungaroring GP 2025,circuit,1,48,HUN,4381,14,1986,,Hungaroring,FALSE,Hungaroring
+Ibarra_Reverse,Autódromo Yahuarcocha Reverse,circuit,4,30,ECU,4307,18,1983,,Autódromo Internacional José Tobar,FALSE,Ibarra
+Ibarra2,Autódromo Yahuarcocha,circuit,4,30,ECU,4307,18,1983,,Autódromo Internacional José Tobar,FALSE,Ibarra
+Imola_GP_1972,Imola Historic 1972,circuit,4,40,ITA,5018,14,1953,1979,Autodromo Internazionale Enzo e Dino Ferrari,FALSE,Imola
+Imola_GP_1988,Imola Historic 1988,circuit,4,26,ITA,5040,21,1980,1994,Autodromo Internazionale Enzo e Dino Ferrari,FALSE,Imola
+Imola_GP_2001,Imola Historic 2001,circuit,4,26,ITA,4933,21,1995,2004,Autodromo Internazionale Enzo e Dino Ferrari,FALSE,Imola
+Imola_GP_2005,Imola Historic 2005,circuit,4,26,ITA,4933,21,2005,2007,Autodromo Internazionale Enzo e Dino Ferrari,FALSE,Imola
+Imola_GP_2018,Imola,circuit,1,48,ITA,4909,19,2008,,Autodromo Internazionale Enzo e Dino Ferrari,FALSE,Imola
+Indianapolis_2001_RC,Indianapolis 2001 RC,circuit,1,48,USA,3925,14,2000,2013,Indianapolis Motor Speedway,FALSE,Indianapolis
+Indianapolis_2022_RC,Indianapolis Motor Speedway Road Course,circuit,1,48,USA,3925,14,2014,,Indianapolis Motor Speedway,FALSE,Indianapolis
+Interlagos_1991,Interlagos Historic 1991,circuit,4,32,BRA,4325,17,1990,1992,Autódromo José Carlos Pace,FALSE,Interlagos
+Interlagos_1993,Interlagos Historic 1993,circuit,4,32,BRA,4325,17,1993,1999,Autódromo José Carlos Pace,FALSE,Interlagos
+Interlagos_GP,Interlagos GP,circuit,1,48,BRA,4295,15,2000,,Autódromo José Carlos Pace,FALSE,Interlagos
+Interlagos_Historic,Interlagos Historic 1976,circuit,4,32,BRA,7927,17,1940,1989,Autódromo José Carlos Pace,FALSE,Interlagos
+Interlagos_SCB,Interlagos Stock Car Brasil,circuit,2,48,BRA,4295,15,2010,,Autódromo José Carlos Pace,FALSE,Interlagos
+Jacarepagua_2005,Jacarepaguá Historic 2005,circuit,3,40,BRA,4905,13,2005,2012,Autódromo Internacional Nelson Piquet,FALSE,Jacarepaguá
+Jacarepagua_Historic,Jacarepaguá Historic 1988,circuit,4,40,BRA,5003,11,1978,1995,Autódromo Internacional Nelson Piquet,FALSE,Jacarepaguá
+Jacarepagua_SCB,Jacarepaguá Historic 2012 SCB,circuit,4,40,BRA,3307,8,1995,2012,Autódromo Internacional Nelson Piquet,FALSE,Jacarepaguá
+Jacarepagua_SHORT,Jacarepaguá Historic 2012 Short,circuit,3,40,BRA,3047,7,1995,2012,Autódromo Internacional Nelson Piquet,FALSE,Jacarepaguá
+Jerez_GP1988,Jerez Historic 1988,circuit,4,32,ESP,4218,16,1985,1991,Circuito de Jerez – Ángel Nieto,FALSE,Jerez
+Jerez_GP2019,Jerez Chicane,circuit,1,42,ESP,4427,15,1992,,Circuito de Jerez – Ángel Nieto,FALSE,Jerez
+Jerez_Standard,Jerez Moto,circuit,3,42,ESP,4423,13,1992,,Circuito de Jerez – Ángel Nieto,FALSE,Jerez
+Kansai_Classic,Kansai Classic,circuit,2,48,JPN,5821,19,1962,1982,Suzuka International Racing Course,FALSE,Kansai
+Kansai_East,Kansai East,circuit,3,48,JPN,2243,10,1987,,Suzuka International Racing Course,FALSE,Kansai
+Kansai_GP,Kansai GP,circuit,1,48,JPN,5810,19,1983,,Suzuka International Racing Course,FALSE,Kansai
+Kansai_West,Kansai West,circuit,1,26,JPN,3466,11,1987,,Suzuka International Racing Course,FALSE,Kansai
+Kyalami_2019,Kyalami,circuit,2,48,ZAF,4529,15,1989,,Kyalami Grand Prix Circuit,FALSE,Kyalami
+Kyalami_Historic,Kyalami Historic 1976,circuit,4,40,ZAF,4048,9,1961,1988,Kyalami Grand Prix Circuit,FALSE,Kyalami
+Laguna_Seca_2020,Laguna Seca 2020,circuit,2,48,USA,3602,11,1957,,Laguna Seca Raceway,FALSE,Laguna Seca
+Le_Mans_24h,Circuit des 24 Heures du Mans,circuit,1,48,FRA,13629,38,2010,,Circuit des 24 Heures du Mans,FALSE,Le Mans
+Le_Mans_24h_2005,Circuit des 24 Heures du Mans Historic 2005,circuit,2,48,FRA,13650,38,1932,2010,Circuit des 24 Heures du Mans,FALSE,Le Mans
+Le_Mans_Circuit_Bugatti,Le Mans Circuit Bugatti,circuit,2,32,FRA,4185,14,1965,,Circuit des 24 Heures du Mans,FALSE,Le Mans
+Londrina_long,Londrina Long,circuit,3,48,BRA,3140,10,1992,,Autódromo Internacional Ayrton Senna (Londrina),FALSE,Londrina
+Londrina_short,Londrina Short,circuit,3,48,BRA,3020,10,1992,,Autódromo Internacional Ayrton Senna (Londrina),FALSE,Londrina
+Long_Beach,Long Beach,street,3,48,USA,3167,11,1975,,Long Beach Street Circuit,FALSE,Long Beach
+Montreal_Historic,Montréal Historic 1988,street,4,40,CAN,4430,16,1978,1990,Circuit Gilles Villeneuve,FALSE,Montréal
+Montreal_Historic_1991,Montréal Historic 1991,street,4,40,CAN,4430,16,1991,2001,Circuit Gilles Villeneuve,FALSE,Montréal
+Montreal_Modern,Montréal,street,1,40,CAN,4361,14,2002,,Circuit Gilles Villeneuve,FALSE,Montréal
+Monza_1971,Monza Historic 1971,circuit,4,26,ITA,5750,7,1934,1975,Autodromo Nazionale Monza,FALSE,Monza
+Monza_1971_10k,Monza Historic 1971 10k,circuit,4,26,ITA,10100,16,1922,1971,Autodromo Nazionale Monza,FALSE,Monza
+Monza_1971_10knc,Monza Historic 1971 10k (no chicane),circuit,4,26,ITA,10000,9,1922,1971,Autodromo Nazionale Monza,FALSE,Monza
+Monza_1971_Junior,Monza Historic 1971 Junior,circuit,4,26,ITA,2405,4,1959,1999,Autodromo Nazionale Monza,FALSE,Monza
+Monza_1991,Monza Historic 1991,circuit,4,32,ITA,5800,14,1976,1999,Autodromo Nazionale Monza,FALSE,Monza
+Monza_2005,Monza Historic 2005,circuit,1,48,ITA,5793,11,2000,2006,Autodromo Nazionale Monza,FALSE,Monza
+Monza_2020,Monza,circuit,1,48,ITA,5793,11,2006,,Autodromo Nazionale Monza,FALSE,Monza
+Monza_2020_Junior,Monza Junior,circuit,1,32,ITA,2405,4,2006,,Autodromo Nazionale Monza,FALSE,Monza
+Mosport,Mosport,circuit,2,48,CAN,3957,10,1961,,Canadian Tire Motorsport Park,FALSE,Mosport
+Nordschleife_2020,Nordschleife 2020,circuit,3,28,DEU,20832,73,1983,2024,Nürburgring,FALSE,Nürburgring
+Nordschleife_2020_24hr,Nordschleife 24 Hour 2020,circuit,3,48,DEU,25378,88,1983,2024,Nürburgring,FALSE,Nürburgring
+Nordschleife_2025,Nordschleife 2025,circuit,3,28,DEU,20832,73,2025,,Nürburgring,FALSE,Nürburgring
+Nordschleife_2025_24hr,Nordschleife 24 Hour 2025,circuit,3,48,DEU,25378,88,2025,,Nürburgring,FALSE,Nürburgring
+Nordschleife_2025_tourist,Nordschleife Tourist 2025,circuit,3,48,DEU,19090,88,1983,,Nürburgring,FALSE,Nürburgring
+Nurb_1971_Beton,Betonschleife Historic 1971,circuit,4,32,DEU,2391,7,1927,1982,Nürburgring,FALSE,Nürburgring
+Nurb_1971_Gesamt,Gesamtstrecke Historic 1971,circuit,4,32,DEU,28265,187,1927,1982,Nürburgring,FALSE,Nürburgring
+Nurb_1971_Nords,Nordschleife Historic 1971,circuit,4,32,DEU,22835,160,1927,1982,Nürburgring,FALSE,Nürburgring
+Nurb_1971_Suds,Südschleife Historic 1971,circuit,4,32,DEU,7747,27,1927,1982,Nürburgring,FALSE,Nürburgring
+Nurb_GP_2020,Nürburgring GP 2020,circuit,1,48,DEU,5148,15,1983,2024,Nürburgring,FALSE,Nürburgring
+Nurb_GP_2020_Sprint,Nürburgring Sprint 2020,circuit,2,30,DEU,3629,11,1983,,Nürburgring,FALSE,Nürburgring
+Nurb_GP_2020_Sprint_S,Nürburgring Sprint S 2020,circuit,2,30,DEU,3059,11,1983,,Nürburgring,FALSE,Nürburgring
+Nurb_GP_2020_Veedol,Nürburgring Veedol 2020,circuit,3,48,DEU,5137,15,1983,,Nürburgring,FALSE,Nürburgring
+Nurb_GP_2025,Nürburgring GP 2025,circuit,2,48,DEU,5148,15,2025,,Nürburgring,FALSE,Nürburgring
+OultonPark_Classic,Oulton Park Classic,circuit,2,42,GBR,4297,12,1954,,Oulton Park,FALSE,Oulton Park
+OultonPark_Fosters,Oulton Park Fosters,circuit,2,42,GBR,2662,9,1954,,Oulton Park,FALSE,Oulton Park
+OultonPark_International,Oulton Park International,circuit,2,42,GBR,4330,17,1954,,Oulton Park,FALSE,Oulton Park
+OultonPark_Island,Oulton Park Island,circuit,2,42,GBR,3637,12,1954,,Oulton Park,FALSE,Oulton Park
+Pocono_RC1,Pocono North/South Course 1,circuit,2,32,USA,4039,10,1969,,Pocono Raceway,FALSE,Pocono
+Pocono_RC2,Pocono North/South Course 2,circuit,2,32,USA,3637,10,1969,,Pocono Raceway,FALSE,Pocono
+Pocono_RC3,Pocono North/South Course 1 (No Chicane),circuit,2,32,USA,4023,7,1969,,Pocono Raceway,FALSE,Pocono
+Pocono_RC4,Pocono Southeast Course 1,circuit,2,32,USA,2204,16,1969,,Pocono Raceway,FALSE,Pocono
+Pocono_RC5,Pocono East Course 1,circuit,2,32,USA,2204,13,1969,,Pocono Raceway,FALSE,Pocono
+Pocono_RC6,Pocono Southeast Course 5,circuit,2,32,USA,3025,9,1969,,Pocono Raceway,FALSE,Pocono
+Road_America_RC,Road America,circuit,2,48,USA,6515,14,1955,,Road America,FALSE,Road America
+Road_America_RCB,Road America (Bend),circuit,2,48,USA,6515,14,1955,,Road America,FALSE,Road America
+Road_Atlanta,Road Atlanta,circuit,2,48,USA,4088,12,2006,,Road Atlanta,FALSE,Road Atlanta
+Road_Atlanta_2005,Road Atlanta Historic 2005,circuit,2,48,USA,4088,12,1970,2005,Road Atlanta,FALSE,Road Atlanta
+Road_Atlanta_2005_short,Road Atlanta Historic 2005 Short,circuit,2,48,USA,2588,9,1970,,Road Atlanta,FALSE,Road Atlanta
+Road_Atlanta_Moto,Road Atlanta Moto,circuit,2,32,USA,4104,12,2003,,Road Atlanta,FALSE,Road Atlanta
+Salvador_Street_Circuit,Salvador Street Circuit,street,3,34,BRA,2720,10,2009,2014,Circuito Ayrton Senna,FALSE,Salvador
+SantaCruzDoSul,Santa Cruz do Sul,circuit,4,48,BRA,3325,14,2005,,Autódromo Internacional de Santa Cruz do Sul,FALSE,Santa Cruz
+Sebring,Sebring,circuit,2,48,USA,5854,17,1950,,Sebring International Raceway,FALSE,Sebring
+Sebring_Club,Sebring Club,circuit,2,32,USA,2736,13,1950,,Sebring International Raceway,FALSE,Sebring
+Sebring_School,Sebring School,circuit,2,32,USA,3219,9,1950,,Sebring International Raceway,FALSE,Sebring
+Silverstone_1975,Silverstone Historic 1975,circuit,4,36,GBR,4718,10,1948,1990,Silverstone Circuit,FALSE,Silverstone
+Silverstone_1975_No_Chicane,Silverstone Historic 1975 (no chicane),circuit,4,36,GBR,4710,8,1948,1990,Silverstone Circuit,FALSE,Silverstone
+Silverstone_1991,Silverstone Historic 1991,circuit,4,36,GBR,5226,17,1991,1997,Silverstone Circuit,FALSE,Silverstone
+Silverstone_2001,Silverstone Historic 2001,circuit,4,36,GBR,5141,16,1998,2010,Silverstone Circuit,FALSE,Silverstone
+Silverstone_2001_International,Silverstone International Historic 2001,circuit,1,36,GBR,3619,10,1998,2010,Silverstone Circuit,FALSE,Silverstone
+Silverstone_2001_National,Silverstone National Historic 2001,circuit,1,36,GBR,2638,5,1998,2010,Silverstone Circuit,FALSE,Silverstone
+Silverstone_GP,Silverstone,circuit,1,48,GBR,5890,18,2011,,Silverstone Circuit,FALSE,Silverstone
+Silverstone_Intl_2019,Silverstone International,circuit,2,32,GBR,2979,9,2011,,Silverstone Circuit,FALSE,Silverstone
+Silverstone_Natl_2019,Silverstone National,circuit,3,36,GBR,2639,5,2011,,Silverstone Circuit,FALSE,Silverstone
+Snetterton_100,Snetterton 100,circuit,2,26,GBR,1580,6,2011,,Snetterton Circuit,FALSE,Snetterton
+Snetterton_200,Snetterton 200,circuit,2,26,GBR,3220,8,2011,,Snetterton Circuit,FALSE,Snetterton
+Snetterton_300,Snetterton 300,circuit,2,26,GBR,4780,12,2011,,Snetterton Circuit,FALSE,Snetterton
+Spa_Francorchamps_1970,Spa-Francorchamps Historic 1970,circuit,4,32,BEL,14120,21,1939,1978,Circuit de Spa-Francorchamps,FALSE,Spa-Francorchamps
+Spa_Francorchamps_1970_1000km,Spa-Francorchamps Historic 1970 1000km,circuit,4,32,BEL,14120,21,1939,1978,Circuit de Spa-Francorchamps,FALSE,Spa-Francorchamps
+Spa_Francorchamps_1993,Spa-Francorchamps Historic 1993,circuit,4,30,BEL,6940,23,1979,2003,Circuit de Spa-Francorchamps,FALSE,Spa-Francorchamps
+Spa_Francorchamps_2005,Spa-Francorchamps Historic 2005,circuit,1,48,BEL,6976,24,2004,2006,Circuit de Spa-Francorchamps,FALSE,Spa-Francorchamps
+Spa_Francorchamps_2005_EC,Spa-Francorchamps Historic 2005 Endurance,circuit,1,48,BEL,6976,24,2004,2006,Circuit de Spa-Francorchamps,FALSE,Spa-Francorchamps
+Spa_Francorchamps_2020,Spa-Francorchamps 2020,circuit,1,48,BEL,7004,20,2007,2021,Circuit de Spa-Francorchamps,FALSE,Spa-Francorchamps
+Spa_Francorchamps_2022,Spa-Francorchamps 2022,circuit,1,48,BEL,7004,20,2022,,Circuit de Spa-Francorchamps,FALSE,Spa-Francorchamps
+Spielberg_Historic,Spielberg Historic 1977,circuit,4,34,AUT,5916,11,1977,1995,Red Bull Ring,FALSE,Spielberg
+Spielberg_2001,Spielberg Historic 2001,circuit,3,32,AUT,4318,6,1996,2003,Red Bull Ring,FALSE,Spielberg
+Spielberg_Modern,Spielberg,circuit,1,32,AUT,4318,10,2011,,Red Bull Ring,FALSE,Spielberg
+Spielberg_Short,Spielberg Short,circuit,1,32,AUT,2330,6,1996,,Red Bull Ring,FALSE,Spielberg
+Spielberg_Vintage,Spielberg Historic 1974,circuit,4,34,AUT,5896,9,1969,1976,Red Bull Ring,FALSE,Spielberg
+Taruma_Chicane,Tarumã Chicane,circuit,3,32,BRA,3074,11,1970,,Autódromo Internacional de Tarumã,FALSE,Tarumã
+Taruma_Internacional,Tarumã Internacional,circuit,3,32,BRA,3016,9,1970,,Autódromo Internacional de Tarumã,FALSE,Tarumã
+Termas_Rio_Hondo,Termas de Río Hondo,circuit,2,48,ARG,4806,14,2008,,Autódromo Termas de Río Hondo,FALSE,Termas de Río Hondo
+VeloCitta1,Velo Cittá,circuit,3,34,BRA,3328,15,2012,,Autódromo Velo Città,FALSE,Velo Cittá
+VeloCittaClubDay,Velo Cittá Club Day,circuit,3,34,BRA,1721,7,2012,,Autódromo Velo Città,FALSE,Velo Cittá
+VeloCittaTD,Velo Cittá Track Day,circuit,3,34,BRA,3369,16,2012,,Autódromo Velo Città,FALSE,Velo Cittá
+Velopark_2010,Velopark 2010,circuit,3,34,BRA,2153,10,2010,,Velopark,FALSE,Velopark
+Velopark_2017,Velopark 2017,circuit,3,34,BRA,2278,13,2010,,Velopark,FALSE,Velopark
+Virginia_Full,Virginia International Raceway Full,circuit,2,48,USA,5262,18,1957,,Virginia International Raceway,FALSE,Virginia
+Virginia_Grand,Virginia International Raceway Grand,circuit,2,48,USA,6759,24,2003,,Virginia International Raceway,FALSE,Virginia
+Virginia_North,Virginia International Raceway North,circuit,2,48,USA,3621,14,2000,,Virginia International Raceway,FALSE,Virginia
+Virginia_Patriot,Virginia International Raceway Patriot,circuit,2,20,USA,1770,13,2003,,Virginia International Raceway,FALSE,Virginia
+Virginia_South,Virginia International Raceway South,circuit,2,28,USA,2655,9,2000,,Virginia International Raceway,FALSE,Virginia
+Watkins_Glen_GP,Watkins Glen GP,circuit,2,48,USA,5430,11,1956,,Watkins Glen International,FALSE,Watkins Glen
+Watkins_Glen_GPIL,Watkins Glen GP (Inner Loop),circuit,2,48,USA,5552,15,1992,,Watkins Glen International,FALSE,Watkins Glen
+Watkins_Glen_S,Watkins Glen Short,circuit,2,48,USA,3907,7,1956,,Watkins Glen International,FALSE,Watkins Glen
+Watkins_Glen_SIL,Watkins Glen Short (Inner Loop),circuit,2,48,USA,3943,11,1992,,Watkins Glen International,FALSE,Watkins Glen

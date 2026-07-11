@@ -1,1 +1,10 @@
 name,categories,prestige,points,pit_stop,start_type,field_type,parc_ferme,events_count,tags,init_month,init_day,registration_start_month,registration_start_day,registration_end_month,registration_end_day,start_year,end_year,default_included
+Le Mans Endurance Series,"LMP1_05,LMP2_05,GT1_05,GT2_05",100,"10,8,6,5,4,3,2,1",FALSE,rolling,,TRUE,6,"Multiclass,GT,Prototype,Europe",1,3,1,12,1,19,2005,,TRUE
+American Le Mans Series,"LMP1_05,LMP2_05,GT1_05,GT2_05",95,"23,19,16,13,11,9,7,6,5,4",FALSE,rolling,,TRUE,8,"Multiclass,GT,Prototype,North America",1,3,1,12,1,19,2005,,TRUE
+FIA GT Championship,"GT1_05,GT2_05",80,"10,8,6,5,4,3,2,1",FALSE,rolling,,TRUE,8,"Multiclass,GT,Europe",1,3,1,12,1,19,2005,,TRUE
+Southern Europe GT Championship,"GT1_05,GT2_05,Trofeo_2005",70,"10,8,6,5,4,3,2,1",FALSE,rolling,,TRUE,8,"Multiclass,GT,Europe",1,3,1,12,1,19,2005,,TRUE
+Northern Europe GT Championship,"GT1_05,GT2_05,GTR_04",70,"10,8,6,5,4,3,2,1",FALSE,rolling,,TRUE,8,"Multiclass,GT,Europe",1,3,1,12,1,19,2005,,TRUE
+BFGoodrich Langstreckenmeisterschaft,"GT1_05,GT2_05,GTR_04",65,"10,8,6,5,4,3,2,1",FALSE,rolling,,TRUE,9,"Multiclass,GT,Germany",1,3,1,12,1,19,2005,,TRUE
+Rolex Sports Car Series,"GT2_05,GTR_04",60,"35,32,30,28,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1",FALSE,rolling,,TRUE,9,"Multiclass,GT,North America",1,3,1,12,1,19,2005,,TRUE
+Speed World Challenge,GT1_05,45,"25,23,21,19,17,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1",FALSE,standing,,TRUE,8,"GT,North America",1,3,1,12,1,19,2005,,TRUE
+British GT Championship,GT2_05,30,"10,8,6,5,4,3,2,1",TRUE,rolling,,TRUE,7,"GT,United Kingdom",1,3,1,12,1,19,2005,,TRUE

@@ -1,1 +1,92 @@
 championship_name,track_id,name,month,week_end,mandatory,type,duration,start_time
+Le Mans Endurance Series,Circuit_de_Catalunya_GP_NC,1000 km of Catalunya,4,1,FALSE,laps,215,12:00
+Le Mans Endurance Series,Spa_Francorchamps_2005_EC,1000 km of Spa,4,3,TRUE,laps,144,12:00
+Le Mans Endurance Series,Donington_GP,1000 km of Donington,5,2,FALSE,laps,249,12:00
+Le Mans Endurance Series,Le_Mans_24h_2005,24h Le Mans,6,3,TRUE,time,1440,16:00
+Le Mans Endurance Series,Monza_2005,1000 km of Monza,7,2,FALSE,laps,173,12:00
+Le Mans Endurance Series,Silverstone_2001,1000 km of Silverstone,8,2,FALSE,laps,195,12:00
+Le Mans Endurance Series,Nurb_GP_2020,1000 km of Nürburgring,9,1,TRUE,laps,195,12:00
+Le Mans Endurance Series,Interlagos_GP,Mil Milhas Brasil,11,1,FALSE,laps,233,12:00
+Le Mans Endurance Series,Hungaroring_GP_2025,1000 km of Hungaroring,10,1,FALSE,laps,229,16:00
+American Le Mans Series,Sebring,12 Hours of Sebring,3,3,TRUE,time,720,10:00
+American Le Mans Series,Road_Atlanta_2005,Grand Prix of Atlanta,4,2,TRUE,time,165,12:00
+American Le Mans Series,Long_Beach,Grand Prix of Long Beach,6,2,TRUE,time,100,16:00
+American Le Mans Series,Virginia_Full,VIR 240,7,2,TRUE,time,240,14:00
+American Le Mans Series,Road_America_RC,Road America 500,8,3,TRUE,time,165,12:00
+American Le Mans Series,Mosport,Grand Prix of Mosport,9,1,TRUE,time,150,15:00
+American Le Mans Series,Road_Atlanta_2005,Petit Le Mans,10,1,TRUE,laps,394,12:00
+American Le Mans Series,Laguna_Seca_2020,Monterey Sports Car Championships,10,3,TRUE,time,240,12:00
+FIA GT Championship,Circuit_de_Catalunya_GP,Barcelona Supercar 500,3,3,FALSE,laps,106,11:00
+FIA GT Championship,Monza_2005,Monza Supercar 500,4,2,FALSE,laps,87,12:00
+FIA GT Championship,Silverstone_2001_International,Tourist Trophy,5,2,FALSE,laps,139,11:00
+FIA GT Championship,Imola_GP_2005,Imola Supercar 500,5,4,FALSE,laps,102,11:00
+FIA GT Championship,Donington_GP,Donington Supercar 500,6,3,FALSE,laps,125,11:00
+FIA GT Championship,Spa_Francorchamps_2005_EC,Spa 24 Hours,7,4,TRUE,time,1440,16:00
+FIA GT Championship,Hockenheim_GP,Hockenheim Supercar 500,8,2,FALSE,laps,110,11:00
+FIA GT Championship,Spielberg_2001,A1-Ring Supercar 500,8,4,FALSE,laps,116,12:00
+FIA GT Championship,Cascais,Estoril Supercar 500,9,2,FALSE,laps,120,10:00
+FIA GT Championship,Nurb_GP_2020,Nürburgring Supercar 500,9,3,FALSE,laps,98,11:00
+FIA GT Championship,Hungaroring_GP_2025,Budapest Supercar 500,10,1,FALSE,laps,115,13:00
+BFGoodrich Langstreckenmeisterschaft,Nordschleife_2020_24hr,47. ADAC-ACAS-H&R-Cup,4,3,TRUE,time,240,12:00
+BFGoodrich Langstreckenmeisterschaft,Nordschleife_2020_24hr,36. Adenauer ADAC Rundstrecken-Trophy,6,2,TRUE,time,240,12:00
+BFGoodrich Langstreckenmeisterschaft,Nordschleife_2020_24hr,45. ADAC-Reinoldus Langstreckenrennen,7,1,TRUE,time,240,12:00
+BFGoodrich Langstreckenmeisterschaft,Nordschleife_2020_24hr,28. RCM-DMV-Grenzlandrennen,7,3,TRUE,time,240,12:00
+BFGoodrich Langstreckenmeisterschaft,Nordschleife_2020_24hr,6h ADAC Ruhr-Pokal-Rennen,8,4,TRUE,time,360,12:00
+BFGoodrich Langstreckenmeisterschaft,Nordschleife_2020_24hr,37. ADAC-Barbarossapreis,9,3,TRUE,time,240,12:00
+BFGoodrich Langstreckenmeisterschaft,Nordschleife_2020_24hr,29. DMV-250 Meilen Rennen,10,1,TRUE,time,240,12:00
+BFGoodrich Langstreckenmeisterschaft,Nordschleife_2020_24hr,30. DMV-Münsterlandpokal,10,3,TRUE,time,240,12:00
+BFGoodrich Langstreckenmeisterschaft,Nordschleife_2020_24hr,30. DMV-4-Stunden Rennen,11,1,TRUE,time,240,12:00
+Speed World Challenge,Sebring,12 Hours of Sebring Support,3,3,FALSE,laps,21,
+Speed World Challenge,Road_Atlanta_2005,Grand Prix of Atlanta Support,4,2,FALSE,laps,30,
+Speed World Challenge,Cleveland_GP,Grand Prix of Cleveland Support,5,3,FALSE,laps,33,
+Speed World Challenge,Long_Beach,Grand Prix of Long Beach Support,6,2,FALSE,laps,35,
+Speed World Challenge,Virginia_Full,VIR 240 Support,7,2,FALSE,laps,22,
+Speed World Challenge,Watkins_Glen_GP,6h of The Glen Support,8,1,FALSE,laps,21,
+Speed World Challenge,Road_America_RC,Road America 500 Support,8,3,FALSE,laps,18,
+Speed World Challenge,Mosport,Grand Prix of Mosport Support,9,1,FALSE,laps,27,
+Speed World Challenge,Road_Atlanta_2005,Petit Le Mans Support,10,1,FALSE,laps,25,
+Speed World Challenge,Laguna_Seca_2020,Monterey Sports Car Championships Support,10,3,FALSE,laps,20,
+British GT Championship,Donington_GP,Donington Park,4,1,FALSE,time,120,
+British GT Championship,OultonPark_International,Oulton Park Race 1,5,1,TRUE,time,60,16:00
+British GT Championship,OultonPark_International,Oulton Park Race 2,5,1,TRUE,time,60,14:00
+British GT Championship,Snetterton_200,Snetterton 200,6,3,FALSE,time,60,13:00
+British GT Championship,Spa_Francorchamps_2005,1000 km of Spa,7,2,FALSE,time,120,
+British GT Championship,Silverstone_2001,1000 km of Silverstone,8,2,FALSE,time,120,13:00
+British GT Championship,BrandsHatch_GP,Brands Hatch,9,3,FALSE,time,120,
+British GT Championship,Silverstone_2001_International,Silverstone Sprint 1,10,2,TRUE,time,60,16:00
+British GT Championship,Silverstone_2001_International,Silverstone Sprint 2,10,2,TRUE,time,60,
+Rolex Sports Car Series,Daytona_Road_Course,Rolex 24 At Daytona,2,1,TRUE,time,1440,12:00
+Rolex Sports Car Series,Road_America_RC,Rolex Sports Car Series 250,3,2,FALSE,time,120,11:00
+Rolex Sports Car Series,Fontana_SCC,Ferrari Maserati 400,4,1,FALSE,laps,89,13:00
+Rolex Sports Car Series,Laguna_Seca_2020,Road & Track 250,5,1,FALSE,laps,112,12:00
+Rolex Sports Car Series,Long_Beach,Crown Royal Grand American Challenge,5,3,FALSE,time,90,17:00
+Rolex Sports Car Series,Watkins_Glen_GP,Six Hours of the Glen,6,2,FALSE,time,360,10:00
+Rolex Sports Car Series,Daytona_Road_Course,Brumos Porsche 250,6,4,FALSE,laps,112,
+Rolex Sports Car Series,Indianapolis_2001_RC,Brickyard Grand Prix,7,2,FALSE,time,180,16:00
+Rolex Sports Car Series,Watkins_Glen_SIL,CompUSA 200 at the Glen,8,2,FALSE,laps,82,18:00
+Rolex Sports Car Series,Montreal_Modern,Montreal 400k,8,4,FALSE,laps,68,16:00
+Rolex Sports Car Series,Watkins_Glen_GP,Crown Royal 250 at the Glen,9,3,FALSE,laps,166,15:00
+Rolex Sports Car Series,Virginia_Full,VIR 400,10,1,FALSE,laps,77,13:00
+Rolex Sports Car Series,Road_Atlanta_2005,Grand Prix of Atlanta,11,1,FALSE,time,165,16:00
+Northern Europe GT Championship,Spa_Francorchamps_2005,1000 km of Spa,3,2,FALSE,laps,20,
+Northern Europe GT Championship,BrandsHatch_GP,Euro Brands Hatch,4,2,FALSE,time,120,12:00
+Northern Europe GT Championship,Spielberg_2001,A1-Ring Sprint,5,2,FALSE,laps,20,
+Northern Europe GT Championship,Spa_Francorchamps_2005_EC,Spa Euro Race,6,2,FALSE,time,360,17:00
+Northern Europe GT Championship,Donington_GP,Unipart F3/GT Festival,7,1,FALSE,time,120,10:00
+Northern Europe GT Championship,Le_Mans_Circuit_Bugatti,Le Mans Euro Race,7,3,FALSE,time,120,16:00
+Northern Europe GT Championship,OultonPark_Island,Island Sprint,8,2,FALSE,laps,20,
+Northern Europe GT Championship,CadwellPark,Cadwell Euro Park,8,4,FALSE,time,60,
+Northern Europe GT Championship,Hockenheim_GP,Hockenheim Euro Race,9,2,FALSE,time,120,
+Northern Europe GT Championship,Silverstone_2001_International,Silverstone Sprint,10,1,FALSE,laps,20,
+Northern Europe GT Championship,Nurb_GP_2020_Veedol,1000 km of Nürburgring,11,1,FALSE,time,120,14:00
+Southern Europe GT Championship,Cascais,Estoril Euro Race,3,2,FALSE,time,120,10:00
+Southern Europe GT Championship,Monza_2020_Junior,Monza Sprint,4,2,FALSE,laps,20,
+Southern Europe GT Championship,Circuit_de_Catalunya_GP,Catalunya Euro Race,5,2,FALSE,time,120,12:00
+Southern Europe GT Championship,Imola_GP_2005,Imola Sprint,6,2,FALSE,laps,20,10:00
+Southern Europe GT Championship,Hungaroring_GP_2025,Hungaroring Euro Race,7,1,FALSE,time,120,
+Southern Europe GT Championship,Circuit_de_Catalunya_NATL_NC,Catalunya Sprint,7,3,FALSE,laps,20,
+Southern Europe GT Championship,Imola_GP_2005,Imola Euro Race,8,2,FALSE,time,120,18:00
+Southern Europe GT Championship,Jerez_GP2019,Jerez Sprint,8,4,FALSE,laps,20,15:00
+Southern Europe GT Championship,Kansai_GP,Japan Speciale,9,2,FALSE,time,120,
+Southern Europe GT Championship,Monza_2005,Monza Euro Race,10,1,FALSE,time,120,16:00
+Southern Europe GT Championship,Cascais_Alternate,Estoril Sprint,11,1,FALSE,laps,20,09:00
