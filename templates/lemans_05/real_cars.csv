@@ -1,0 +1,267 @@
+team_name,category,model,livery,championship_names,livery_id,model_folder
+Scuderia Ecosse,GT2_05,Milano GT36,Milano GT36 #12,British GT Championship,51,milano_gt36
+Cirtek Motorsport,GT2_05,Milano GT36,Milano GT36 #17,British GT Championship,52,milano_gt36
+JMB Racing,GT2_05,Milano GT36,Milano GT36 #20,British GT Championship,53,milano_gt36
+GPC Sport,GT2_05,Milano GT36,Milano GT36 #25,British GT Championship,54,milano_gt36
+Cirtek Motorsport,GT2_05,Milano GT36,Milano GT36 #31,British GT Championship,55,milano_gt36
+JMB Racing,GT2_05,Milano GT36,Milano GT36 #43,British GT Championship,56,milano_gt36
+GPC Sport,GT2_05,Milano GT36,Milano GT36 #51,British GT Championship,57,milano_gt36
+JMB Racing,GT2_05,Milano GT36,Milano GT36 #64,British GT Championship,58,milano_gt36
+Seikel Motorsport,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #1,British GT Championship,51,porsche_996_gt3rsr
+Sebah Automotive,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #2,British GT Championship,52,porsche_996_gt3rsr
+Jens Petersen Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #11,British GT Championship,53,porsche_996_gt3rsr
+James Watt Automotive,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #40,British GT Championship,54,porsche_996_gt3rsr
+Noble Group,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #52,British GT Championship,55,porsche_996_gt3rsr
+Gruppe M Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #61,British GT Championship,56,porsche_996_gt3rsr
+Sebah Automotive,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #66,British GT Championship,57,porsche_996_gt3rsr
+Bernard Jubin,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #71,British GT Championship,58,porsche_996_gt3rsr
+T2M Motorsport,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #85,British GT Championship,59,porsche_996_gt3rsr
+In2Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #115,British GT Championship,60,porsche_996_gt3rsr
+Tech 9 Motorsport,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #121,British GT Championship,61,porsche_996_gt3rsr
+Ice Pol Racing Team,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #155,British GT Championship,62,porsche_996_gt3rsr
+Team LNT,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #5,British GT Championship,51,tvr_tuscan_t400r_gt2
+RaceSport,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #6,British GT Championship,52,tvr_tuscan_t400r_gt2
+RaceSport,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #7,British GT Championship,53,tvr_tuscan_t400r_gt2
+RaceSport,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #8,British GT Championship,54,tvr_tuscan_t400r_gt2
+De Radigues,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #3,Speed World Challenge,51,dodge_viper_gts_r
+De Radigues,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #9,Speed World Challenge,52,dodge_viper_gts_r
+Pratt & Miller,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #12,Speed World Challenge,53,dodge_viper_gts_r
+Pratt & Miller,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #32,Speed World Challenge,54,dodge_viper_gts_r
+ACEMCO Motorsports,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #36,Speed World Challenge,55,dodge_viper_gts_r
+De Radigues,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #40,Speed World Challenge,56,dodge_viper_gts_r
+GLPK Carsport,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #2,Speed World Challenge,51,corvette_c5r
+Pacific Coast Motorsports,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #5,Speed World Challenge,52,corvette_c5r
+Selleslagh Racing Team,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #7,Speed World Challenge,53,corvette_c5r
+GLPK Carsport,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #50,Speed World Challenge,54,corvette_c5r
+Pratt & Miller,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #63,Speed World Challenge,55,corvette_c5r
+Pratt & Miller,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #70,Speed World Challenge,56,corvette_c5r
+Selleslagh Racing Team,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #71,Speed World Challenge,57,corvette_c5r
+Selleslagh Racing Team,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #73,Speed World Challenge,58,corvette_c5r
+RAM Racing Team,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #90,Speed World Challenge,51,saleen_s7r_gt1
+Graham Nash Motorsport,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #91,Speed World Challenge,52,saleen_s7r_gt1
+Graham Nash Motorsport,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #92,Speed World Challenge,53,saleen_s7r_gt1
+Konrad Motorsport,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #93,Speed World Challenge,54,saleen_s7r_gt1
+Graham Nash Motorsport,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #94,Speed World Challenge,55,saleen_s7r_gt1
+ACEMCO Motorsports,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #95,Speed World Challenge,56,saleen_s7r_gt1
+Flying Lizard Motorsports,GT2_05,Milano GT36,Milano GT36 #12,Rolex Sports Car Series,51,milano_gt36
+Flying Lizard Motorsports,GT2_05,Milano GT36,Milano GT36 #17,Rolex Sports Car Series,52,milano_gt36
+J3 Racing,GT2_05,Milano GT36,Milano GT36 #20,Rolex Sports Car Series,53,milano_gt36
+J3 Racing,GT2_05,Milano GT36,Milano GT36 #25,Rolex Sports Car Series,54,milano_gt36
+ZIP Racing,GT2_05,Milano GT36,Milano GT36 #31,Rolex Sports Car Series,55,milano_gt36
+The Racers Group,GT2_05,Milano GT36,Milano GT36 #43,Rolex Sports Car Series,56,milano_gt36
+The Racers Group,GT2_05,Milano GT36,Milano GT36 #51,Rolex Sports Car Series,57,milano_gt36
+In2Racing,GT2_05,Milano GT36,Milano GT36 #64,Rolex Sports Car Series,58,milano_gt36
+Alex Job Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #1,Rolex Sports Car Series,51,porsche_996_gt3rsr
+Petersen / White Lightning,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #2,Rolex Sports Car Series,52,porsche_996_gt3rsr
+British American Motorsport,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #11,Rolex Sports Car Series,53,porsche_996_gt3rsr
+Flying Lizard Motorsports,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #40,Rolex Sports Car Series,54,porsche_996_gt3rsr
+Flying Lizard Motorsports,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #52,Rolex Sports Car Series,55,porsche_996_gt3rsr
+J3 Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #61,Rolex Sports Car Series,56,porsche_996_gt3rsr
+Alex Job Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #66,Rolex Sports Car Series,57,porsche_996_gt3rsr
+ZIP Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #71,Rolex Sports Car Series,58,porsche_996_gt3rsr
+The Racers Group,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #85,Rolex Sports Car Series,59,porsche_996_gt3rsr
+The Racers Group,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #115,Rolex Sports Car Series,60,porsche_996_gt3rsr
+J3 Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #121,Rolex Sports Car Series,61,porsche_996_gt3rsr
+Alex Job Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #155,Rolex Sports Car Series,62,porsche_996_gt3rsr
+Duller Motorsport,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #01,Rolex Sports Car Series,51,bmw_m3_gtr
+Team Schnitzer,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #02,Rolex Sports Car Series,52,bmw_m3_gtr
+Team Schnitzer,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #21,Rolex Sports Car Series,53,bmw_m3_gtr
+Scuderia Augustusburg BrÃ¼hl,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #23,Rolex Sports Car Series,54,bmw_m3_gtr
+Team Michael Tischner,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #43,Rolex Sports Car Series,55,bmw_m3_gtr
+Schirmer Motorsport,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #48,Rolex Sports Car Series,56,bmw_m3_gtr
+Team Arnd Meyer,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #58,Rolex Sports Car Series,57,bmw_m3_gtr
+Ring Racing,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #64,Rolex Sports Car Series,58,bmw_m3_gtr
+Kruse Motorsport,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #66,Rolex Sports Car Series,59,bmw_m3_gtr
+Moore International Motorsport,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #68,Rolex Sports Car Series,60,bmw_m3_gtr
+Team Schnitzer,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #01,BFGoodrich Langstreckenmeisterschaft,51,bmw_m3_gtr
+Team Schnitzer,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #02,BFGoodrich Langstreckenmeisterschaft,52,bmw_m3_gtr
+Scuderia Augustusburg BrÃ¼hl,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #21,BFGoodrich Langstreckenmeisterschaft,53,bmw_m3_gtr
+Team Michael Tischner,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #23,BFGoodrich Langstreckenmeisterschaft,54,bmw_m3_gtr
+Schirmer Motorsport,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #43,BFGoodrich Langstreckenmeisterschaft,55,bmw_m3_gtr
+Team Arnd Meyer,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #48,BFGoodrich Langstreckenmeisterschaft,56,bmw_m3_gtr
+Ring Racing,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #58,BFGoodrich Langstreckenmeisterschaft,57,bmw_m3_gtr
+Kruse Motorsport,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #64,BFGoodrich Langstreckenmeisterschaft,58,bmw_m3_gtr
+Moore International Motorsport,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #66,BFGoodrich Langstreckenmeisterschaft,59,bmw_m3_gtr
+DÃ¶rr Motorsport,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #68,BFGoodrich Langstreckenmeisterschaft,60,bmw_m3_gtr
+DÃ¶rr Motorsport,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #75,BFGoodrich Langstreckenmeisterschaft,61,bmw_m3_gtr
+Duller Motorsport,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #98,BFGoodrich Langstreckenmeisterschaft,62,bmw_m3_gtr
+steam-racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #1,BFGoodrich Langstreckenmeisterschaft,51,porsche_996_gt3rsr
+steam-racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #2,BFGoodrich Langstreckenmeisterschaft,52,porsche_996_gt3rsr
+Morin Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #11,BFGoodrich Langstreckenmeisterschaft,53,porsche_996_gt3rsr
+Car Collection,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #40,BFGoodrich Langstreckenmeisterschaft,54,porsche_996_gt3rsr
+Messer Motorsport,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #52,BFGoodrich Langstreckenmeisterschaft,55,porsche_996_gt3rsr
+Team Stefan Beil,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #61,BFGoodrich Langstreckenmeisterschaft,56,porsche_996_gt3rsr
+Captain Racing Team,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #66,BFGoodrich Langstreckenmeisterschaft,57,porsche_996_gt3rsr
+Mamerow Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #71,BFGoodrich Langstreckenmeisterschaft,58,porsche_996_gt3rsr
+Bonk Motorsport,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #85,BFGoodrich Langstreckenmeisterschaft,59,porsche_996_gt3rsr
+Team Uwe Reich,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #115,BFGoodrich Langstreckenmeisterschaft,60,porsche_996_gt3rsr
+Team Destree / Jodexnis,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #121,BFGoodrich Langstreckenmeisterschaft,61,porsche_996_gt3rsr
+Land Motorsport,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #155,BFGoodrich Langstreckenmeisterschaft,62,porsche_996_gt3rsr
+Zakspeed Racing,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #3,BFGoodrich Langstreckenmeisterschaft,51,dodge_viper_gts_r
+Zakspeed Racing,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #9,BFGoodrich Langstreckenmeisterschaft,52,dodge_viper_gts_r
+Zakspeed Racing,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #12,BFGoodrich Langstreckenmeisterschaft,53,dodge_viper_gts_r
+Zakspeed Racing,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #32,BFGoodrich Langstreckenmeisterschaft,54,dodge_viper_gts_r
+De Radigues,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #36,BFGoodrich Langstreckenmeisterschaft,55,dodge_viper_gts_r
+Zakspeed Racing,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #40,BFGoodrich Langstreckenmeisterschaft,56,dodge_viper_gts_r
+Konrad Motorsport,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #90,FIA GT Championship,51,saleen_s7r_gt1
+Konrad Motorsport,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #91,FIA GT Championship,52,saleen_s7r_gt1
+GLPK Carsport,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #71,FIA GT Championship,57,corvette_c5r
+Selleslagh Racing Team,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #73,FIA GT Championship,58,corvette_c5r
+Bartels Motor&Sport,GT1_05,Maserati MC12 GT1,Maserati MC12 GT1 #61,FIA GT Championship,53,maserati_mc12_gt1
+Bartels Motor&Sport,GT1_05,Maserati MC12 GT1,Maserati MC12 GT1 #66,FIA GT Championship,54,maserati_mc12_gt1
+JMB Racing,GT1_05,Maserati MC12 GT1,Maserati MC12 GT1 #72,FIA GT Championship,55,maserati_mc12_gt1
+JMB Racing,GT1_05,Maserati MC12 GT1,Maserati MC12 GT1 #86,FIA GT Championship,56,maserati_mc12_gt1
+GPC Sport,GT1_05,Milano GT55,Milano GT55 #15,FIA GT Championship,55,milano_gt55
+GPC Sport,GT1_05,Milano GT55,Milano GT55 #55,FIA GT Championship,56,milano_gt55
+Reiter Engineering,GT1_05,Lamborghini Murcielago R-GT,Lamborghini Murcielago R-GT #42,FIA GT Championship,55,lamborghini_murcielago_r_gt
+Reiter Engineering,GT1_05,Lamborghini Murcielago R-GT,Lamborghini Murcielago R-GT #45,FIA GT Championship,56,lamborghini_murcielago_r_gt
+Lister Racing,GT1_05,Lister Storm GTM,Lister Storm GTM #20,FIA GT Championship,55,lister_storm_gtm
+Lister Racing,GT1_05,Lister Storm GTM,Lister Storm GTM #21,FIA GT Championship,56,lister_storm_gtm
+Prodrive,GT1_05,Aston Martin DBR9,Aston Martin DBR9 #62,FIA GT Championship,55,aston_martin_dbr9_gt1
+Russian Age Racing,GT1_05,Aston Martin DBR9,Aston Martin DBR9 #64,FIA GT Championship,56,aston_martin_dbr9_gt1
+Vonka Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #66,FIA GT Championship,57,porsche_996_gt3rsr
+Gruppe M Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #71,FIA GT Championship,58,porsche_996_gt3rsr
+GPC Sport,GT2_05,Milano GT36,Milano GT36 #12,FIA GT Championship,51,milano_gt36
+Cirtek Motorsport,GT2_05,Milano GT36,Milano GT36 #17,FIA GT Championship,52,milano_gt36
+JMB Racing,GT2_05,Milano GT36,Milano GT36 #20,FIA GT Championship,53,milano_gt36
+Scuderia Ecosse,GT2_05,Milano GT36,Milano GT36 #25,FIA GT Championship,54,milano_gt36
+Scuderia Ecosse,GT2_05,Milano GT36,Milano GT36 #31,FIA GT Championship,55,milano_gt36
+GPC Sport,GT2_05,Milano GT36,Milano GT36 #43,FIA GT Championship,56,milano_gt36
+Team LNT,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #7,FIA GT Championship,53,tvr_tuscan_t400r_gt2
+RaceSport,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #8,FIA GT Championship,54,tvr_tuscan_t400r_gt2
+Champion Racing,LMP1_05,Audi R8 LMP1,Audi R8 LMP1 #9,American Le Mans Series,55,audi_r8_lmp
+Champion Racing,LMP1_05,Audi R8 LMP1,Audi R8 LMP1 #10,American Le Mans Series,56,audi_r8_lmp
+Champion Racing,LMP1_05,Audi R8 LMP1,Audi R8 LMP1 #12,American Le Mans Series,57,audi_r8_lmp
+Champion Racing,LMP1_05,Audi R8 LMP1,Audi R8 LMP1 #88,American Le Mans Series,58,audi_r8_lmp
+Rollcentre Racing,LMP1_05,Dallara SP1,Dallara SP1 #20,American Le Mans Series,55,dallara_sp1
+Rollcentre Racing,LMP1_05,Dallara SP1,Dallara SP1 #27,American Le Mans Series,56,dallara_sp1
+Rollcentre Racing,LMP1_05,Dallara SP1,Dallara SP1 #33,American Le Mans Series,57,dallara_sp1
+Rollcentre Racing,LMP1_05,Dallara SP1,Dallara SP1 #46,American Le Mans Series,58,dallara_sp1
+Binnie Motorsports,LMP2_05,Lola B05/40 Turbo,Lola B05/40 Turbo #55,American Le Mans Series,55,lola_b0540_lmp2
+Horag Racing,LMP2_05,Lola B05/40 Turbo,Lola B05/40 Turbo #56,American Le Mans Series,56,lola_b0540_lmp2
+Intersport Racing,LMP2_05,Lola B05/40 Turbo,Lola B05/40 Turbo #57,American Le Mans Series,57,lola_b0540_lmp2
+Van der Steur Racing,LMP2_05,Lola B05/40 Turbo,Lola B05/40 Turbo #58,American Le Mans Series,58,lola_b0540_lmp2
+Binnie Motorsports,LMP2_05,Lola B05/40 V8,Lola B05/40 V8 #93,American Le Mans Series,55,lola_b0540_lmp2
+Intersport Racing,LMP2_05,Lola B05/40 V8,Lola B05/40 V8 #94,American Le Mans Series,56,lola_b0540_lmp2
+BAT Competition,LMP2_05,Lola B05/40 V8,Lola B05/40 V8 #95,American Le Mans Series,57,lola_b0540_lmp2
+Intersport Racing,LMP2_05,Lola B05/40 V8,Lola B05/40 V8 #96,American Le Mans Series,58,lola_b0540_lmp2
+Pacific Coast Motorsports,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #2,American Le Mans Series,51,corvette_c5r
+Pacific Coast Motorsports,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #5,American Le Mans Series,52,corvette_c5r
+Pratt & Miller,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #63,American Le Mans Series,55,corvette_c5r
+Pratt & Miller,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #70,American Le Mans Series,56,corvette_c5r
+Risi Competizione,GT1_05,Maserati MC12 GT1,Maserati MC12 GT1 #1,American Le Mans Series,51,maserati_mc12_gt1
+Risi Competizione,GT1_05,Maserati MC12 GT1,Maserati MC12 GT1 #33,American Le Mans Series,52,maserati_mc12_gt1
+Aston Martin Racing,GT1_05,Aston Martin DBR9,Aston Martin DBR9 #57,American Le Mans Series,51,aston_martin_dbr9_gt1
+Aston Martin Racing,GT1_05,Aston Martin DBR9,Aston Martin DBR9 #58,American Le Mans Series,52,aston_martin_dbr9_gt1
+ACEMCO Motorsports,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #90,American Le Mans Series,51,saleen_s7r_gt1
+Graham Nash Motorsport,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #91,American Le Mans Series,52,saleen_s7r_gt1
+Larbre Compétition,GT1_05,Milano GT55,Milano GT55 #11,American Le Mans Series,53,milano_gt55
+JMB Racing,GT1_05,Milano GT55,Milano GT55 #13,American Le Mans Series,54,milano_gt55
+Carsport America,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #3,American Le Mans Series,51,dodge_viper_gts_r
+Carsport America,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #9,American Le Mans Series,52,dodge_viper_gts_r
+Carsport America,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #12,American Le Mans Series,53,dodge_viper_gts_r
+Paul Belmondo Racing,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #32,American Le Mans Series,54,dodge_viper_gts_r
+Alex Job Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #1,American Le Mans Series,51,porsche_996_gt3rsr
+Alex Job Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #2,American Le Mans Series,52,porsche_996_gt3rsr
+Petersen / White Lightning,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #11,American Le Mans Series,53,porsche_996_gt3rsr
+British American Motorsport,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #40,American Le Mans Series,54,porsche_996_gt3rsr
+Team LNT,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #5,American Le Mans Series,51,tvr_tuscan_t400r_gt2
+Team LNT,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #6,American Le Mans Series,52,tvr_tuscan_t400r_gt2
+Team LNT,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #7,American Le Mans Series,53,tvr_tuscan_t400r_gt2
+Team LNT,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #8,American Le Mans Series,54,tvr_tuscan_t400r_gt2
+Spyker Squadron,GT2_05,Spyker C8 Spyder GT2-R,Spyker C8 Spyder GT2-R #86,American Le Mans Series,51,spyker_c8_spyder_gt2r
+Spyker Squadron,GT2_05,Spyker C8 Spyder GT2-R,Spyker C8 Spyder GT2-R #87,American Le Mans Series,52,spyker_c8_spyder_gt2r
+Spyker Squadron,GT2_05,Spyker C8 Spyder GT2-R,Spyker C8 Spyder GT2-R #88,American Le Mans Series,53,spyker_c8_spyder_gt2r
+Spyker Squadron,GT2_05,Spyker C8 Spyder GT2-R,Spyker C8 Spyder GT2-R #89,American Le Mans Series,54,spyker_c8_spyder_gt2r
+Panoz Motorsports,GT2_05,Panoz Esperante GTLM,Panoz Esperante GTLM #21,American Le Mans Series,51,panoz_esperante_gtlm
+Panoz Motorsports,GT2_05,Panoz Esperante GTLM,Panoz Esperante GTLM #22,American Le Mans Series,52,panoz_esperante_gtlm
+Panoz Motorsports,GT2_05,Panoz Esperante GTLM,Panoz Esperante GTLM #78,American Le Mans Series,53,panoz_esperante_gtlm
+Panoz Motorsports,GT2_05,Panoz Esperante GTLM,Panoz Esperante GTLM #81,American Le Mans Series,54,panoz_esperante_gtlm
+Team Oreca,LMP1_05,Audi R8 LMP1,Audi R8 LMP1 #2,Le Mans Endurance Series,51,audi_r8_lmp
+Team Oreca,LMP1_05,Audi R8 LMP1,Audi R8 LMP1 #3,Le Mans Endurance Series,52,audi_r8_lmp
+Team Oreca,LMP1_05,Audi R8 LMP1,Audi R8 LMP1 #4,Le Mans Endurance Series,53,audi_r8_lmp
+Champion Racing,LMP1_05,Audi R8 LMP1,Audi R8 LMP1 #5,Le Mans Endurance Series,54,audi_r8_lmp
+Courage Competition,LMP1_05,Courage C60 Hybrid,Courage C60 Hybrid #00,Le Mans Endurance Series,51,courage_c60
+Courage Competition,LMP1_05,Courage C60 Hybrid,Courage C60 Hybrid #5,Le Mans Endurance Series,52,courage_c60
+Courage Competition,LMP1_05,Courage C60 Hybrid,Courage C60 Hybrid #12,Le Mans Endurance Series,53,courage_c60
+Pescarolo Sport,LMP1_05,Courage C60 Hybrid,Courage C60 Hybrid #16,Le Mans Endurance Series,54,courage_c60
+Rollcentre Racing,LMP1_05,Dallara SP1,Dallara SP1 #6,Le Mans Endurance Series,51,dallara_sp1
+Rollcentre Racing,LMP1_05,Dallara SP1,Dallara SP1 #7,Le Mans Endurance Series,52,dallara_sp1
+Chamberlain Synergy Motorsport,LMP2_05,Lola B05/40 Turbo,Lola B05/40 Turbo #39,Le Mans Endurance Series,51,lola_b0540_lmp2
+Horag Racing,LMP2_05,Lola B05/40 Turbo,Lola B05/40 Turbo #40,Le Mans Endurance Series,52,lola_b0540_lmp2
+Binnie Motorsports,LMP2_05,Lola B05/40 Turbo,Lola B05/40 Turbo #44,Le Mans Endurance Series,53,lola_b0540_lmp2
+Chamberlain Synergy Motorsport,LMP2_05,Lola B05/40 Turbo,Lola B05/40 Turbo #52,Le Mans Endurance Series,54,lola_b0540_lmp2
+Horag Racing,LMP2_05,Lola B05/40 Turbo,Lola B05/40 Turbo #55,Le Mans Endurance Series,55,lola_b0540_lmp2
+Binnie Motorsports,LMP2_05,Lola B05/40 Turbo,Lola B05/40 Turbo #56,Le Mans Endurance Series,56,lola_b0540_lmp2
+Chamberlain Synergy Motorsport,LMP2_05,Lola B05/40 V8,Lola B05/40 V8 #89,Le Mans Endurance Series,51,lola_b0540_lmp2
+Binnie Motorsports,LMP2_05,Lola B05/40 V8,Lola B05/40 V8 #90,Le Mans Endurance Series,52,lola_b0540_lmp2
+Horag Racing,LMP2_05,Lola B05/40 V8,Lola B05/40 V8 #91,Le Mans Endurance Series,53,lola_b0540_lmp2
+Intersport Racing,LMP2_05,Lola B05/40 V8,Lola B05/40 V8 #92,Le Mans Endurance Series,54,lola_b0540_lmp2
+Paul Belmondo Racing,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #9,Le Mans Endurance Series,51,dodge_viper_gts_r
+Paul Belmondo Racing,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #3,Le Mans Endurance Series,52,dodge_viper_gts_r
+Graham Nash Motorsport,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #90,Le Mans Endurance Series,51,saleen_s7r_gt1
+Graham Nash Motorsport,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #91,Le Mans Endurance Series,52,saleen_s7r_gt1
+BMS Scuderia Italia,GT1_05,Milano GT55,Milano GT55 #4,Le Mans Endurance Series,51,milano_gt55
+BMS Scuderia Italia,GT1_05,Milano GT55,Milano GT55 #6,Le Mans Endurance Series,52,milano_gt55
+Convers Team,GT1_05,Milano GT55,Milano GT55 #11,Le Mans Endurance Series,53,milano_gt55
+MenX,GT1_05,Milano GT55,Milano GT55 #13,Le Mans Endurance Series,54,milano_gt55
+Scuderia Ecosse,GT2_05,Milano GT36,Milano GT36 #12,Le Mans Endurance Series,51,milano_gt36
+GPC Sport,GT2_05,Milano GT36,Milano GT36 #17,Le Mans Endurance Series,52,milano_gt36
+Team LNT,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #5,Le Mans Endurance Series,51,tvr_tuscan_t400r_gt2
+RaceSport,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #6,Le Mans Endurance Series,52,tvr_tuscan_t400r_gt2
+Spyker Squadron,GT2_05,Spyker C8 Spyder GT2-R,Spyker C8 Spyder GT2-R #86,Le Mans Endurance Series,51,spyker_c8_spyder_gt2r
+Spyker Squadron,GT2_05,Spyker C8 Spyder GT2-R,Spyker C8 Spyder GT2-R #87,Le Mans Endurance Series,52,spyker_c8_spyder_gt2r
+Ice Pol Racing Team,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #71,Le Mans Endurance Series,58,porsche_996_gt3rsr
+Autorlando Sport,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #85,Le Mans Endurance Series,59,porsche_996_gt3rsr
+Belgian Racing,GTR_04,Gillet Vertigo Streiff,Gillet Vertigo Streiff #100,Northern Europe GT Championship,51,gillet_vertigo_streiff_gt2
+Belgian Racing,GTR_04,Gillet Vertigo Streiff,Gillet Vertigo Streiff #101,Northern Europe GT Championship,52,gillet_vertigo_streiff_gt2
+Belgian Racing,GTR_04,Gillet Vertigo Streiff,Gillet Vertigo Streiff #102,Northern Europe GT Championship,53,gillet_vertigo_streiff_gt2
+Belgian Racing,GTR_04,Gillet Vertigo Streiff,Gillet Vertigo Streiff #103,Northern Europe GT Championship,54,gillet_vertigo_streiff_gt2
+DÃ¶rr Motorsport,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #75,Northern Europe GT Championship,61,bmw_m3_gtr
+DÃ¶rr Motorsport,GTR_04,BMW M3 E46 GTR,BMW M3 E46 GTR #98,Northern Europe GT Championship,62,bmw_m3_gtr
+Lister Racing,GT1_05,Lister Storm GTM,Lister Storm GTM #14,Northern Europe GT Championship,51,lister_storm_gtm
+Larbre Compétition,GT1_05,Lister Storm GTM,Lister Storm GTM #16,Northern Europe GT Championship,52,lister_storm_gtm
+Russian Age Racing,GT1_05,Lister Storm GTM,Lister Storm GTM #18,Northern Europe GT Championship,53,lister_storm_gtm
+Wieth Racing,GT1_05,Lister Storm GTM,Lister Storm GTM #19,Northern Europe GT Championship,54,lister_storm_gtm
+Prodrive,GT1_05,Aston Martin DBR9,Aston Martin DBR9 #57,Northern Europe GT Championship,51,aston_martin_dbr9_gt1
+Convers Team,GT1_05,Aston Martin DBR9,Aston Martin DBR9 #58,Northern Europe GT Championship,52,aston_martin_dbr9_gt1
+Rock Media Motors,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #2,Northern Europe GT Championship,51,corvette_c5r
+GPC Sport,GT1_05,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R #5,Northern Europe GT Championship,52,corvette_c5r
+Paul Belmondo Racing,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #12,Northern Europe GT Championship,53,dodge_viper_gts_r
+Bartels Motor&Sport,GT1_05,Dodge Viper GTS-R,Dodge Viper GTS-R #32,Northern Europe GT Championship,54,dodge_viper_gts_r
+Renauer Motorsport,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #1,Northern Europe GT Championship,51,porsche_996_gt3rsr
+AB Motorsport,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #2,Northern Europe GT Championship,52,porsche_996_gt3rsr
+Autorlando Sport,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #11,Northern Europe GT Championship,53,porsche_996_gt3rsr
+Noble Group,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #40,Northern Europe GT Championship,54,porsche_996_gt3rsr
+Machanek Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #52,Northern Europe GT Championship,55,porsche_996_gt3rsr
+Machanek Racing,GT2_05,Porsche 996 GT3 RSR,Porsche 996 GT3 RSR #61,Northern Europe GT Championship,56,porsche_996_gt3rsr
+Team LNT,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #5,Northern Europe GT Championship,51,tvr_tuscan_t400r_gt2
+JVG Racing,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #6,Northern Europe GT Championship,52,tvr_tuscan_t400r_gt2
+Team Eurotech,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #7,Northern Europe GT Championship,53,tvr_tuscan_t400r_gt2
+Team Eurotech,GT2_05,TVR Tuscan T400R GT2,TVR Tuscan T400R GT2 #8,Northern Europe GT Championship,54,tvr_tuscan_t400r_gt2
+JLOC,GT1_05,Lamborghini Murcielago R-GT,Lamborghini Murcielago R-GT #10,Southern Europe GT Championship,51,lamborghini_murcielago_r_gt
+Reiter Engineering,GT1_05,Lamborghini Murcielago R-GT,Lamborghini Murcielago R-GT #25,Southern Europe GT Championship,52,lamborghini_murcielago_r_gt
+JMB Racing,GT1_05,Maserati MC12 GT1,Maserati MC12 GT1 #1,Southern Europe GT Championship,51,maserati_mc12_gt1
+Bartels Motor&Sport,GT1_05,Maserati MC12 GT1,Maserati MC12 GT1 #33,Southern Europe GT Championship,52,maserati_mc12_gt1
+Larbre Compétition,GT1_05,Milano GT55,Milano GT55 #4,Southern Europe GT Championship,51,milano_gt55
+Russian Age Racing,GT1_05,Milano GT55,Milano GT55 #6,Southern Europe GT Championship,52,milano_gt55
+Larbre Compétition,GT1_05,Milano GT55,Milano GT55 #11,Southern Europe GT Championship,53,milano_gt55
+GPC Sport,GT1_05,Milano GT55,Milano GT55 #13,Southern Europe GT Championship,54,milano_gt55
+RAM Racing Team,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #90,Southern Europe GT Championship,51,saleen_s7r_gt1
+Konrad Motorsport,GT1_05,Saleen S7-R GT1,Saleen S7-R GT1 #91,Southern Europe GT Championship,52,saleen_s7r_gt1
+GPC Sport,GT2_05,Milano GT36,Milano GT36 #12,Southern Europe GT Championship,51,milano_gt36
+JMB Racing,GT2_05,Milano GT36,Milano GT36 #17,Southern Europe GT Championship,52,milano_gt36
+GPC Sport,GT2_05,Milano GT36,Milano GT36 #20,Southern Europe GT Championship,53,milano_gt36
+GPC Sport,GT2_05,Milano GT36,Milano GT36 #25,Southern Europe GT Championship,54,milano_gt36
+Spyker Squadron,GT2_05,Spyker C8 Spyder GT2-R,Spyker C8 Spyder GT2-R #86,Southern Europe GT Championship,51,spyker_c8_spyder_gt2r
+Spyker Squadron,GT2_05,Spyker C8 Spyder GT2-R,Spyker C8 Spyder GT2-R #87,Southern Europe GT Championship,52,spyker_c8_spyder_gt2r
+Spyker Squadron,GT2_05,Spyker C8 Spyder GT2-R,Spyker C8 Spyder GT2-R #88,Southern Europe GT Championship,53,spyker_c8_spyder_gt2r
+Proton Competition,GT2_05,Spyker C8 Spyder GT2-R,Spyker C8 Spyder GT2-R #89,Southern Europe GT Championship,54,spyker_c8_spyder_gt2r
+Ebimotors,GT2_05,Panoz Esperante GTLM,Panoz Esperante GTLM #21,Southern Europe GT Championship,51,panoz_esperante_gtlm
+Balfe Motorsport,GT2_05,Panoz Esperante GTLM,Panoz Esperante GTLM #22,Southern Europe GT Championship,52,panoz_esperante_gtlm
+Scuderia Giudici,Trofeo_2005,Maserati GranSport Trofeo,Maserati GranSport Trofeo #00,Southern Europe GT Championship,51,maserati_gransport_trofeo
+Scuderia Giudici,Trofeo_2005,Maserati GranSport Trofeo,Maserati GranSport Trofeo #1,Southern Europe GT Championship,52,maserati_gransport_trofeo
+Scuderia Giudici,Trofeo_2005,Maserati GranSport Trofeo,Maserati GranSport Trofeo #7,Southern Europe GT Championship,53,maserati_gransport_trofeo
+ARC Bratislava,Trofeo_2005,Maserati GranSport Trofeo,Maserati GranSport Trofeo #14,Southern Europe GT Championship,54,maserati_gransport_trofeo
+Lammertink Racing,Trofeo_2005,Maserati GranSport Trofeo,Maserati GranSport Trofeo #20,Southern Europe GT Championship,55,maserati_gransport_trofeo
+Embassy Racing,Trofeo_2005,Maserati GranSport Trofeo,Maserati GranSport Trofeo #23,Southern Europe GT Championship,56,maserati_gransport_trofeo

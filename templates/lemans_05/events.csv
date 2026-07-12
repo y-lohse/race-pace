@@ -47,14 +47,14 @@ Speed World Challenge,Mosport,Grand Prix of Mosport Support,9,1,FALSE,laps,27,
 Speed World Challenge,Road_Atlanta_2005,Petit Le Mans Support,10,1,FALSE,laps,25,
 Speed World Challenge,Laguna_Seca_2020,Monterey Sports Car Championships Support,10,3,FALSE,laps,20,
 British GT Championship,Donington_GP,Donington Park,4,1,FALSE,time,120,
-British GT Championship,OultonPark_International,Oulton Park Race 1,5,1,TRUE,time,60,16:00
-British GT Championship,OultonPark_International,Oulton Park Race 2,5,1,TRUE,time,60,14:00
+British GT Championship,OultonPark_International,Oulton Park Race 1,5,1,TRUE,time,60,14:00
+British GT Championship,OultonPark_International,Oulton Park Race 2,5,1,TRUE,time,60,16:00
 British GT Championship,Snetterton_200,Snetterton 200,6,3,FALSE,time,60,13:00
 British GT Championship,Spa_Francorchamps_2005,1000 km of Spa,7,2,FALSE,time,120,
 British GT Championship,Silverstone_2001,1000 km of Silverstone,8,2,FALSE,time,120,13:00
 British GT Championship,BrandsHatch_GP,Brands Hatch,9,3,FALSE,time,120,
-British GT Championship,Silverstone_2001_International,Silverstone Sprint 1,10,2,TRUE,time,60,16:00
-British GT Championship,Silverstone_2001_International,Silverstone Sprint 2,10,2,TRUE,time,60,
+British GT Championship,Silverstone_2001_International,Silverstone Sprint 1,10,2,TRUE,time,60,14:00
+British GT Championship,Silverstone_2001_International,Silverstone Sprint 2,10,2,TRUE,time,60,16:00
 Rolex Sports Car Series,Daytona_Road_Course,Rolex 24 At Daytona,2,1,TRUE,time,1440,12:00
 Rolex Sports Car Series,Road_America_RC,Rolex Sports Car Series 250,3,2,FALSE,time,120,11:00
 Rolex Sports Car Series,Fontana_SCC,Ferrari Maserati 400,4,1,FALSE,laps,89,13:00
