@@ -1,0 +1,267 @@
+name,surname,championship_name,category,team_name,end_year,expected_standing,team_loyalty,country,dob,elo,race_skill,qualifying_skill,aggression,defending,stamina,consistency,start_reactions,wet_skill,tyre_management,fuel_management,blue_flag_conceding,weather_tyre_changes,avoidance_of_mistakes,avoidance_of_forced_mistakes,setup_downforce,setup_downforce_randomness
+Stephane,Ortelli,Le Mans Endurance Series,LMP1_05,Team Oreca,2005,1,0.82,FRA,1970/03/30,1871,0.81,0.82,0.70,0.77,0.85,0.82,0.77,0.80,0.82,0.83,0.75,0.78,0.82,0.81,0.70,0.10
+Allan,McNish,Le Mans Endurance Series,LMP1_05,Team Oreca,2005,2,0.82,GBR,1968/01/01,1869,0.81,0.82,0.70,0.77,0.85,0.82,0.77,0.80,0.82,0.83,0.74,0.78,0.82,0.81,0.70,0.11
+Jean-Marc,Gounon,Le Mans Endurance Series,LMP1_05,Team Oreca,2005,3,0.81,FRA,1966/01/01,1865,0.80,0.81,0.69,0.76,0.84,0.81,0.76,0.78,0.81,0.82,0.73,0.77,0.81,0.80,0.70,0.12
+Jyrki,Jarvi Lehto,Le Mans Endurance Series,LMP1_05,Champion Racing,2005,4,0.81,FIN,1966/01/31,1875,0.82,0.83,0.69,0.78,0.86,0.83,0.78,0.82,0.83,0.84,0.80,0.79,0.83,0.82,0.70,0.08
+Alexander,Frei,Le Mans Endurance Series,LMP1_05,Courage Competition,2005,5,0.80,CHE,1954/06/20,1868,0.80,0.81,0.69,0.77,0.84,0.81,0.76,0.80,0.82,0.83,0.76,0.78,0.82,0.80,0.70,0.10
+Christian,Vann,Le Mans Endurance Series,LMP1_05,Courage Competition,2005,6,0.80,GBR,1974/08/05,1865,0.80,0.81,0.68,0.76,0.84,0.81,0.76,0.79,0.81,0.82,0.75,0.77,0.81,0.80,0.70,0.10
+Jonathan,Cochet,Le Mans Endurance Series,LMP1_05,Courage Competition,2005,7,0.80,FRA,1976/04/01,1863,0.79,0.80,0.68,0.76,0.83,0.80,0.75,0.78,0.81,0.82,0.74,0.77,0.81,0.79,0.70,0.11
+Emmanuel,Collard,Le Mans Endurance Series,LMP1_05,Pescarolo Sport,2005,8,0.79,FRA,1971/04/03,1864,0.80,0.80,0.68,0.76,0.84,0.81,0.76,0.79,0.81,0.82,0.76,0.77,0.81,0.80,0.70,0.10
+Martin,Short,Le Mans Endurance Series,LMP1_05,Rollcentre Racing,2005,9,0.79,GBR,1959/03/20,1863,0.79,0.80,0.67,0.76,0.83,0.80,0.75,0.79,0.81,0.82,0.76,0.77,0.81,0.79,0.70,0.10
+Bruce,Jouanny,Le Mans Endurance Series,LMP1_05,Rollcentre Racing,2005,10,0.78,FRA,1978/06/11,1859,0.79,0.79,0.67,0.75,0.83,0.80,0.75,0.78,0.80,0.81,0.74,0.76,0.80,0.79,0.70,0.11
+Gareth,Evans,Le Mans Endurance Series,LMP2_05,Chamberlain Synergy Motorsport,2005,11,0.78,GBR,1959/03/26,1861,0.79,0.79,0.67,0.75,0.83,0.80,0.75,0.78,0.80,0.81,0.76,0.76,0.80,0.79,0.70,0.10
+Didier,Theys,Le Mans Endurance Series,LMP2_05,Horag Racing,2005,12,0.78,BEL,1959/01/01,1858,0.78,0.79,0.66,0.75,0.82,0.79,0.74,0.78,0.80,0.81,0.75,0.76,0.80,0.78,0.70,0.10
+William,Binnie,Le Mans Endurance Series,LMP2_05,Binnie Motorsports,2005,13,0.77,USA,1958/03/02,1856,0.78,0.78,0.66,0.75,0.82,0.79,0.74,0.77,0.80,0.81,0.74,0.76,0.80,0.78,0.70,0.11
+Bob,Berridge,Le Mans Endurance Series,LMP2_05,Chamberlain Synergy Motorsport,2005,14,0.77,GBR,1959/09/13,1856,0.78,0.78,0.66,0.75,0.82,0.79,0.74,0.77,0.80,0.81,0.75,0.76,0.80,0.78,0.70,0.10
+"Fredy,",sr. Lienhard,Le Mans Endurance Series,LMP2_05,Horag Racing,2005,15,0.76,CHE,1947/09/14,1852,0.77,0.78,0.65,0.74,0.81,0.78,0.73,0.76,0.79,0.80,0.74,0.75,0.79,0.77,0.70,0.11
+Allen,Timpany,Le Mans Endurance Series,LMP2_05,Binnie Motorsports,2005,16,0.76,GBR,1956/05/30,1851,0.77,0.77,0.65,0.74,0.81,0.78,0.73,0.76,0.79,0.80,0.74,0.75,0.79,0.77,0.70,0.11
+Peter,Owen,Le Mans Endurance Series,LMP2_05,Chamberlain Synergy Motorsport,2005,17,0.76,GBR,1946/10/17,1852,0.77,0.77,0.65,0.74,0.81,0.78,0.73,0.77,0.79,0.80,0.75,0.75,0.79,0.77,0.70,0.10
+Sam,Hancock,Le Mans Endurance Series,LMP2_05,Binnie Motorsports,2005,18,0.75,GBR,1980/01/09,1848,0.77,0.77,0.64,0.73,0.81,0.78,0.73,0.76,0.78,0.79,0.74,0.74,0.78,0.77,0.70,0.11
+Eric,van de Poele,Le Mans Endurance Series,LMP2_05,Horag Racing,2005,19,0.75,BEL,1961/09/30,1846,0.76,0.76,0.64,0.73,0.80,0.77,0.72,0.75,0.78,0.79,0.73,0.74,0.78,0.76,0.70,0.12
+Clint,Field,Le Mans Endurance Series,LMP2_05,Intersport Racing,2005,20,0.74,USA,1983/06/16,1854,0.78,0.78,0.63,0.74,0.82,0.79,0.74,0.78,0.79,0.80,0.78,0.75,0.79,0.78,0.70,0.09
+Didier,Sommerau,Le Mans Endurance Series,GT1_05,Paul Belmondo Racing,2005,21,0.74,FRA,1970/01/01,1847,0.76,0.76,0.63,0.73,0.79,0.77,0.72,0.76,0.78,0.77,0.75,0.74,0.78,0.76,0.61,0.10
+Benjamin,Leuenberger,Le Mans Endurance Series,GT1_05,Paul Belmondo Racing,2005,22,0.74,CHE,1982/06/11,1845,0.76,0.76,0.63,0.72,0.78,0.77,0.72,0.75,0.77,0.77,0.74,0.73,0.77,0.76,0.61,0.11
+Ricky,Cole,Le Mans Endurance Series,GT1_05,Graham Nash Motorsport,2005,23,0.73,GBR,1984/02/21,1842,0.75,0.75,0.62,0.72,0.78,0.76,0.71,0.74,0.77,0.76,0.74,0.73,0.77,0.75,0.61,0.11
+Matteo,Bobbi,Le Mans Endurance Series,GT1_05,Graham Nash Motorsport,2005,24,0.73,ITA,1978/07/02,1840,0.75,0.75,0.62,0.71,0.77,0.76,0.71,0.74,0.76,0.76,0.73,0.72,0.76,0.75,0.61,0.12
+Christian,Pescatori,Le Mans Endurance Series,GT1_05,BMS Scuderia Italia,2005,25,0.72,ITA,1971/12/01,1844,0.76,0.75,0.62,0.72,0.78,0.77,0.72,0.75,0.77,0.77,0.76,0.73,0.77,0.76,0.61,0.10
+Matteo,Cressoni,Le Mans Endurance Series,GT1_05,BMS Scuderia Italia,2005,26,0.72,ITA,1984/10/28,1843,0.76,0.75,0.61,0.72,0.78,0.77,0.72,0.75,0.77,0.77,0.76,0.73,0.77,0.76,0.61,0.10
+Alexei,Vasiliev,Le Mans Endurance Series,GT1_05,Convers Team,2005,27,0.72,RUS,1972/01/13,1842,0.75,0.75,0.61,0.72,0.78,0.76,0.71,0.75,0.77,0.76,0.76,0.73,0.77,0.75,0.61,0.10
+Robert,Pergl,Le Mans Endurance Series,GT1_05,MenX,2005,28,0.71,CZE,1968/12/07,1840,0.75,0.74,0.61,0.72,0.78,0.76,0.71,0.75,0.77,0.76,0.76,0.73,0.77,0.75,0.61,0.10
+Andrew,Kirkaldy,Le Mans Endurance Series,GT2_05,Scuderia Ecosse,2005,29,0.71,GBR,1976/03/01,1839,0.75,0.74,0.60,0.71,0.77,0.76,0.71,0.74,0.76,0.76,0.76,0.72,0.76,0.75,0.61,0.10
+Gabrio,Rosa,Le Mans Endurance Series,GT2_05,GPC Sport,2005,30,0.70,ITA,1954/10/15,1838,0.75,0.74,0.60,0.71,0.77,0.76,0.71,0.74,0.76,0.76,0.76,0.72,0.76,0.75,0.61,0.10
+Jonny,Kane,Le Mans Endurance Series,GT2_05,Team LNT,2005,31,0.70,GBR,1973/05/14,1837,0.74,0.73,0.60,0.71,0.77,0.75,0.70,0.74,0.76,0.75,0.76,0.72,0.76,0.74,0.61,0.10
+Richard,Stanton,Le Mans Endurance Series,GT2_05,RaceSport,2005,32,0.70,GBR,1962/03/08,1834,0.74,0.73,0.59,0.70,0.76,0.75,0.70,0.73,0.75,0.75,0.75,0.71,0.75,0.74,0.61,0.10
+Donny,Crevels,Le Mans Endurance Series,GT2_05,Spyker Squadron,2005,33,0.69,NLD,1974/02/06,1831,0.73,0.72,0.59,0.70,0.76,0.74,0.69,0.72,0.75,0.74,0.74,0.71,0.75,0.73,0.61,0.11
+Jeroen,Bleekemolen,Le Mans Endurance Series,GT2_05,Spyker Squadron,2005,34,0.69,NLD,1981/10/23,1829,0.73,0.72,0.59,0.69,0.75,0.74,0.69,0.72,0.74,0.74,0.74,0.70,0.74,0.73,0.61,0.11
+Christian,Lefort,Le Mans Endurance Series,GT2_05,Ice Pol Racing Team,2005,35,0.68,BEL,1959/01/22,1832,0.73,0.72,0.58,0.70,0.76,0.74,0.69,0.73,0.75,0.74,0.76,0.71,0.75,0.73,0.61,0.10
+Franco,Groppi,Le Mans Endurance Series,GT2_05,Autorlando Sport,2005,36,0.68,ITA,1964/10/02,1831,0.73,0.72,0.58,0.70,0.76,0.74,0.69,0.73,0.75,0.74,0.76,0.71,0.75,0.73,0.61,0.10
+Emanuele,Pirro,American Le Mans Series,LMP1_05,Champion Racing,2005,1,0.82,ITA,1959/01/01,1875,0.82,0.83,0.70,0.78,0.86,0.83,0.78,0.82,0.83,0.84,0.80,0.79,0.83,0.82,0.70,0.08
+Marco,Werner,American Le Mans Series,LMP1_05,Champion Racing,2005,2,0.82,DEU,1966/04/27,1874,0.82,0.83,0.70,0.78,0.86,0.83,0.78,0.82,0.83,0.84,0.80,0.79,0.83,0.82,0.70,0.08
+Frank,Biela,American Le Mans Series,LMP1_05,Champion Racing,2005,3,0.81,DEU,1959/01/01,1874,0.81,0.83,0.69,0.78,0.85,0.82,0.77,0.82,0.83,0.84,0.80,0.79,0.83,0.81,0.70,0.08
+Tom,Kristensen,American Le Mans Series,LMP1_05,Champion Racing,2005,4,0.81,DNK,1967/07/07,1861,0.79,0.80,0.69,0.76,0.83,0.80,0.75,0.78,0.81,0.82,0.73,0.77,0.81,0.79,0.70,0.12
+Joao,Barbosa,American Le Mans Series,LMP1_05,Rollcentre Racing,2005,5,0.81,PRT,1975/03/11,1860,0.79,0.80,0.69,0.75,0.83,0.80,0.75,0.78,0.80,0.81,0.73,0.76,0.80,0.79,0.70,0.12
+Michael,Krumm,American Le Mans Series,LMP1_05,Rollcentre Racing,2005,6,0.81,DEU,1963/01/01,1859,0.79,0.80,0.69,0.75,0.83,0.80,0.75,0.77,0.80,0.81,0.73,0.76,0.80,0.79,0.70,0.12
+Andrew,Thompson,American Le Mans Series,LMP1_05,Rollcentre Racing,2005,7,0.80,GBR,1980/03/20,1858,0.79,0.79,0.68,0.75,0.83,0.80,0.75,0.77,0.80,0.81,0.73,0.76,0.80,0.79,0.70,0.12
+Vanina,Ickx,American Le Mans Series,LMP1_05,Rollcentre Racing,2005,8,0.80,BEL,1975/02/16,1863,0.79,0.80,0.68,0.76,0.83,0.80,0.75,0.79,0.81,0.82,0.76,0.77,0.81,0.79,0.70,0.10
+Adam,Sharpe,American Le Mans Series,LMP2_05,Binnie Motorsports,2005,9,0.80,GBR,1984/09/12,1857,0.78,0.79,0.68,0.75,0.82,0.79,0.74,0.77,0.80,0.81,0.73,0.76,0.80,0.78,0.70,0.12
+Thed,Björk,American Le Mans Series,LMP2_05,Horag Racing,2005,10,0.79,SWE,1980/09/12,1856,0.78,0.79,0.68,0.75,0.82,0.79,0.74,0.77,0.80,0.81,0.73,0.76,0.80,0.78,0.70,0.12
+Jon,Field,American Le Mans Series,LMP2_05,Intersport Racing,2005,11,0.79,USA,1955/09/18,1861,0.79,0.80,0.67,0.76,0.83,0.80,0.75,0.79,0.81,0.82,0.77,0.77,0.81,0.79,0.70,0.10
+Ben,Devlin,American Le Mans Series,LMP2_05,Van der Steur Racing,2005,12,0.79,GBR,1982/08/04,1860,0.79,0.80,0.67,0.75,0.83,0.80,0.75,0.79,0.80,0.81,0.77,0.76,0.80,0.79,0.70,0.10
+Robert,Julien,American Le Mans Series,LMP2_05,Binnie Motorsports,2005,13,0.78,CAN,1970/01/01,1853,0.78,0.78,0.67,0.74,0.82,0.79,0.74,0.76,0.79,0.80,0.73,0.75,0.79,0.78,0.70,0.12
+Liz,Halliday,American Le Mans Series,LMP2_05,Intersport Racing,2005,14,0.78,USA,1978/12/14,1857,0.78,0.79,0.67,0.75,0.82,0.79,0.74,0.78,0.80,0.81,0.76,0.76,0.80,0.78,0.70,0.10
+Bob,Woodman,American Le Mans Series,LMP2_05,BAT Competition,2005,15,0.78,USA,1970/01/01,1851,0.77,0.78,0.66,0.74,0.81,0.78,0.73,0.76,0.79,0.80,0.73,0.75,0.79,0.77,0.70,0.12
+Garteh,Ridpath,American Le Mans Series,LMP2_05,Intersport Racing,2005,16,0.78,GBR,1978/03/31,1850,0.77,0.77,0.66,0.73,0.81,0.78,0.73,0.76,0.78,0.79,0.73,0.74,0.78,0.77,0.70,0.12
+Alex,Figge,American Le Mans Series,GT1_05,Pacific Coast Motorsports,2005,17,0.77,USA,1981/01/29,1857,0.78,0.79,0.66,0.75,0.81,0.79,0.74,0.78,0.80,0.79,0.78,0.76,0.80,0.78,0.61,0.09
+Ryan,Dalziel,American Le Mans Series,GT1_05,Pacific Coast Motorsports,2005,18,0.77,GBR,1982/04/12,1856,0.78,0.79,0.66,0.75,0.81,0.79,0.74,0.78,0.80,0.79,0.78,0.76,0.80,0.78,0.61,0.09
+Johnny,O'Connell,American Le Mans Series,GT1_05,Pratt & Miller,2005,19,0.77,USA,1962/07/24,1859,0.79,0.79,0.65,0.75,0.81,0.80,0.75,0.79,0.80,0.80,0.80,0.76,0.80,0.79,0.61,0.08
+Oliver,Gavin,American Le Mans Series,GT1_05,Pratt & Miller,2005,20,0.76,GBR,1986/01/01,1859,0.79,0.79,0.65,0.75,0.81,0.80,0.75,0.79,0.80,0.80,0.80,0.76,0.80,0.79,0.61,0.08
+Andrea,Bertolini,American Le Mans Series,GT1_05,Risi Competizione,2005,21,0.76,ITA,1973/12/01,1856,0.78,0.78,0.65,0.75,0.81,0.79,0.74,0.78,0.80,0.79,0.79,0.76,0.80,0.78,0.61,0.08
+Fabrizio,de Simone,American Le Mans Series,GT1_05,Risi Competizione,2005,22,0.76,ITA,1971/03/30,1855,0.78,0.78,0.65,0.74,0.80,0.79,0.74,0.78,0.79,0.79,0.79,0.75,0.79,0.78,0.61,0.08
+Darren,Turner,American Le Mans Series,GT1_05,Aston Martin Racing,2005,23,0.75,GBR,1974/04/13,1847,0.76,0.76,0.64,0.73,0.79,0.77,0.72,0.75,0.78,0.77,0.74,0.74,0.78,0.76,0.61,0.11
+Pedro,Lamy,American Le Mans Series,GT1_05,Aston Martin Racing,2005,24,0.75,PRT,1972/03/20,1846,0.76,0.76,0.64,0.73,0.79,0.77,0.72,0.75,0.78,0.77,0.74,0.74,0.78,0.76,0.61,0.11
+Johnny,Mowlem,American Le Mans Series,GT1_05,ACEMCO Motorsports,2005,25,0.75,GBR,1969/12/12,1854,0.78,0.78,0.64,0.74,0.80,0.79,0.74,0.78,0.79,0.79,0.80,0.75,0.79,0.78,0.61,0.08
+Nigel,Smith,American Le Mans Series,GT1_05,Graham Nash Motorsport,2005,26,0.75,GBR,1967/02/13,1842,0.75,0.75,0.64,0.72,0.78,0.76,0.71,0.74,0.77,0.76,0.73,0.73,0.77,0.75,0.61,0.12
+Christophe,Bouchut,American Le Mans Series,GT1_05,Larbre Compétition,2005,27,0.74,FRA,1966/01/01,1841,0.75,0.75,0.63,0.72,0.78,0.76,0.71,0.74,0.77,0.76,0.73,0.73,0.77,0.75,0.61,0.12
+Antonie,Gosse,American Le Mans Series,GT1_05,JMB Racing,2005,28,0.74,FRA,1957/05/05,1845,0.76,0.76,0.63,0.72,0.78,0.77,0.72,0.75,0.77,0.77,0.76,0.73,0.77,0.76,0.61,0.10
+Michele,Rugolo,American Le Mans Series,GT1_05,Carsport America,2005,29,0.74,ITA,1982/08/31,1851,0.77,0.77,0.63,0.74,0.80,0.78,0.73,0.78,0.79,0.78,0.80,0.75,0.79,0.77,0.61,0.08
+Tom,Weickardt,American Le Mans Series,GT1_05,Carsport America,2005,30,0.73,USA,1947/03/25,1850,0.77,0.77,0.63,0.73,0.79,0.78,0.73,0.77,0.78,0.78,0.80,0.74,0.78,0.77,0.61,0.08
+Jean-Philippe,Belloc,American Le Mans Series,GT1_05,Carsport America,2005,31,0.73,FRA,1970/04/24,1840,0.75,0.75,0.62,0.71,0.77,0.76,0.71,0.74,0.76,0.76,0.74,0.72,0.76,0.75,0.61,0.11
+Jean-Michel,Papolla,American Le Mans Series,GT1_05,Paul Belmondo Racing,2005,32,0.73,FRA,1970/01/01,1840,0.75,0.75,0.62,0.72,0.78,0.76,0.71,0.74,0.77,0.76,0.75,0.73,0.77,0.75,0.61,0.10
+Romain,Dumas,American Le Mans Series,GT2_05,Alex Job Racing,2005,33,0.72,FRA,1977/12/14,1847,0.76,0.76,0.62,0.73,0.79,0.77,0.72,0.77,0.78,0.77,0.80,0.74,0.78,0.76,0.61,0.08
+Ian,Baas,American Le Mans Series,GT2_05,Alex Job Racing,2005,34,0.72,USA,1983/01/09,1846,0.76,0.76,0.62,0.73,0.79,0.77,0.72,0.77,0.78,0.77,0.80,0.74,0.78,0.76,0.61,0.08
+Jörg,Bergmeister,American Le Mans Series,GT2_05,Petersen / White Lightning,2005,35,0.72,DEU,1976/02/13,1845,0.76,0.75,0.61,0.73,0.79,0.77,0.72,0.77,0.78,0.77,0.80,0.74,0.78,0.76,0.61,0.08
+Mike,Rockenfeller,American Le Mans Series,GT2_05,British American Motorsport,2005,36,0.72,DEU,1983/10/31,1842,0.75,0.75,0.61,0.72,0.78,0.76,0.71,0.75,0.77,0.76,0.78,0.73,0.77,0.75,0.61,0.09
+Lawrence,Tomlinson,American Le Mans Series,GT2_05,Team LNT,2005,37,0.71,GBR,1964/07/24,1832,0.73,0.73,0.61,0.70,0.76,0.74,0.69,0.72,0.75,0.74,0.73,0.71,0.75,0.73,0.61,0.12
+Marc,Hynes,American Le Mans Series,GT2_05,Team LNT,2005,38,0.71,GBR,1978/02/26,1831,0.73,0.73,0.61,0.70,0.76,0.74,0.69,0.72,0.75,0.74,0.73,0.71,0.75,0.73,0.61,0.12
+Warren,Hughes,American Le Mans Series,GT2_05,Team LNT,2005,39,0.71,GBR,1969/01/19,1830,0.73,0.72,0.60,0.70,0.76,0.74,0.69,0.72,0.75,0.74,0.73,0.71,0.75,0.73,0.61,0.12
+Patrick,Pearce,American Le Mans Series,GT2_05,Team LNT,2005,40,0.70,GBR,1981/04/22,1829,0.73,0.72,0.60,0.69,0.75,0.74,0.69,0.72,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Frank,Munsterhuis,American Le Mans Series,GT2_05,Spyker Squadron,2005,41,0.70,NLD,1970/01/01,1828,0.73,0.72,0.60,0.69,0.75,0.74,0.69,0.71,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Marc,Goossens,American Le Mans Series,GT2_05,Spyker Squadron,2005,42,0.70,BEL,1969/11/30,1827,0.73,0.72,0.60,0.69,0.75,0.74,0.69,0.71,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Marino,Franchitti,American Le Mans Series,GT2_05,Spyker Squadron,2005,43,0.69,GBR,1978/06/07,1826,0.72,0.71,0.59,0.69,0.75,0.73,0.68,0.71,0.74,0.73,0.73,0.70,0.74,0.72,0.61,0.12
+Tom,Coronel,American Le Mans Series,GT2_05,Spyker Squadron,2005,44,0.69,NLD,1972/04/05,1826,0.72,0.71,0.59,0.69,0.75,0.73,0.68,0.71,0.74,0.73,0.73,0.70,0.74,0.72,0.61,0.12
+Robin,Liddell,American Le Mans Series,GT2_05,Panoz Motorsports,2005,45,0.69,GBR,1974/02/28,1836,0.74,0.73,0.59,0.71,0.77,0.75,0.70,0.75,0.76,0.75,0.80,0.72,0.76,0.74,0.61,0.08
+Bryan,Sellers,American Le Mans Series,GT2_05,Panoz Motorsports,2005,46,0.69,USA,1982/08/19,1836,0.74,0.73,0.59,0.71,0.77,0.75,0.70,0.75,0.76,0.75,0.80,0.72,0.76,0.74,0.61,0.08
+Gunnar,Jeannette,American Le Mans Series,GT2_05,Panoz Motorsports,2005,47,0.68,USA,1982/05/05,1824,0.72,0.71,0.58,0.68,0.74,0.73,0.68,0.71,0.73,0.73,0.74,0.69,0.73,0.72,0.61,0.11
+Bill,Auberlen,American Le Mans Series,GT2_05,Panoz Motorsports,2005,48,0.68,USA,1984/01/01,1831,0.73,0.72,0.58,0.70,0.76,0.74,0.69,0.73,0.75,0.74,0.78,0.71,0.75,0.73,0.61,0.09
+Robert,Lechner,FIA GT Championship,GT1_05,Konrad Motorsport,2005,1,0.82,AUT,1977/10/01,1862,0.79,0.80,0.70,0.76,0.82,0.80,0.75,0.79,0.81,0.80,0.78,0.77,0.81,0.79,0.61,0.09
+Franz,Konrad,FIA GT Championship,GT1_05,Konrad Motorsport,2005,2,0.81,AUT,1947/01/01,1858,0.78,0.80,0.70,0.75,0.81,0.79,0.74,0.78,0.80,0.79,0.77,0.76,0.80,0.78,0.61,0.10
+Anthony,Kumpen,FIA GT Championship,GT1_05,GLPK Carsport,2005,3,0.81,BEL,1978/11/03,1861,0.79,0.80,0.69,0.76,0.82,0.80,0.75,0.80,0.81,0.80,0.80,0.77,0.81,0.79,0.61,0.08
+Bruno,Hernandez,FIA GT Championship,GT1_05,Selleslagh Racing Team,2005,4,0.80,FRA,1960/06/23,1848,0.76,0.77,0.69,0.73,0.79,0.77,0.72,0.75,0.78,0.77,0.73,0.74,0.78,0.76,0.61,0.12
+Michael,Bartels,FIA GT Championship,GT1_05,Bartels Motor&Sport,2005,5,0.80,DEU,1968/03/08,1858,0.78,0.79,0.68,0.75,0.81,0.79,0.74,0.79,0.80,0.79,0.80,0.76,0.80,0.78,0.61,0.08
+Fabio,Babini,FIA GT Championship,GT1_05,Bartels Motor&Sport,2005,6,0.79,ITA,1969/11/03,1856,0.78,0.79,0.68,0.75,0.81,0.79,0.74,0.79,0.80,0.79,0.80,0.76,0.80,0.78,0.61,0.08
+Karl,Wendlinger,FIA GT Championship,GT1_05,JMB Racing,2005,7,0.79,AUT,1954/01/01,1854,0.78,0.78,0.67,0.74,0.80,0.79,0.74,0.78,0.79,0.79,0.80,0.75,0.79,0.78,0.61,0.08
+Philipp,Peter,FIA GT Championship,GT1_05,JMB Racing,2005,8,0.78,AUT,1969/04/06,1853,0.77,0.78,0.67,0.74,0.80,0.78,0.73,0.78,0.79,0.78,0.80,0.75,0.79,0.77,0.61,0.08
+Andrea,Piccini,FIA GT Championship,GT1_05,GPC Sport,2005,9,0.78,ITA,1978/12/12,1851,0.77,0.78,0.66,0.74,0.80,0.78,0.73,0.78,0.79,0.78,0.80,0.75,0.79,0.77,0.61,0.08
+"Jamie,",jr. Melo,FIA GT Championship,GT1_05,GPC Sport,2005,10,0.77,BRA,1980/04/24,1844,0.76,0.76,0.66,0.72,0.78,0.77,0.72,0.76,0.77,0.77,0.77,0.73,0.77,0.76,0.61,0.10
+Peter,Kox,FIA GT Championship,GT1_05,Reiter Engineering,2005,11,0.76,NLD,1964/02/23,1840,0.75,0.75,0.65,0.71,0.78,0.76,0.71,0.74,0.77,0.76,0.75,0.72,0.77,0.75,0.61,0.10
+Norman,Simon,FIA GT Championship,GT1_05,Reiter Engineering,2005,12,0.76,DEU,1976/05/07,1837,0.74,0.75,0.65,0.71,0.77,0.75,0.70,0.74,0.76,0.75,0.74,0.72,0.76,0.74,0.61,0.11
+Justin,Keen,FIA GT Championship,GT1_05,Lister Racing,2005,13,0.75,GBR,1975/08/04,1844,0.76,0.76,0.64,0.72,0.78,0.77,0.72,0.76,0.77,0.77,0.80,0.73,0.77,0.76,0.61,0.08
+Bobby,Verdon-Roe,FIA GT Championship,GT1_05,Lister Racing,2005,14,0.75,GBR,1965/11/21,1831,0.73,0.73,0.64,0.70,0.76,0.74,0.69,0.72,0.75,0.74,0.73,0.71,0.75,0.73,0.61,0.12
+David,Brabham,FIA GT Championship,GT1_05,Prodrive,2005,15,0.74,AUS,1965/09/05,1831,0.73,0.73,0.63,0.70,0.76,0.74,0.69,0.72,0.75,0.74,0.74,0.71,0.75,0.73,0.61,0.11
+Antonio,Garcia,FIA GT Championship,GT1_05,Russian Age Racing,2005,16,0.74,ESP,1986/01/01,1828,0.73,0.72,0.63,0.69,0.75,0.74,0.69,0.71,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Jan,Vonka,FIA GT Championship,GT2_05,Vonka Racing,2005,17,0.73,CZE,1963/05/17,1838,0.75,0.74,0.62,0.71,0.77,0.76,0.71,0.75,0.76,0.76,0.80,0.72,0.76,0.75,0.61,0.08
+Marc,Lieb,FIA GT Championship,GT2_05,Gruppe M Racing,2005,18,0.72,DEU,1980/07/04,1836,0.74,0.74,0.62,0.71,0.77,0.75,0.70,0.75,0.76,0.75,0.80,0.72,0.76,0.74,0.61,0.08
+Luca,Drudi,FIA GT Championship,GT2_05,GPC Sport,2005,19,0.72,ITA,1962/10/21,1827,0.72,0.72,0.61,0.69,0.75,0.73,0.68,0.72,0.74,0.73,0.75,0.70,0.74,0.72,0.61,0.10
+Joe,Macari,FIA GT Championship,GT2_05,Cirtek Motorsport,2005,20,0.71,GBR,1966/09/27,1822,0.72,0.71,0.61,0.68,0.74,0.73,0.68,0.71,0.73,0.73,0.74,0.69,0.73,0.72,0.61,0.11
+Peter,Kutemann,FIA GT Championship,GT2_05,JMB Racing,2005,21,0.71,NLD,1947/09/12,1821,0.71,0.71,0.60,0.68,0.74,0.72,0.67,0.70,0.73,0.72,0.74,0.69,0.73,0.71,0.61,0.11
+Chris,Niarchos,FIA GT Championship,GT2_05,Scuderia Ecosse,2005,22,0.70,CAN,1965/05/03,1818,0.71,0.70,0.60,0.67,0.73,0.72,0.67,0.69,0.72,0.72,0.73,0.68,0.72,0.71,0.61,0.12
+Nathan,Kinch,FIA GT Championship,GT2_05,Scuderia Ecosse,2005,23,0.70,GBR,1982/06/04,1816,0.70,0.69,0.59,0.67,0.73,0.71,0.66,0.69,0.72,0.71,0.73,0.68,0.72,0.70,0.61,0.12
+Batti,Pregliasco,FIA GT Championship,GT2_05,GPC Sport,2005,24,0.69,ITA,1966/12/28,1816,0.70,0.69,0.59,0.67,0.73,0.71,0.66,0.69,0.72,0.71,0.74,0.68,0.72,0.70,0.61,0.11
+Jason,Templeman,FIA GT Championship,GT2_05,Team LNT,2005,25,0.69,GBR,1978/02/27,1813,0.70,0.69,0.58,0.66,0.72,0.71,0.66,0.68,0.71,0.71,0.73,0.67,0.71,0.70,0.61,0.12
+Dan,Eagling,FIA GT Championship,GT2_05,RaceSport,2005,26,0.68,GBR,1980/11/08,1812,0.70,0.68,0.58,0.66,0.72,0.71,0.66,0.69,0.71,0.71,0.74,0.67,0.71,0.70,0.61,0.11
+Dirk,MÃ¼ller,BFGoodrich Langstreckenmeisterschaft,GTR_04,Team Schnitzer,2005,1,0.82,DEU,1975/11/18,1842,0.75,0.77,0.70,0.72,0.78,0.76,0.71,0.74,0.77,0.76,0.73,0.73,0.77,0.75,0.61,0.12
+Andy,Priaulx,BFGoodrich Langstreckenmeisterschaft,GTR_04,Team Schnitzer,2005,2,0.82,GBR,1974/08/08,1840,0.75,0.76,0.70,0.72,0.78,0.76,0.71,0.74,0.77,0.76,0.73,0.73,0.77,0.75,0.61,0.12
+Dennis,Rostek,BFGoodrich Langstreckenmeisterschaft,GTR_04,Scuderia Augustusburg BrÃ¼hl,2005,3,0.81,DEU,1973/11/04,1839,0.75,0.76,0.69,0.71,0.77,0.76,0.71,0.73,0.76,0.76,0.73,0.72,0.76,0.75,0.61,0.12
+Georg,Silbermayr,BFGoodrich Langstreckenmeisterschaft,GTR_04,Team Michael Tischner,2005,4,0.81,AUT,1970/01/01,1838,0.75,0.76,0.69,0.71,0.77,0.76,0.71,0.73,0.76,0.76,0.73,0.72,0.76,0.75,0.61,0.12
+Henry,Walkenhorst,BFGoodrich Langstreckenmeisterschaft,GTR_04,Schirmer Motorsport,2005,5,0.80,DEU,1970/01/01,1836,0.74,0.75,0.68,0.71,0.77,0.75,0.70,0.73,0.76,0.75,0.73,0.72,0.76,0.74,0.61,0.12
+Arnd,Meyer,BFGoodrich Langstreckenmeisterschaft,GTR_04,Team Arnd Meyer,2005,6,0.80,DEU,1970/01/01,1835,0.74,0.75,0.68,0.70,0.76,0.75,0.70,0.73,0.75,0.75,0.73,0.71,0.75,0.74,0.61,0.12
+Del,Delaronde,BFGoodrich Langstreckenmeisterschaft,GTR_04,Ring Racing,2005,7,0.79,CAN,1970/01/01,1833,0.74,0.74,0.68,0.70,0.76,0.75,0.70,0.72,0.75,0.75,0.73,0.71,0.75,0.74,0.61,0.12
+Ian,Mitchell,BFGoodrich Langstreckenmeisterschaft,GTR_04,Kruse Motorsport,2005,8,0.79,GBR,1970/01/01,1832,0.73,0.74,0.67,0.70,0.76,0.74,0.69,0.72,0.75,0.74,0.73,0.71,0.75,0.73,0.61,0.12
+David,Cox,BFGoodrich Langstreckenmeisterschaft,GTR_04,Moore International Motorsport,2005,9,0.78,GBR,1956/11/07,1830,0.73,0.74,0.67,0.70,0.76,0.74,0.69,0.72,0.75,0.74,0.73,0.71,0.75,0.73,0.61,0.12
+Gregor,Vogler,BFGoodrich Langstreckenmeisterschaft,GTR_04,DÃ¶rr Motorsport,2005,10,0.78,DEU,1970/01/01,1829,0.73,0.73,0.66,0.69,0.75,0.74,0.69,0.72,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Leo,LÃ¶wenstein,BFGoodrich Langstreckenmeisterschaft,GTR_04,DÃ¶rr Motorsport,2005,11,0.77,DEU,1970/01/01,1827,0.73,0.73,0.66,0.69,0.75,0.74,0.69,0.71,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Artur,Deutgen,BFGoodrich Langstreckenmeisterschaft,GTR_04,Duller Motorsport,2005,12,0.77,DEU,1962/03/22,1826,0.72,0.73,0.65,0.69,0.75,0.73,0.68,0.71,0.74,0.73,0.73,0.70,0.74,0.72,0.61,0.12
+Achim,Berg,BFGoodrich Langstreckenmeisterschaft,GT2_05,steam-racing,2005,13,0.76,DEU,1970/01/01,1825,0.72,0.72,0.65,0.69,0.75,0.73,0.68,0.71,0.74,0.73,0.73,0.70,0.74,0.72,0.61,0.12
+Johannes,Siegler,BFGoodrich Langstreckenmeisterschaft,GT2_05,steam-racing,2005,14,0.76,DEU,1970/01/01,1823,0.72,0.72,0.65,0.68,0.74,0.73,0.68,0.70,0.73,0.73,0.73,0.69,0.73,0.72,0.61,0.12
+Anders,Levin,BFGoodrich Langstreckenmeisterschaft,GT2_05,Morin Racing,2005,15,0.75,SWE,1972/10/25,1822,0.71,0.72,0.64,0.68,0.74,0.72,0.67,0.70,0.73,0.72,0.73,0.69,0.73,0.71,0.61,0.12
+Friedrich,Ney,BFGoodrich Langstreckenmeisterschaft,GT2_05,Car Collection,2005,16,0.75,DEU,1970/01/01,1820,0.71,0.71,0.64,0.68,0.74,0.72,0.67,0.70,0.73,0.72,0.73,0.69,0.73,0.71,0.61,0.12
+Harald,Weiland,BFGoodrich Langstreckenmeisterschaft,GT2_05,Messer Motorsport,2005,17,0.74,DEU,1970/01/01,1819,0.71,0.71,0.63,0.67,0.73,0.72,0.67,0.70,0.72,0.72,0.73,0.68,0.72,0.71,0.61,0.12
+Edgar,Althoff,BFGoodrich Langstreckenmeisterschaft,GT2_05,Team Stefan Beil,2005,18,0.74,DEU,1970/01/01,1817,0.71,0.70,0.63,0.67,0.73,0.72,0.67,0.69,0.72,0.72,0.73,0.68,0.72,0.71,0.61,0.12
+Artur,Erkes,BFGoodrich Langstreckenmeisterschaft,GT2_05,Captain Racing Team,2005,19,0.73,DEU,1970/01/01,1816,0.70,0.70,0.63,0.67,0.73,0.71,0.66,0.69,0.72,0.71,0.73,0.68,0.72,0.70,0.61,0.12
+Christian,Mamerow,BFGoodrich Langstreckenmeisterschaft,GT2_05,Mamerow Racing,2005,20,0.73,DEU,1985/02/25,1815,0.70,0.70,0.62,0.67,0.73,0.71,0.66,0.69,0.72,0.71,0.73,0.68,0.72,0.70,0.61,0.12
+Peter,Bonk,BFGoodrich Langstreckenmeisterschaft,GT2_05,Bonk Motorsport,2005,21,0.72,DEU,1970/01/01,1813,0.70,0.69,0.62,0.66,0.72,0.71,0.66,0.69,0.71,0.71,0.73,0.67,0.71,0.70,0.61,0.12
+Michael,Prym,BFGoodrich Langstreckenmeisterschaft,GT2_05,Team Uwe Reich,2005,22,0.72,DEU,1970/01/01,1812,0.70,0.69,0.61,0.66,0.72,0.71,0.66,0.68,0.71,0.71,0.73,0.67,0.71,0.70,0.61,0.12
+Kersten,Jodexnis,BFGoodrich Langstreckenmeisterschaft,GT2_05,Team Destree / Jodexnis,2005,23,0.71,DEU,1956/12/29,1810,0.69,0.69,0.61,0.66,0.72,0.70,0.65,0.68,0.71,0.70,0.73,0.67,0.71,0.69,0.61,0.12
+Marc,Basseng,BFGoodrich Langstreckenmeisterschaft,GT2_05,Land Motorsport,2005,24,0.71,DEU,1978/12/12,1809,0.69,0.68,0.60,0.66,0.72,0.70,0.65,0.68,0.71,0.70,0.73,0.67,0.71,0.69,0.61,0.12
+Andreas,GÃ¼lden,BFGoodrich Langstreckenmeisterschaft,GT1_05,Zakspeed Racing,2005,25,0.70,DEU,1978/11/17,1807,0.69,0.68,0.60,0.65,0.71,0.70,0.65,0.67,0.70,0.70,0.73,0.66,0.70,0.69,0.61,0.12
+Peter,Zakowski,BFGoodrich Langstreckenmeisterschaft,GT1_05,Zakspeed Racing,2005,26,0.70,DEU,1966/05/13,1806,0.68,0.68,0.60,0.65,0.71,0.69,0.64,0.67,0.70,0.69,0.73,0.66,0.70,0.68,0.61,0.12
+Hans-Peter,Huppert-Nieder,BFGoodrich Langstreckenmeisterschaft,GT1_05,Zakspeed Racing,2005,27,0.69,DEU,1957/07/18,1805,0.68,0.67,0.59,0.65,0.71,0.69,0.64,0.67,0.70,0.69,0.73,0.66,0.70,0.68,0.61,0.12
+Sascha,Bert,BFGoodrich Langstreckenmeisterschaft,GT1_05,Zakspeed Racing,2005,28,0.69,DEU,1976/03/05,1803,0.68,0.67,0.59,0.64,0.70,0.69,0.64,0.67,0.69,0.69,0.73,0.65,0.69,0.68,0.61,0.12
+Didier,de Radigues,BFGoodrich Langstreckenmeisterschaft,GT1_05,De Radigues,2005,29,0.68,BEL,1958/03/27,1802,0.68,0.66,0.58,0.64,0.70,0.69,0.64,0.66,0.69,0.69,0.73,0.65,0.69,0.68,0.61,0.12
+Markus,GroÃmann,BFGoodrich Langstreckenmeisterschaft,GT1_05,Zakspeed Racing,2005,30,0.68,DEU,1970/01/01,1800,0.67,0.66,0.58,0.64,0.70,0.68,0.63,0.66,0.69,0.68,0.73,0.65,0.69,0.67,0.61,0.12
+Tim,Mullen,British GT Championship,GT2_05,Scuderia Ecosse,2005,1,0.82,GBR,1976/03/28,1816,0.70,0.72,0.70,0.67,0.73,0.71,0.66,0.69,0.72,0.71,0.73,0.68,0.72,0.70,0.61,0.12
+Bo,Stefan M. Eriksson,British GT Championship,GT2_05,Cirtek Motorsport,2005,2,0.81,SWE,1961/12/14,1815,0.70,0.71,0.69,0.67,0.73,0.71,0.66,0.69,0.72,0.71,0.73,0.68,0.72,0.70,0.61,0.12
+Albert,von Thurn und Taxis,British GT Championship,GT2_05,JMB Racing,2005,3,0.81,DEU,1983/06/24,1813,0.70,0.71,0.69,0.66,0.72,0.71,0.66,0.68,0.71,0.71,0.73,0.67,0.71,0.70,0.61,0.12
+Marco,Lambertini,British GT Championship,GT2_05,GPC Sport,2005,4,0.80,ITA,1970/01/01,1812,0.70,0.71,0.68,0.66,0.72,0.71,0.66,0.69,0.71,0.71,0.74,0.67,0.71,0.70,0.61,0.11
+Robert,Wilson,British GT Championship,GT2_05,Cirtek Motorsport,2005,5,0.80,GBR,1952/09/06,1809,0.69,0.70,0.68,0.66,0.72,0.70,0.65,0.68,0.71,0.70,0.73,0.67,0.71,0.69,0.61,0.12
+Chris,Buncombe,British GT Championship,GT2_05,JMB Racing,2005,6,0.79,GBR,1979/05/05,1807,0.69,0.69,0.67,0.65,0.71,0.70,0.65,0.67,0.70,0.70,0.73,0.66,0.70,0.69,0.61,0.12
+Stephane,Lemeret,British GT Championship,GT2_05,GPC Sport,2005,7,0.78,BEL,1973/09/04,1807,0.69,0.69,0.67,0.65,0.71,0.70,0.65,0.68,0.70,0.70,0.74,0.66,0.70,0.69,0.61,0.11
+Dick,Waaijenberg,British GT Championship,GT2_05,JMB Racing,2005,8,0.78,NLD,1970/01/01,1804,0.68,0.69,0.66,0.65,0.71,0.69,0.64,0.67,0.70,0.69,0.73,0.66,0.70,0.68,0.61,0.12
+Horst,Felbermayr,British GT Championship,GT2_05,Seikel Motorsport,2005,9,0.77,AUT,1945/02/19,1807,0.69,0.69,0.66,0.65,0.71,0.70,0.65,0.68,0.70,0.70,0.76,0.66,0.70,0.69,0.61,0.10
+Lars,Eric Nielsen,British GT Championship,GT2_05,Sebah Automotive,2005,10,0.77,DNK,1951/01/01,1805,0.68,0.69,0.65,0.65,0.71,0.69,0.64,0.68,0.70,0.69,0.76,0.66,0.70,0.68,0.61,0.10
+Jan-Dirk,Lueders,British GT Championship,GT2_05,Jens Petersen Racing,2005,11,0.76,DEU,1970/04/06,1802,0.68,0.68,0.65,0.64,0.70,0.69,0.64,0.67,0.69,0.69,0.75,0.65,0.69,0.68,0.61,0.10
+Paul,Daniels,British GT Championship,GT2_05,James Watt Automotive,2005,12,0.75,GBR,1958/08/01,1800,0.67,0.67,0.64,0.64,0.70,0.68,0.63,0.67,0.69,0.68,0.75,0.65,0.69,0.67,0.61,0.10
+Darryl,O'Young,British GT Championship,GT2_05,Noble Group,2005,13,0.75,HKG,1980/03/26,1797,0.67,0.67,0.64,0.63,0.69,0.68,0.63,0.66,0.68,0.68,0.74,0.64,0.68,0.67,0.61,0.11
+Jonathan,Cocker,British GT Championship,GT2_05,Gruppe M Racing,2005,14,0.74,GBR,1986/08/24,1795,0.66,0.66,0.63,0.63,0.69,0.67,0.62,0.66,0.68,0.67,0.74,0.64,0.68,0.66,0.61,0.11
+Xavier,Pompidu,British GT Championship,GT2_05,Sebah Automotive,2005,15,0.73,FRA,1972/06/27,1794,0.66,0.66,0.63,0.63,0.69,0.67,0.62,0.65,0.68,0.67,0.74,0.64,0.68,0.66,0.61,0.11
+Bruno,Houzelot,British GT Championship,GT2_05,Bernard Jubin,2005,16,0.73,FRA,1956/09/14,1789,0.65,0.65,0.62,0.62,0.68,0.66,0.61,0.64,0.67,0.66,0.73,0.63,0.67,0.65,0.61,0.12
+Adam,Jones,British GT Championship,GT2_05,T2M Motorsport,2005,17,0.72,GBR,1980/08/08,1787,0.65,0.64,0.62,0.61,0.67,0.66,0.61,0.64,0.66,0.66,0.73,0.62,0.66,0.65,0.61,0.12
+Juan,Barazi,British GT Championship,GT2_05,In2Racing,2005,18,0.72,DNK,1969/01/22,1786,0.65,0.64,0.61,0.61,0.67,0.66,0.61,0.63,0.66,0.66,0.73,0.62,0.66,0.65,0.61,0.12
+Nattavude,Charoensukhawatana,British GT Championship,GT2_05,Tech 9 Motorsport,2005,19,0.71,GBR,1963/09/04,1784,0.64,0.63,0.61,0.61,0.67,0.65,0.60,0.63,0.66,0.65,0.73,0.62,0.66,0.64,0.61,0.12
+Markus,Palttala,British GT Championship,GT2_05,Ice Pol Racing Team,2005,20,0.70,FIN,1977/08/16,1787,0.65,0.64,0.60,0.61,0.67,0.66,0.61,0.64,0.66,0.66,0.76,0.62,0.66,0.65,0.61,0.10
+Tom,Kimber-Smith,British GT Championship,GT2_05,Team LNT,2005,21,0.70,GBR,1984/01/11,1780,0.63,0.63,0.60,0.60,0.66,0.64,0.59,0.62,0.65,0.64,0.73,0.61,0.65,0.63,0.61,0.12
+John,Hartshorne,British GT Championship,GT2_05,RaceSport,2005,22,0.69,GBR,1957/04/18,1780,0.63,0.62,0.59,0.60,0.66,0.64,0.59,0.62,0.65,0.64,0.74,0.61,0.65,0.63,0.61,0.11
+Piers,Johnson,British GT Championship,GT2_05,RaceSport,2005,23,0.69,GBR,1969/12/23,1778,0.63,0.62,0.59,0.60,0.66,0.64,0.59,0.62,0.65,0.64,0.74,0.61,0.65,0.63,0.61,0.11
+Rick,Pearson,British GT Championship,GT2_05,RaceSport,2005,24,0.68,GBR,1970/03/15,1775,0.62,0.61,0.58,0.59,0.65,0.63,0.58,0.61,0.64,0.63,0.73,0.60,0.64,0.62,0.61,0.12
+Lonnie,Pechnik,Rolex Sports Car Series,GT2_05,Flying Lizard Motorsports,2005,1,0.82,USA,1965/09/30,1850,0.77,0.78,0.70,0.73,0.79,0.78,0.73,0.77,0.78,0.78,0.80,0.74,0.78,0.77,0.61,0.08
+Johannes,van Overbeek,Rolex Sports Car Series,GT2_05,Flying Lizard Motorsports,2005,2,0.82,USA,1973/04/14,1848,0.77,0.78,0.70,0.73,0.79,0.78,0.73,0.77,0.78,0.78,0.80,0.74,0.78,0.77,0.61,0.08
+Justin,Jackson,Rolex Sports Car Series,GT2_05,J3 Racing,2005,3,0.81,USA,1974/02/09,1846,0.76,0.77,0.69,0.73,0.79,0.77,0.72,0.76,0.78,0.77,0.79,0.74,0.78,0.76,0.61,0.08
+Michael,Cawley,Rolex Sports Car Series,GT2_05,J3 Racing,2005,4,0.81,USA,1970/01/01,1835,0.74,0.75,0.69,0.71,0.77,0.75,0.70,0.73,0.76,0.75,0.74,0.72,0.76,0.74,0.61,0.11
+Andy,Lally,Rolex Sports Car Series,GT2_05,ZIP Racing,2005,5,0.80,USA,1972/01/01,1832,0.74,0.74,0.68,0.70,0.76,0.75,0.70,0.72,0.75,0.75,0.73,0.71,0.75,0.74,0.61,0.12
+Marc,Sluszny,Rolex Sports Car Series,GT2_05,The Racers Group,2005,6,0.80,BEL,1962/02/01,1831,0.73,0.74,0.68,0.70,0.76,0.74,0.69,0.72,0.75,0.74,0.73,0.71,0.75,0.73,0.61,0.12
+Andrew,Davis,Rolex Sports Car Series,GT2_05,The Racers Group,2005,7,0.79,USA,1977/01/01,1830,0.73,0.74,0.68,0.69,0.75,0.74,0.69,0.72,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Michael,Vergers,Rolex Sports Car Series,GT2_05,In2Racing,2005,8,0.79,NLD,1969/06/24,1828,0.73,0.73,0.67,0.69,0.75,0.74,0.69,0.71,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Timo,Bernhard,Rolex Sports Car Series,GT2_05,Alex Job Racing,2005,9,0.78,DEU,1981/02/24,1838,0.75,0.75,0.67,0.71,0.77,0.76,0.71,0.75,0.76,0.76,0.80,0.72,0.76,0.75,0.61,0.08
+Patrick,Long,Rolex Sports Car Series,GT2_05,Petersen / White Lightning,2005,10,0.78,USA,1981/07/28,1837,0.74,0.75,0.66,0.71,0.77,0.75,0.70,0.75,0.76,0.75,0.80,0.72,0.76,0.74,0.61,0.08
+Wolf,Henzler,Rolex Sports Car Series,GT2_05,British American Motorsport,2005,11,0.77,DEU,1975/04/05,1832,0.73,0.74,0.66,0.70,0.76,0.74,0.69,0.73,0.75,0.74,0.78,0.71,0.75,0.73,0.61,0.09
+Seth,Neiman,Rolex Sports Car Series,GT2_05,Flying Lizard Motorsports,2005,12,0.77,USA,1954/06/27,1834,0.74,0.74,0.65,0.70,0.76,0.75,0.70,0.74,0.75,0.75,0.80,0.71,0.75,0.74,0.61,0.08
+Jon,Fogarty,Rolex Sports Car Series,GT2_05,Flying Lizard Motorsports,2005,13,0.76,USA,1975/05/25,1833,0.74,0.74,0.65,0.70,0.76,0.75,0.70,0.74,0.75,0.75,0.80,0.71,0.75,0.74,0.61,0.08
+Tim,Sugden,Rolex Sports Car Series,GT2_05,J3 Racing,2005,14,0.76,GBR,1964/04/26,1829,0.73,0.73,0.65,0.69,0.75,0.74,0.69,0.73,0.74,0.74,0.78,0.70,0.74,0.73,0.61,0.09
+Randy,Pobst,Rolex Sports Car Series,GT2_05,Alex Job Racing,2005,15,0.75,USA,1957/06/26,1823,0.72,0.72,0.64,0.68,0.74,0.73,0.68,0.71,0.73,0.73,0.76,0.69,0.73,0.72,0.61,0.10
+Spencer,Pumpelly,Rolex Sports Car Series,GT2_05,ZIP Racing,2005,16,0.75,USA,1974/12/28,1817,0.71,0.70,0.64,0.67,0.73,0.72,0.67,0.69,0.72,0.72,0.73,0.68,0.72,0.71,0.61,0.12
+Tracy,Krohn,Rolex Sports Car Series,GT2_05,The Racers Group,2005,17,0.74,USA,1954/08/26,1815,0.70,0.70,0.63,0.67,0.73,0.71,0.66,0.69,0.72,0.71,0.73,0.68,0.72,0.70,0.61,0.12
+Kevin,Buckler,Rolex Sports Car Series,GT2_05,The Racers Group,2005,18,0.74,USA,1959/02/09,1814,0.70,0.70,0.63,0.66,0.72,0.71,0.66,0.69,0.71,0.71,0.73,0.67,0.71,0.70,0.61,0.12
+Leh,Keen,Rolex Sports Car Series,GT2_05,J3 Racing,2005,19,0.73,USA,1983/07/22,1812,0.70,0.69,0.63,0.66,0.72,0.71,0.66,0.68,0.71,0.71,0.73,0.67,0.71,0.70,0.61,0.12
+Darren,Law,Rolex Sports Car Series,GT2_05,Alex Job Racing,2005,20,0.73,USA,1968/04/04,1815,0.70,0.70,0.62,0.67,0.73,0.71,0.66,0.69,0.72,0.71,0.75,0.68,0.72,0.70,0.61,0.10
+Arnaud,Peyroles,Rolex Sports Car Series,GTR_04,Duller Motorsport,2005,21,0.72,FRA,1970/01/01,1809,0.69,0.69,0.62,0.66,0.72,0.70,0.65,0.68,0.71,0.70,0.73,0.67,0.71,0.69,0.61,0.12
+Hans-Joachim,Stuck,Rolex Sports Car Series,GTR_04,Team Schnitzer,2005,22,0.72,DEU,1949/01/01,1808,0.69,0.68,0.61,0.65,0.71,0.70,0.65,0.68,0.70,0.70,0.73,0.66,0.70,0.69,0.61,0.12
+Boris,Said,Rolex Sports Car Series,GTR_04,Team Schnitzer,2005,23,0.71,USA,1962/09/18,1807,0.69,0.68,0.61,0.65,0.71,0.70,0.65,0.67,0.70,0.70,0.73,0.66,0.70,0.69,0.61,0.12
+Johannes,Scheid,Rolex Sports Car Series,GTR_04,Scuderia Augustusburg BrÃ¼hl,2005,24,0.71,DEU,1970/01/01,1805,0.68,0.68,0.60,0.65,0.71,0.69,0.64,0.67,0.70,0.69,0.73,0.66,0.70,0.68,0.61,0.12
+Matthias,Tischner,Rolex Sports Car Series,GTR_04,Team Michael Tischner,2005,25,0.70,DEU,1970/01/01,1804,0.68,0.67,0.60,0.65,0.71,0.69,0.64,0.67,0.70,0.69,0.73,0.66,0.70,0.68,0.61,0.12
+Joachim,Kiesch,Rolex Sports Car Series,GTR_04,Schirmer Motorsport,2005,26,0.70,DEU,1970/01/01,1802,0.68,0.67,0.60,0.64,0.70,0.69,0.64,0.66,0.69,0.69,0.73,0.65,0.69,0.68,0.61,0.12
+Arno,Klasen,Rolex Sports Car Series,GTR_04,Team Arnd Meyer,2005,27,0.69,DEU,1967/05/03,1801,0.67,0.66,0.59,0.64,0.70,0.68,0.63,0.66,0.69,0.68,0.73,0.65,0.69,0.67,0.61,0.12
+James,Welan,Rolex Sports Car Series,GTR_04,Ring Racing,2005,28,0.69,GBR,1970/01/01,1799,0.67,0.66,0.59,0.64,0.70,0.68,0.63,0.66,0.69,0.68,0.73,0.65,0.69,0.67,0.61,0.12
+Jochen,Berger,Rolex Sports Car Series,GTR_04,Kruse Motorsport,2005,29,0.68,DEU,1970/01/01,1798,0.67,0.66,0.58,0.63,0.69,0.68,0.63,0.66,0.68,0.68,0.73,0.64,0.68,0.67,0.61,0.12
+Nick,Barrow,Rolex Sports Car Series,GTR_04,Moore International Motorsport,2005,30,0.68,GBR,1970/01/01,1797,0.67,0.65,0.58,0.63,0.69,0.68,0.63,0.65,0.68,0.68,0.73,0.64,0.68,0.67,0.61,0.12
+François,Labhardt,Speed World Challenge,GT1_05,De Radigues,2005,1,0.82,CHE,1970/01/01,1827,0.73,0.74,0.70,0.69,0.75,0.74,0.69,0.71,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Philippe,Prette,Speed World Challenge,GT1_05,De Radigues,2005,2,0.81,MCO,1970/01/01,1825,0.72,0.73,0.69,0.69,0.75,0.73,0.68,0.71,0.74,0.73,0.73,0.70,0.74,0.72,0.61,0.12
+Ron,Fellows,Speed World Challenge,GT1_05,Pratt & Miller,2005,3,0.81,CAN,1959/09/28,1835,0.74,0.75,0.69,0.70,0.76,0.75,0.70,0.74,0.75,0.75,0.80,0.71,0.75,0.74,0.61,0.08
+Olivier,Beretta,Speed World Challenge,GT1_05,Pratt & Miller,2005,4,0.80,MCO,1969/11/23,1832,0.74,0.74,0.68,0.70,0.76,0.75,0.70,0.74,0.75,0.75,0.80,0.71,0.75,0.74,0.61,0.08
+Terry,Borcheller,Speed World Challenge,GT1_05,ACEMCO Motorsports,2005,5,0.79,USA,1966/03/22,1830,0.73,0.74,0.67,0.70,0.76,0.74,0.69,0.74,0.75,0.74,0.80,0.71,0.75,0.73,0.61,0.08
+Richard,Virenque,Speed World Challenge,GT1_05,De Radigues,2005,6,0.78,FRA,1969/11/19,1816,0.70,0.71,0.67,0.67,0.73,0.71,0.66,0.69,0.72,0.71,0.73,0.68,0.72,0.70,0.61,0.12
+Bert,Longin,Speed World Challenge,GT1_05,GLPK Carsport,2005,7,0.78,BEL,1965/10/26,1826,0.72,0.73,0.66,0.69,0.75,0.73,0.68,0.73,0.74,0.73,0.80,0.70,0.74,0.72,0.61,0.08
+David,Empringham,Speed World Challenge,GT1_05,Pacific Coast Motorsports,2005,8,0.77,CAN,1965/12/28,1812,0.70,0.70,0.66,0.66,0.72,0.71,0.66,0.68,0.71,0.71,0.73,0.67,0.71,0.70,0.61,0.12
+Eric,Cayrolle,Speed World Challenge,GT1_05,Selleslagh Racing Team,2005,9,0.76,FRA,1962/08/27,1810,0.69,0.69,0.65,0.66,0.72,0.70,0.65,0.68,0.71,0.70,0.73,0.67,0.71,0.69,0.61,0.12
+Mike,Hezemans,Speed World Challenge,GT1_05,GLPK Carsport,2005,10,0.75,NLD,1969/07/25,1819,0.71,0.71,0.64,0.68,0.74,0.72,0.67,0.72,0.73,0.72,0.80,0.69,0.73,0.71,0.61,0.08
+Massimilano,Papis,Speed World Challenge,GT1_05,Pratt & Miller,2005,11,0.75,ITA,1969/10/03,1807,0.69,0.69,0.64,0.65,0.71,0.70,0.65,0.67,0.70,0.70,0.74,0.66,0.70,0.69,0.61,0.11
+Jan,Magnussen,Speed World Challenge,GT1_05,Pratt & Miller,2005,12,0.74,DNK,1985/01/01,1804,0.68,0.68,0.63,0.65,0.71,0.69,0.64,0.67,0.70,0.69,0.74,0.66,0.70,0.68,0.61,0.11
+Jos,Menten,Speed World Challenge,GT1_05,Selleslagh Racing Team,2005,13,0.73,NLD,1981/05/22,1801,0.67,0.67,0.62,0.64,0.70,0.68,0.63,0.66,0.69,0.68,0.73,0.65,0.69,0.67,0.61,0.12
+Marc,Duez,Speed World Challenge,GT1_05,Selleslagh Racing Team,2005,14,0.72,BEL,1957/04/18,1799,0.67,0.67,0.62,0.64,0.70,0.68,0.63,0.66,0.69,0.68,0.73,0.65,0.69,0.67,0.61,0.12
+Maciej,Stanco,Speed World Challenge,GT1_05,RAM Racing Team,2005,15,0.72,POL,1964/09/25,1802,0.68,0.67,0.61,0.64,0.70,0.69,0.64,0.67,0.69,0.69,0.76,0.65,0.69,0.68,0.61,0.10
+Rick,Sutherland,Speed World Challenge,GT1_05,Graham Nash Motorsport,2005,16,0.71,USA,1956/09/15,1794,0.66,0.66,0.61,0.63,0.69,0.67,0.62,0.65,0.68,0.67,0.73,0.64,0.68,0.66,0.61,0.12
+Joel,Camathias,Speed World Challenge,GT1_05,Graham Nash Motorsport,2005,17,0.70,CHE,1981/02/09,1796,0.67,0.66,0.60,0.63,0.69,0.68,0.63,0.66,0.68,0.68,0.75,0.64,0.68,0.67,0.61,0.10
+Adam,Lacko,Speed World Challenge,GT1_05,Konrad Motorsport,2005,18,0.69,CZE,1984/09/24,1793,0.66,0.65,0.59,0.62,0.68,0.67,0.62,0.65,0.67,0.67,0.74,0.63,0.67,0.66,0.61,0.11
+Enea,Casoni,Speed World Challenge,GT1_05,Graham Nash Motorsport,2005,19,0.69,ITA,1968/12/27,1789,0.65,0.64,0.59,0.62,0.68,0.66,0.61,0.64,0.67,0.66,0.74,0.63,0.67,0.65,0.61,0.11
+Ralf,Kelleners,Speed World Challenge,GT1_05,ACEMCO Motorsports,2005,20,0.68,DEU,1968/05/18,1787,0.65,0.64,0.58,0.61,0.67,0.66,0.61,0.64,0.66,0.66,0.74,0.62,0.66,0.65,0.61,0.11
+Hisashi,Wada-Q,Southern Europe GT Championship,GT1_05,JLOC,2005,1,0.82,JPN,1962/06/07,1845,0.76,0.77,0.70,0.73,0.79,0.77,0.72,0.75,0.78,0.77,0.73,0.74,0.78,0.76,0.61,0.12
+Gianni,Morbidelli,Southern Europe GT Championship,GT1_05,Reiter Engineering,2005,2,0.81,ITA,1968/01/13,1844,0.76,0.77,0.70,0.72,0.78,0.77,0.72,0.74,0.77,0.77,0.73,0.73,0.77,0.76,0.61,0.12
+Roman,Rusinov,Southern Europe GT Championship,GT1_05,JMB Racing,2005,3,0.81,RUS,1981/10/21,1847,0.76,0.77,0.69,0.73,0.79,0.77,0.72,0.76,0.78,0.77,0.76,0.74,0.78,0.76,0.61,0.10
+Timo,Scheider,Southern Europe GT Championship,GT1_05,Bartels Motor&Sport,2005,4,0.80,DEU,1978/11/10,1852,0.77,0.78,0.69,0.74,0.80,0.78,0.73,0.78,0.79,0.78,0.80,0.75,0.79,0.77,0.61,0.08
+Gabriele,Gardel,Southern Europe GT Championship,GT1_05,Larbre Compétition,2005,5,0.80,CHE,1977/10/22,1851,0.77,0.78,0.68,0.74,0.80,0.78,0.73,0.78,0.79,0.78,0.80,0.75,0.79,0.77,0.61,0.08
+Nikolaj,Fomenko,Southern Europe GT Championship,GT1_05,Russian Age Racing,2005,6,0.79,RUS,1962/04/30,1849,0.77,0.77,0.68,0.73,0.79,0.78,0.73,0.77,0.78,0.78,0.80,0.74,0.78,0.77,0.61,0.08
+Steve,Zacchia,Southern Europe GT Championship,GT1_05,Larbre Compétition,2005,7,0.79,CHE,1982/08/15,1841,0.75,0.76,0.67,0.72,0.78,0.76,0.71,0.75,0.77,0.76,0.76,0.73,0.77,0.75,0.61,0.10
+Andrea,Montermini,Southern Europe GT Championship,GT1_05,GPC Sport,2005,8,0.78,ITA,1964/05/30,1835,0.74,0.75,0.67,0.71,0.77,0.75,0.70,0.73,0.76,0.75,0.74,0.72,0.76,0.74,0.61,0.11
+Rafal,Janus,Southern Europe GT Championship,GT1_05,RAM Racing Team,2005,9,0.78,POL,1974/02/22,1837,0.74,0.75,0.66,0.71,0.77,0.75,0.70,0.74,0.76,0.75,0.76,0.72,0.76,0.74,0.61,0.10
+Paolo,Ruberti,Southern Europe GT Championship,GT1_05,Konrad Motorsport,2005,10,0.77,ITA,1975/04/22,1834,0.74,0.74,0.66,0.70,0.76,0.75,0.70,0.73,0.75,0.75,0.75,0.71,0.75,0.74,0.61,0.10
+Claude,Terrier,Southern Europe GT Championship,GT2_05,GPC Sport,2005,11,0.76,CHE,1953/08/05,1829,0.73,0.73,0.65,0.69,0.75,0.74,0.69,0.72,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Mauro,Casadei,Southern Europe GT Championship,GT2_05,JMB Racing,2005,12,0.76,ITA,1972/01/01,1827,0.73,0.73,0.65,0.69,0.75,0.74,0.69,0.71,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Jeffrey,Lee,Southern Europe GT Championship,GT2_05,GPC Sport,2005,13,0.75,GBR,1971/02/02,1825,0.72,0.72,0.64,0.69,0.75,0.73,0.68,0.71,0.74,0.73,0.73,0.70,0.74,0.72,0.61,0.12
+Loic,Deman,Southern Europe GT Championship,GT2_05,GPC Sport,2005,14,0.75,BEL,1977/10/19,1824,0.72,0.72,0.64,0.68,0.74,0.73,0.68,0.71,0.73,0.73,0.73,0.69,0.73,0.72,0.61,0.12
+Duncan,Huisman,Southern Europe GT Championship,GT2_05,Spyker Squadron,2005,15,0.74,NLD,1971/11/11,1822,0.72,0.71,0.63,0.68,0.74,0.73,0.68,0.70,0.73,0.73,0.73,0.69,0.73,0.72,0.61,0.12
+Menno,Kuus,Southern Europe GT Championship,GT2_05,Spyker Squadron,2005,16,0.74,NLD,1969/10/05,1821,0.71,0.71,0.63,0.68,0.74,0.72,0.67,0.70,0.73,0.72,0.73,0.69,0.73,0.71,0.61,0.12
+Peter,van Merksteijn,Southern Europe GT Championship,GT2_05,Spyker Squadron,2005,17,0.73,NLD,1956/06/10,1819,0.71,0.71,0.62,0.67,0.73,0.72,0.67,0.70,0.72,0.72,0.73,0.68,0.72,0.71,0.61,0.12
+Gerold,Ried,Southern Europe GT Championship,GT2_05,Proton Competition,2005,18,0.72,DEU,1959/05/04,1829,0.73,0.72,0.62,0.69,0.75,0.74,0.69,0.73,0.74,0.74,0.80,0.70,0.74,0.73,0.61,0.08
+Luigi,Moccia,Southern Europe GT Championship,GT2_05,Ebimotors,2005,19,0.72,ITA,1961/11/16,1825,0.72,0.71,0.61,0.69,0.75,0.73,0.68,0.72,0.74,0.73,0.78,0.70,0.74,0.72,0.61,0.09
+Jamie,Derbyshire,Southern Europe GT Championship,GT2_05,Balfe Motorsport,2005,20,0.71,GBR,1977/09/23,1820,0.71,0.71,0.61,0.68,0.74,0.72,0.67,0.71,0.73,0.72,0.77,0.69,0.73,0.71,0.61,0.10
+Diego,Romanini,Southern Europe GT Championship,Trofeo_2005,Scuderia Giudici,2005,21,0.71,ITA,1978/12/30,1812,0.70,0.69,0.60,0.66,0.72,0.71,0.66,0.68,0.71,0.71,0.73,0.67,0.71,0.70,0.61,0.12
+Gianni,Giudici,Southern Europe GT Championship,Trofeo_2005,Scuderia Giudici,2005,22,0.70,ITA,1946/03/10,1811,0.69,0.68,0.60,0.66,0.72,0.70,0.65,0.68,0.71,0.70,0.73,0.67,0.71,0.69,0.61,0.12
+Raffaele,Raimondi,Southern Europe GT Championship,Trofeo_2005,Scuderia Giudici,2005,23,0.70,ITA,1968/10/31,1809,0.69,0.68,0.59,0.66,0.72,0.70,0.65,0.68,0.71,0.70,0.73,0.67,0.71,0.69,0.61,0.12
+Miroslav,Konopka,Southern Europe GT Championship,Trofeo_2005,ARC Bratislava,2005,24,0.69,GBR,1962/01/21,1812,0.70,0.69,0.59,0.66,0.72,0.71,0.66,0.69,0.71,0.71,0.76,0.67,0.71,0.70,0.61,0.10
+Luca,Moro,Southern Europe GT Championship,Trofeo_2005,Lammertink Racing,2005,25,0.69,ITA,1973/02/27,1811,0.69,0.68,0.58,0.66,0.72,0.70,0.65,0.69,0.71,0.70,0.76,0.67,0.71,0.69,0.61,0.10
+Ben,Collins,Southern Europe GT Championship,Trofeo_2005,Embassy Racing,2005,26,0.68,GBR,1975/02/13,1805,0.68,0.67,0.58,0.65,0.71,0.69,0.64,0.67,0.70,0.69,0.74,0.66,0.70,0.68,0.61,0.11
+Bas,Leinders,Northern Europe GT Championship,GTR_04,Belgian Racing,2005,1,0.82,BEL,1975/07/16,1851,0.77,0.78,0.70,0.74,0.80,0.78,0.73,0.77,0.79,0.78,0.76,0.75,0.79,0.77,0.61,0.10
+Renaud,Kuppens,Northern Europe GT Championship,GTR_04,Belgian Racing,2005,2,0.81,BEL,1967/01/01,1848,0.76,0.78,0.70,0.73,0.79,0.77,0.72,0.76,0.78,0.77,0.75,0.74,0.78,0.76,0.61,0.10
+Jerome,d'Ambrosio,Northern Europe GT Championship,GTR_04,Belgian Racing,2005,3,0.81,BEL,1985/12/27,1842,0.75,0.76,0.69,0.72,0.78,0.76,0.71,0.74,0.77,0.76,0.73,0.73,0.77,0.75,0.61,0.12
+Sylvie,Delcour,Northern Europe GT Championship,GTR_04,Belgian Racing,2005,4,0.80,BEL,1975/11/14,1840,0.75,0.76,0.69,0.72,0.78,0.76,0.71,0.74,0.77,0.76,0.73,0.73,0.77,0.75,0.61,0.12
+Josef,Wenger,Northern Europe GT Championship,GTR_04,DÃ¶rr Motorsport,2005,5,0.80,DEU,1970/01/01,1839,0.75,0.76,0.68,0.71,0.77,0.76,0.71,0.73,0.76,0.76,0.73,0.72,0.76,0.75,0.61,0.12
+Martin,Panther,Northern Europe GT Championship,GTR_04,DÃ¶rr Motorsport,2005,6,0.79,DEU,1970/01/01,1837,0.74,0.75,0.68,0.71,0.77,0.75,0.70,0.73,0.76,0.75,0.73,0.72,0.76,0.74,0.61,0.12
+Jens,Reno Møller,Northern Europe GT Championship,GT1_05,Lister Racing,2005,7,0.79,DNK,1971/01/14,1835,0.74,0.75,0.67,0.71,0.77,0.75,0.70,0.73,0.76,0.75,0.73,0.72,0.76,0.74,0.61,0.12
+Vincent,Vosse,Northern Europe GT Championship,GT1_05,Larbre Compétition,2005,8,0.78,BEL,1972/01/05,1835,0.74,0.75,0.67,0.71,0.77,0.75,0.70,0.73,0.76,0.75,0.74,0.72,0.76,0.74,0.61,0.11
+Jamie,Campell-Walter,Northern Europe GT Championship,GT1_05,Russian Age Racing,2005,9,0.78,GBR,1972/12/16,1832,0.73,0.74,0.66,0.70,0.76,0.74,0.69,0.72,0.75,0.74,0.73,0.71,0.75,0.73,0.61,0.12
+Hubert,Haupt,Northern Europe GT Championship,GT1_05,Wieth Racing,2005,10,0.77,DEU,1960/01/01,1830,0.73,0.74,0.66,0.70,0.76,0.74,0.69,0.72,0.75,0.74,0.73,0.71,0.75,0.73,0.61,0.12
+Stephane,Sarrazin,Northern Europe GT Championship,GT1_05,Prodrive,2005,11,0.76,FRA,1974/11/02,1829,0.73,0.73,0.65,0.69,0.75,0.74,0.69,0.72,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Frederic,Dor,Northern Europe GT Championship,GT1_05,Convers Team,2005,12,0.76,CHE,1970/01/01,1827,0.73,0.73,0.65,0.69,0.75,0.74,0.69,0.71,0.74,0.74,0.73,0.70,0.74,0.73,0.61,0.12
+Antonin,Herbeck,Northern Europe GT Championship,GT1_05,Rock Media Motors,2005,13,0.75,CZE,1970/01/01,1825,0.72,0.72,0.64,0.69,0.75,0.73,0.68,0.71,0.74,0.73,0.73,0.70,0.74,0.72,0.61,0.12
+Jean-Denis,Deletraz,Northern Europe GT Championship,GT1_05,GPC Sport,2005,14,0.75,CHE,1967/01/01,1836,0.74,0.74,0.64,0.71,0.77,0.75,0.70,0.75,0.76,0.75,0.80,0.72,0.76,0.74,0.61,0.08
+Pierre,Perret,Northern Europe GT Championship,GT1_05,Paul Belmondo Racing,2005,15,0.74,FRA,1970/01/01,1825,0.72,0.72,0.63,0.69,0.75,0.73,0.68,0.71,0.74,0.73,0.74,0.70,0.74,0.72,0.61,0.11
+Thomas,Biagi,Northern Europe GT Championship,GT1_05,Bartels Motor&Sport,2005,16,0.74,ITA,1976/05/07,1832,0.73,0.73,0.63,0.70,0.76,0.74,0.69,0.74,0.75,0.74,0.80,0.71,0.75,0.73,0.61,0.08
+Manfred,Jurasz,Northern Europe GT Championship,GT2_05,Renauer Motorsport,2005,17,0.73,AUT,1944/06/04,1820,0.71,0.71,0.62,0.68,0.74,0.72,0.67,0.70,0.73,0.72,0.74,0.69,0.73,0.71,0.61,0.11
+Antonio,de Castro,Northern Europe GT Championship,GT2_05,AB Motorsport,2005,18,0.72,ITA,1950/06/12,1817,0.71,0.70,0.62,0.67,0.73,0.72,0.67,0.69,0.72,0.72,0.73,0.68,0.72,0.71,0.61,0.12
+Daniel,Model,Northern Europe GT Championship,GT2_05,Autorlando Sport,2005,19,0.72,CHE,1970/01/01,1816,0.70,0.70,0.61,0.67,0.73,0.71,0.66,0.69,0.72,0.71,0.73,0.68,0.72,0.70,0.61,0.12
+Matthew,Marsh,Northern Europe GT Championship,GT2_05,Noble Group,2005,20,0.71,GBR,1968/09/24,1814,0.70,0.69,0.61,0.66,0.72,0.71,0.66,0.69,0.71,0.71,0.73,0.67,0.71,0.70,0.61,0.12
+Andrej,Studenic,Northern Europe GT Championship,GT2_05,Machanek Racing,2005,21,0.71,GBR,1977/06/18,1812,0.70,0.69,0.60,0.66,0.72,0.71,0.66,0.68,0.71,0.71,0.73,0.67,0.71,0.70,0.61,0.12
+Istvan,Racz,Northern Europe GT Championship,GT2_05,Machanek Racing,2005,22,0.70,HUN,1980/01/23,1811,0.69,0.68,0.60,0.66,0.72,0.70,0.65,0.68,0.71,0.70,0.73,0.67,0.71,0.69,0.61,0.12
+Richard,Dean,Northern Europe GT Championship,GT2_05,Team LNT,2005,23,0.70,GBR,1965/10/07,1809,0.69,0.68,0.59,0.66,0.72,0.70,0.65,0.68,0.71,0.70,0.73,0.67,0.71,0.69,0.61,0.12
+Ian,Khan,Northern Europe GT Championship,GT2_05,JVG Racing,2005,24,0.69,GBR,1960/05/12,1807,0.69,0.68,0.59,0.65,0.71,0.70,0.65,0.67,0.70,0.70,0.73,0.66,0.70,0.69,0.61,0.12
+David,Jones,Northern Europe GT Championship,GT2_05,Team Eurotech,2005,25,0.69,GBR,1953/03/22,1806,0.68,0.67,0.58,0.65,0.71,0.69,0.64,0.67,0.70,0.69,0.73,0.66,0.70,0.68,0.61,0.12
+Michael,Caine,Northern Europe GT Championship,GT2_05,Team Eurotech,2005,26,0.68,GBR,1970/08/13,1804,0.68,0.67,0.58,0.65,0.71,0.69,0.64,0.67,0.70,0.69,0.73,0.66,0.70,0.68,0.61,0.12

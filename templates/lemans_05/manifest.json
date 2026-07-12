@@ -1,13 +1,20 @@
 {
   "name": "Le Mans '05",
-  "available": false,
+  "available": true,
   "description": "A career set in the mid 2000s, including a mixture of sprint and endurance racing in GTs and Le Mans prototypes.",
-  "authors": ["Blitzer69", "WTG"],
+  "authors": ["Blitzer69", "Javen", "WTG"],
   "hero": "hero.png",
   "championships": "championships.csv",
   "events": "events.csv",
   "tracks": "tracks.csv",
   "teams": "teams.csv",
   "cars": "cars.csv",
-  "drivers": "drivers.csv"
+  "drivers": "drivers.csv",
+  "overrides": {
+    "real_roster": {
+      "cars": "real_cars.csv",
+      "drivers": "real_drivers.csv",
+      "teams": "real_teams.csv"
+    }
+  }
 }
